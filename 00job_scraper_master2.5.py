@@ -8,7 +8,6 @@ scrapers_dir = os.getcwd()
 
 # List of scraper filenames
 scraper_files = [
-    "job_scraper_adbk.py",
     "job_scraper_bahnwaerterthiel.py",
     "job_scraper_bergson.py",
     "job_scraper_buehnenjobs1.2.py",
