@@ -13,15 +13,18 @@ scripts = [
     "JobListUpdateMessage.py"
 ]
 
-# Function to run a script
+# Function to run a script with live output
 def run_script(script_name):
     script_path = os.path.join(current_dir, script_name)
+    print(f"\n🎬 Running {script_name}...\n")
     try:
-        print(f"Running {script_name}...")
-        result = subprocess.run(['python', script_path], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print(f"Output of {script_name}:\n{result.stdout.decode('utf-8', errors='ignore')}")
+        result = subprocess.run(['python', script_path], check=True)
+        print(f"✅ {script_name} completed.\n")
     except subprocess.CalledProcessError as e:
-        print(f"Error occurred while running {script_name}:\n{e.stderr.decode()}")
+        print(f"❌ Error in {script_name}:")
+        print(e)
+        # Optional: Exit the full pipeline on error
+        # raise e
 
 # Run the scripts in sequence with 10-second breaks
 for i, script in enumerate(scripts):
@@ -29,5 +32,5 @@ for i, script in enumerate(scripts):
 
     # Add a 10-second break after each script (except the last one)
     if i < len(scripts) - 1:
-        print("Waiting for 10 seconds before the next script...")
+        print("⏳ Waiting for 10 seconds before the next script...\n")
         time.sleep(10)
