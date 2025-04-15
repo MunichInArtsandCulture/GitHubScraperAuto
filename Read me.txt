@@ -1,0 +1,8 @@
+1. Open Windows terminal 
+Drücke Windows + R, gebe cmd ein und drücke Enter, um die Eingabeaufforderung zu öffnen.
+
+2. Navigiere zum "Documents"-Ordner: Wenn du die Datei aus dem Ordner Documents deines Benutzerverzeichnisses öffnen möchtest, gib folgendes ein und drücke Enter:
+cd Documents
+
+3. Öffne die Datei: Angenommen, die Datei, die du öffnen möchtest, heißt example.txt, dann gib folgendes ein:
+filename 

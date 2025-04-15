@@ -1,0 +1,231 @@
+
+🔍 Teste job_scraper_adbk.py...
+✅ job_scraper_adbk.py liefert Ausgabe:
+Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6753D5335+78597]
+	GetHandleVerifier [0x00007FF6753D5390+78688]
+	(No symbol) [0x00007FF6751891AA]
+	(No symbol) [0x00007FF6751DF149]
+	(No symbol) [0x00007FF6751DF3FC]
+	(No symbol) [0x00007FF675232467]
+	(No symbol) [0x00007FF67520712F]
+	(No symbol) [0x00007FF67522F2BB]
+	(No symbol) [0x00007FF675206EC3]
+	(No symbol) [0x00007FF6751D03F8...
+
+🔍 Teste job_scraper_bahnwaerterthiel.py...
+✅ job_scraper_bahnwaerterthiel.py liefert Ausgabe:
+Job Title: Barkraft (m/w/d)
+Employer: Bahnwärter Thiel
+Link: https://www.bahnwaerterthiel.de/jobs/
+---
+Job Title: Türsteher*in (m/w/d)
+Employer: Bahnwärter Thiel
+Link: https://www.bahnwaerterthiel.de/jobs/
+---
+Job Title: Lichttechniker*in (m/w/d)
+Employer: Bahnwärter Thiel
+Link: https://www.bahnwaerterthiel.de/jobs/
+---
+Job Title: Veranstaltungstechniker*in (m/w/d)
+Employer: Bahnwärter Thiel
+Link:...
+
+🔍 Teste job_scraper_bergson.py...
+✅ job_scraper_bergson.py liefert Ausgabe:
+Job Title: Minijobber:innen / Aushilfen als Mitarbeiter:innen Außenanlagenpflege (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/minijobber-innen-aushilfen-als-mitarbeiter-innen-aussenanlagenpflege-m-w-d
+---
+Job Title: Sous Chef:in für Bankett und Inhouse Eventcatering (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/sous-chef-in-fuer-bankett-und-inhouse-eventcatering-m-w-d
+---
+Jo...
+
+🔍 Teste job_scraper_buehnenjobs1.2.py...
+✅ job_scraper_buehnenjobs1.2.py liefert Ausgabe:
+Job Title: Klima- und Heizungstechniker:in (Anlagenmechaniker:in) (m/w/d)
+Institution: Bayerische Staatsoper
+Link: https://buehnenjobs.de/?detail=40442#job-detail
+---
+Job Title: Mitarbeiter (m/w/d) für die Gebäude- und Anlagentechnik
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=41713#job-detail
+---
+Job Title: 2.Tenor (50%)
+Institution: Bayerische Staatsoper
+Link: ...
+
+🔍 Teste job_scraper_feierwerk.py...
+✅ job_scraper_feierwerk.py liefert Ausgabe:
+Job Title: Mitarbeiter*in (w/m/d) mit Schwerpunkt auf dem Projekt "MUNICH MUSIC BOOSTER" in der Feierwerk Fachstelle Pop
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-m/w/d-fuer-die-fachstelle-pop-mmb
+---
+Job Title: Sozialpädagogin/pädagoge (w/m/d) als Leitung unserer neuen Jugendfreizeitstätte in Sendling-Westpark
+Employer: Feierwerk
+Link: https://www.feierwerk.d...
+
+🔍 Teste job_scraper_gaertnerplatztheater1.2.py...
+✅ job_scraper_gaertnerplatztheater1.2.py liefert Ausgabe:
+Job Title: Maskenbildner (m/w/d) als Elternzeitvertretung
+Employer: Gärtnerplatztheater
+Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
+---
+Job Title: Sänger (M) Stimmlage Tenor 2
+Employer: Gärtnerplatztheater
+Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
+---
+Job Title: Kaufmännischer Mitarbeiter (m/w/d) als Assistenz der Kostümdirektion
+Employer: Gärtnerplatztheater
+...
+
+🔍 Teste job_scraper_glockenbachwerkstatt.py...
+✅ job_scraper_glockenbachwerkstatt.py liefert Ausgabe:
+Job Title: Mitarbeiter*innen, m/w/d – pädagogische Hilfskräfte
+Employer: Glockenbachwerkstatt
+Link: https://www.glockenbachwerkstatt.de/ueber-uns/jobs/online-bewerbung/?stelle=Hilfskraft Mittagsbetreuung 
+---
+
+🔍 Teste job_scraper_HDK1.6.py...
+⚠️  job_scraper_HDK1.6.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_kultweet1.3.py...
+✅ job_scraper_kultweet1.3.py liefert Ausgabe:
+Job Title: wiss. Mitarbeiter/ in mit kulturwissenschaftlichem Hintergrund zur Unterstützung des Projekts „Digitale Briefausgabe Ernst Kantorowicz“  | München
+Employer: Monumenta Germaniae Historica (KdöR)
+Link: https://mgh.de/de/blog/post/stellenangebot-wiss-mitarb-25-27
+---
+Job Title: Projektleitung und Digitalkurator/ in (m/ w/ d) | München
+Employer: Deutsches Theatermuseum Museum
+Link: https://...
+
+🔍 Teste job_scraper_kunsthalle-muc.py...
+✅ job_scraper_kunsthalle-muc.py liefert Ausgabe:
+Job Title: Wissenschaftliche:r Volontär:inMitarbeit an der inhaltlichen und visuellen AusstellungskonzeptionWissenschaftliche RecherchenMitarbeit bei der Katalogredaktion (u.a. Bildredaktion, Korrektorat)Mitarbeit bei der Erstellung des AudioguidesVerfassen und Redigieren von Raum- und ObjekttextenArbeit mit der Ausstellungssoftware cura3DMitarbeit an einem kulturell und sozial inklusiven Begleitp...
+
+🔍 Teste job_scraper_museum-brandhorst.py...
+✅ job_scraper_museum-brandhorst.py liefert Ausgabe:
+Error occurred: Message:
+
+🔍 Teste job_scraper_museum-fuenf-kontinente.py...
+✅ job_scraper_museum-fuenf-kontinente.py liefert Ausgabe:
+Error occurred: Message:
+
+🔍 Teste job_scraper_pasinger-fabrik1.2.py...
+✅ job_scraper_pasinger-fabrik1.2.py liefert Ausgabe:
+Job Title: LEITUNG VERANSTALTUNGSTECHNIK
+Employer: Pasinger Fabrik
+Link: https://pasinger-fabrik.de/die-fabrik/stellenausschreibungen/
+---
+
+🔍 Teste job_scraper_philharmoniker.py...
+✅ job_scraper_philharmoniker.py liefert Ausgabe:
+Job Title: Konzertmeister*in der 1. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
+---
+Job Title: STELLV. Konzertmeister*in der 1. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
+---
+Job Title: Stimmführer*in der 2. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-st...
+
+🔍 Teste job_scraper_pinakothek.py...
+✅ job_scraper_pinakothek.py liefert Ausgabe:
+Job Title: Zwei Mitarbeitende für die Museums- und Ausstellungstechnik (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Museumsaufseher/in (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Oberaufseher/in für den Veranstaltungsdienst (m/w/d)
+Employer: --not deter...
+
+🔍 Teste job_scraper_residenztheater1.2.py...
+✅ job_scraper_residenztheater1.2.py liefert Ausgabe:
+Job Title: Mitarbeiter/in (m/w/d)für die Gebäude- und Anlagentechnik in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Personalsachbearbeiter (m/w/d)mit Schwerpunkt Gehaltsabrechnung
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Einlassdienst
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job...
+
+🔍 Teste job_scraper_staatsoper_buehne.py...
+⚠️  job_scraper_staatsoper_buehne.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_staatsoper_buero.py...
+⚠️  job_scraper_staatsoper_buero.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_staatsoper_praktika-ausbildung.py...
+⚠️  job_scraper_staatsoper_praktika-ausbildung.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_theaterakademie-august-everding.py...
+⚠️  job_scraper_theaterakademie-august-everding.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_theater-hochx1.2.py...
+✅ job_scraper_theater-hochx1.2.py liefert Ausgabe:
+Job Title: Assistenz Presse- & Öffentlichkeitsarbeitbeim FestivalFreischwimmen meets Rodeo
+Employer: HochX Theater
+Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf
+---
+
+🔍 Teste job_scraper_tollwood_jobs.py...
+⚠️  job_scraper_tollwood_jobs.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_tollwood_praktikum.py...
+⚠️  job_scraper_tollwood_praktikum.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_unterfahrts.py...
+✅ job_scraper_unterfahrts.py liefert Ausgabe:
+Job Title: Der Jazzclub Unterfahrt sucht zur Verstärkung seines Teams Mitarbeiter*innen
+Employer: Jazzclub Unterfahrt
+Link: https://www.unterfahrt.de/info.php?action=jobs
+---
+
+🔍 Teste job_scraper_wow.py...
+⚠️  job_scraper_wow.py hat **keine Ausgabe geliefert**.
+
+🔍 Teste job_scraper_arbeitsagentur_teil3.py...
+✅ job_scraper_arbeitsagentur_teil3.py liefert Ausgabe:
+Job Title: (Senior) Eventmanager (m/w/d) Allianz Arena München
+Employer: DO & CO Deutschland Holding
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
+---
+Job Title: Junior Eventmanager (w/m/d) Messe Riem, München, Vollzeit
+Employer: Käfer AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PW2OPB-UD2-S
+---
+Job Title: Eventmanager (w/m/d) Messe Riem, Mü...
+
+🔍 Teste job_scraper_muenchen.de1.2.py...
+✅ job_scraper_muenchen.de1.2.py liefert Ausgabe:
+Job Title: Mitarbeiter*in im Bereich Öffentlichkeitsarbeit mit Schwerpunkt digitales Marketing (w/m/d)
+Employer: Münchner Kammerspiele
+Link: https://karriere.muenchen.de/job/Falckenbergstr_-2%2C-80539-M%C3%BCnch-Mitarbeiterin-im-Bereich-%C3%96ffentlichkeitsarbeit-mit-Schwerpunkt-digitales-Marketing-%28wmd%29-Falckenber/1186847001/
+
+---
+
+🔍 Teste job_scraper_blitz.py...
+✅ job_scraper_blitz.py liefert Ausgabe:
+Job Title: Runner
+Employer: BLITZ Club
+Link: https://www.blitz.club/jobs/
+---
+Job Title: Garderobe
+Employer: BLITZ Club
+Link: https://www.blitz.club/jobs/
+---
