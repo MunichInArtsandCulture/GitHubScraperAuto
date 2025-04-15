@@ -35,4 +35,40 @@ for line in lines:
             block_text = "\n".join(current_block)
             if not re.match(r"job_scraper_\w+\.py", block_text):
                 job_title = re.search(r"Job Title: (.+)", block_text)
-                employer = re.search(r"Employer: (.+)", block
+                employer = re.search(r"Employer: (.+)", block_text)
+                job_link = re.search(r"(Link|Job Link): (.+)", block_text)
+
+                if job_title and employer and job_link:
+                    title = job_title.group(1)
+                    employer_name = employer.group(1)
+                    link = job_link.group(2)
+
+                    category_examples = "\n".join([f"- {cat}: {', '.join(examples)}" for cat, examples in categories_with_examples.items()])
+
+                    try:
+                        response = openai.ChatCompletion.create(
+                            model="gpt-3.5-turbo",
+                            messages=[
+                                {"role": "system", "content": "You are an expert in job categorization. Your task is to provide only the name of the category for a given job title and employer. No explanations or additional text. Just the category name."},
+                                {"role": "user", "content": f"Categorize this job into one of the following categories with examples:\n\n{category_examples}\n\nJob Title: {title}\nEmployer: {employer_name}"}
+                            ]
+                        )
+                        best_category = response.choices[0].message["content"].strip()
+                        best_category = best_category.replace('"', '').replace("'", "").strip()
+
+                        formatted_job = f"[{best_category}]\nJob Title: {title}\nEmployer: {employer_name}\nLink: {link}"
+                        processed_jobs.append(formatted_job)
+
+                    except Exception as e:
+                        print(f"❌ GPT Error for job '{title}': {e}")
+
+        current_block = []
+        inside_block = True
+    elif inside_block:
+        current_block.append(line)
+
+# Speichern in Datei
+with open("categorized_jobs.txt", "w", encoding="utf-8") as output_file:
+    output_file.write("\n---\n".join(processed_jobs))
+
+print("✅ Die Jobs wurden erfolgreich mit GPT-3.5 Turbo kategorisiert und in 'categorized_jobs.txt' gespeichert!")
