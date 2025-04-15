@@ -278,38 +278,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
-Job Title: Maskenbildner (m/w/d) als Elternzeitvertretung
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Sänger (M) Stimmlage Tenor 2
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Kaufmännischer Mitarbeiter (m/w/d) als Assistenz der Kostümdirektion
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Orchesterstellen
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Mitarbeiter für den Einlassdienst (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Aushilfen für die Theatergastronomie
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Personal für die Theaterkantine
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=46741): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
