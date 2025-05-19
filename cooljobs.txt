@@ -2,10 +2,6 @@
 --- 
 job_scraper_bahnwaerterthiel.py 
 ---
-Job Title: Barkraft (m/w/d)
-Employer: Bahnwärter Thiel
-Link: https://www.bahnwaerterthiel.de/jobs/
----
 Job Title: Runner (m/w/d)
 Employer: Bahnwärter Thiel
 Link: https://www.bahnwaerterthiel.de/jobs/
@@ -82,6 +78,10 @@ Job Title: Projektleiter:in Veranstaltungstechnik (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/projektleiter-in-veranstaltungstechnik-m-w-d
 ---
+Job Title: Convention & Event Operations Coordinator (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/convention-event-operations-coordinator-m-w-d
+---
 Job Title: Werkstudent:innen und als Stagehands / Eventhands / Runner / Mitarbeiter:innen Setup-Crew (m/w/d) für unsere inhouse Konzerte, Bühnenshows, Events und Ausstellungen
 Employer: Bergson
 Link: https://bergson.com/jobs/werkstudent-innen-und-minijobber-innen-als-stagehands-eventhands-runner-mitarbeiter-innen-setup-crew-m-w-d-fuer-unsere-inhouse-konzerte-buehnenshows-events-und-ausstellungen
@@ -114,13 +114,13 @@ Job Title: Klima- und Heizungstechniker:in (Anlagenmechaniker:in) (m/w/d)
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=40442#job-detail
 ---
+Job Title: Mitarbeiter (m/w/d) für die Gebäude- und Anlagentechnik
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=41713#job-detail
+---
 Job Title: Meisterin / Meister für Veranstaltungstechnik (m/w/d)
 Institution: Bayerisches Staatsschauspiel
 Link: https://buehnenjobs.de/?detail=42297#job-detail
----
-Job Title: 2.Tenor (50%)
-Institution: Bayerische Staatsoper
-Link: https://buehnenjobs.de/?detail=42799#job-detail
 ---
 Job Title: Praktikum im Pressebüro
 Institution: Bayerische Staatsoper
@@ -130,13 +130,9 @@ Job Title: Praktikum im Bereich Marketing und Besucher:innenkommunikation
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=43150#job-detail
 ---
-Job Title: 2. Alt (100 %)
-Institution: Bayerische Staatsoper
-Link: https://buehnenjobs.de/?detail=43258#job-detail
----
-Job Title: 1. Tenor (100%)
-Institution: Bayerische Staatsoper
-Link: https://buehnenjobs.de/?detail=43514#job-detail
+Job Title: Regieassistenz (m/w/d)
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=43346#job-detail
 ---
 Job Title: Maskenbildner (m/w/d) als Elternzeitvertretung
 Institution: Staatstheater am Gärtnerplatz
@@ -150,17 +146,9 @@ Job Title: Raumausstatter:in (m/w/d)
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=44095#job-detail
 ---
-Job Title: Herrenschneider*in (m/w/d)
-Institution: Münchner Volkstheater
-Link: https://buehnenjobs.de/?detail=44224#job-detail
----
 Job Title: Praktikant:in (m/w/d) in der Ausstattungsabteilung
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=44250#job-detail
----
-Job Title: Assistenz (m/w/d) im Bereich Community / Kind & Co
-Institution: Bayerische Staatsoper
-Link: https://buehnenjobs.de/?detail=44261#job-detail
 ---
 Job Title: (Betriebs)elektriker:in (m/w/d)
 Institution: Bayerische Staatsoper
@@ -173,10 +161,6 @@ Link: https://buehnenjobs.de/?detail=44376#job-detail
 Job Title: Maskenbildner*in (m/w/d) zur Aushilfe im Abenddienst
 Institution: Münchner Volkstheater
 Link: https://buehnenjobs.de/?detail=44438#job-detail
----
-Job Title: Aushilfen Bühnentechnik (m/w/d) in Teilzeit
-Institution: Bayerisches Staatsschauspiel
-Link: https://buehnenjobs.de/?detail=44444#job-detail
 ---
 Job Title: Maskenbildner:innen (m/w/d)
 Institution: Bayerische Staatsoper
@@ -206,6 +190,26 @@ Job Title: Dramaturg*in (w/m/d)
 Institution: Münchner Kammerspiele
 Link: https://buehnenjobs.de/?detail=44602#job-detail
 ---
+Job Title: Personalsachbearbeiter:in (m/w/d) inkl. Gehaltsabrechnung
+Institution: Bayerische Staatsoper
+Link: https://buehnenjobs.de/?detail=44641#job-detail
+---
+Job Title: Mitarbeiter/in im Künstlerischen Betriebsbüro (m/w/d)
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=44669#job-detail
+---
+Job Title: Regiepraktikum
+Institution: Staatstheater am Gärtnerplatz
+Link: https://buehnenjobs.de/?detail=44673#job-detail
+---
+Job Title: Veranstaltungstechniker*in Schwerpunkt Tontechnik im Werkraum (w/m/d)
+Institution: Münchner Kammerspiele
+Link: https://buehnenjobs.de/?detail=44694#job-detail
+---
+Job Title: 2. Sopran (100%)
+Institution: Bayerische Staatsoper
+Link: https://buehnenjobs.de/?detail=44715#job-detail
+---
 
 --- 
 job_scraper_feierwerk.py 
@@ -230,17 +234,9 @@ Job Title: Sozialpädagog*in / Kulturpädagog*in (w/m/d) im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogin/kulturpaedagogin-tatz
 ---
-Job Title: Mitarbeiter*in (w/m/d) Budgetierung/Controlling
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-m/w/d-budgetierung/controlling
----
 Job Title: Produktionsleitung (w/m/d) für unsere Locations in der Hansastraße (Schwerpunkt: Partys)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
----
-Job Title: Mitarbeiter*in (w/m/d) für die pädagogische Betreuung der Kreativangebote im Feierwerk Dschungelpalast
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-dschungelpalast
 ---
 Job Title: Pädagogische Hilfskraft Medienpädagogik (w/m/d) in der Feierwerk Funkstation
 Employer: Feierwerk
@@ -290,34 +286,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
-Job Title: Maskenbildner (m/w/d) als Elternzeitvertretung
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Sänger (M) Stimmlage Tenor 2
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Orchesterstellen
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Mitarbeiter für den Einlassdienst (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Aushilfen für die Theatergastronomie
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Personal für die Theaterkantine
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=47485): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -338,17 +307,13 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volontariat
 --- 
 job_scraper_kultweet1.3.py 
 ---
-Job Title: wissensch. Mitarbeiter/ in (m/ w/ d), 50% | München
-Employer: Museum Fünf Kontinente | Staatliche Museen in Bayern
-Link: https://interamt.de/koop/app/stelle?id=1298934
+Job Title: Wiss. Mitarb. für Redaktionstätigkeit (m/ w/ d) | München
+Employer: Bayerischer Landesverein für Heimatpflege e.V.
+Link: https://interamt.de/koop/app/stelle?id=1306900
 ---
 Job Title: Gallery Manager (m/ w/ d) | München
 Employer: Galerie Deborah Schamoni
 Link: https://bvdg.de/sites/default/files/Gallery%20Manager%202025.pdf
----
-Job Title: Zirkus- oder Kulturpädagog*in (m/ w/ d) als künstlerische Projektleitung für seine Zirkusprojekte 19,5 Std. /  Woche | München
-Employer: CultureClouds e.V.
-Link: https://www.kultweet.de/jobs/CultureClouds-Projektleitung.pdf
 ---
 Job Title: wiss. Mitarbeiter/ in mit kulturwissenschaftlichem Hintergrund zur Unterstützung des Projekts „Digitale Briefausgabe Ernst Kantorowicz“  | München
 Employer: Monumenta Germaniae Historica (KdöR)
@@ -380,14 +345,8 @@ Error occurred: Message:
 --- 
 job_scraper_museum-fuenf-kontinente.py 
 ---
-Job Title: eine/n Mitarbeiter/in (m/w/d) für die Verwaltung
-Employer: Museum Fünf Kontinente
-Link: https://www.museum-fuenf-kontinente.de/museum/stellenangebote/verwaltungsmitarbeiter/
----
-Job Title: eine/n wissensch. Mitarbeiter/in (m/w/d)
-Employer: Museum Fünf Kontinente
-Link: https://www.museum-fuenf-kontinente.de/museum/stellenangebote/wissensch.-mitarbeiter/in/
----
+Error occurred: Message: 
+
 
 --- 
 job_scraper_pasinger-fabrik1.2.py 
@@ -464,11 +423,19 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
-Job Title: Meister*in für Veranstaltungstechnik (m/w/d)
+Job Title: Mitarbeiter*in im Künstlerischen Betriebsbüro(m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-Job Title: Aushilfen Bühnentechnik (m/w/d)in Teilzeit
+Job Title: Regieassistenz (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Mitarbeiter/in (m/w/d)für die Gebäude- und Anlagentechnik in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -528,13 +495,73 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Event Manager (m/w/d)
+Employer: Piening GmbH (Bielefeld)
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0110582_JB4770852-S
+---
+Job Title: Eventmanager (w/m/d) Messe Riem, München, Vollzeit
+Employer: Käfer AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-49QA80-E86-S
+---
+Job Title: Junior Eventmanager (w/m/d) Messe Riem, München, Vollzeit
+Employer: Käfer AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PW2OPB-DHH-S
+---
 Job Title: Eventmanager (w/m/d) im Käfer Party Service, Darmstadt
 Employer: Käfer AG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-TY4LVS-08W-S
 ---
+Job Title: Events Operations Manager (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-D06N9I-5H8-S
+---
+Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-Y27-S
+---
+Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-I01-S
+---
+Job Title: Veranstaltungstechniker (m/w/d)
+Employer: GOP Varieté München GmbH & Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-721-S
+---
+Job Title: Hostess (m/w/d) in München
+Employer: L'Osteria
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-W5FN1Z-XHU-S
+---
+Job Title: Technical Director (m/w/d) Business Development
+Employer: CHECK24
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4226023402-S
+---
+Job Title: Host / Hostess (d/w/m)
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-413c4783aeb249d-S
+---
+Job Title: Supervisor Sendetechnik (m/w/d)
+Employer: ProSiebenSat.1 Media SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-43377842-512-S
+---
+Job Title: Sendetechniker (m/w/d)
+Employer: ProSiebenSat.1 Media SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-43377801-512-S
+---
+Job Title: Assistenz Produktionsplanung (m/w/d)
+Employer: ProSiebenSat.1 Media SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-43377770-512-S
+---
+Job Title: Veranstaltungstechniker für Medientechnik (m/w/d)
+Employer: GMS Global Media Services GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001414636-S
+---
 Job Title: Junior Editor Barrierefreiheit (m/w/d)
 Employer: ProSiebenSat.1 Media SE
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-43372998-59-S
+---
+Job Title: Veranstaltungstechniker (m/w/d) Luftfahrt
+Employer: Hito High Professionals GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4224395493-S
 ---
 Job Title: Studentenjob [gn] ab 16 EUR / Std. - Event, Messe, Hotel 
 Employer: BEMOVA GmbH
@@ -564,69 +591,9 @@ Job Title: Stagehand / Helfer München für Event, Konzert, Lager, Messe  - Mini
 Employer: artlogic GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2608230004-S
 ---
-Job Title: Event Manager (m/w/d)
-Employer: Piening GmbH (Bielefeld)
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0110582_JB4733559-S
----
-Job Title: Veranstaltungstechniker (m/w/d) Luftfahrt
-Employer: Hito High Professionals GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4224395493-S
----
 Job Title: Tuba für das Bundespolizeiorchester München
 Employer: Bundespolizeipräsidium
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202445706-S
----
-Job Title: Dramaturg*in (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001404240-S
----
-Job Title: Kontrabasstuba mit Verpflichtung zur F-Tuba (m/w/d) für das Polizeiorchester Bayern
-Employer: I. Bereitschaftspolizeiabteilu ng München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202429543-S
----
-Job Title: Veranstaltungstechniker (m/w/d)
-Employer: STRATO Personal GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4223220510-S
----
-Job Title: Global Event Executive (m/w/d)
-Employer: Freshfields
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-71197-S
----
-Job Title: Mitarbeiter:in (m/w/d) für die Abteilung Beleuchtung
-Employer: Bayerische Staatsoper Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001398141-S
----
-Job Title: Referent/in (m/w/d) Veranstaltungs- und Social-Media-Management
-Employer: BFW Landesverband Bayern e.V.
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001394622-S
----
-Job Title: Junior Museum Communicator (w/m/d) in Teilzeit (20% - 30%) - 2523
-Employer: Deutsches Museum Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001394023-S
----
-Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
-Employer: MHP Hotel AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-cc9aa84804ad4aa-S
----
-Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-I01-S
----
-Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-Y27-S
----
-Job Title: Veranstaltungstechniker (m/w/d)
-Employer: GOP Varieté München GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-721-S
----
-Job Title: Eventmanager (w/m/d) Messe Riem, München, Vollzeit
-Employer: Käfer AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-49QA80-UVB-S
----
-Job Title: Junior Eventmanager (w/m/d) Messe Riem, München, Vollzeit
-Employer: Käfer AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PW2OPB-UD2-S
 ---
 
 --- 
