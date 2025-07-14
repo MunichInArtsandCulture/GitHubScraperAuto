@@ -74,6 +74,10 @@ Job Title: Klima- und Heizungstechniker:in (Anlagenmechaniker:in) (m/w/d)
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=40442#job-detail
 ---
+Job Title: Praktikum in der Kostümabteilung (m/w/d)
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=41331#job-detail
+---
 Job Title: Mitarbeiter (m/w/d) für die Gebäude- und Anlagentechnik
 Institution: Bayerisches Staatsschauspiel
 Link: https://buehnenjobs.de/?detail=41713#job-detail
@@ -85,10 +89,6 @@ Link: https://buehnenjobs.de/?detail=44375#job-detail
 Job Title: Maskenbildner:innen (m/w/d)
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=44450#job-detail
----
-Job Title: Sachbearbeiter/-in für Lohn- u. Gehaltsabrechnung (m/w/d)
-Institution: theaterakademie august everding
-Link: https://buehnenjobs.de/?detail=44961#job-detail
 ---
 Job Title: Bühnentechniker:in (m/w/d)
 Institution: Bayerische Staatsoper
@@ -114,7 +114,7 @@ Job Title: Assistenz (m/w/d) der Maskenabteilung
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=45143#job-detail
 ---
-Job Title: Kostümmaler:in/ Mitarbeiter:in (m/w/d) Kunst
+Job Title: Kostümmaler:in/ Färber:in (m/w/d)
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=45144#job-detail
 ---
@@ -125,6 +125,10 @@ Link: https://buehnenjobs.de/?detail=45174#job-detail
 Job Title: Assistenz (m/w/d) für die Intendanz
 Institution: Bayerische Staatsoper
 Link: https://buehnenjobs.de/?detail=45202#job-detail
+---
+Job Title: Bühnenbildassistent (m/w/d)
+Institution: Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/?detail=45214#job-detail
 ---
 
 --- 
@@ -146,14 +150,6 @@ Job Title: Sozialpädagog*in / Kulturpädagog*in (w/m/d) im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogin/kulturpaedagogin-tatz
 ---
-Job Title: Werkstudent*in (w/m/d) für die Feierwerk Fachstelle Pop
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/werkstudentin-w/m/d-in-der-feierwerk-fachstelle-pop
----
-Job Title: Produktionsleitung (w/m/d) für unsere Locations in der Hansastraße (Schwerpunkt: Partys)
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
----
 Job Title: Pädagogische Hilfskraft Medienpädagogik (w/m/d) in der Feierwerk Funkstation
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-hilfskraft-medienpaedagogik-funkstation
@@ -174,13 +170,13 @@ Job Title: Medienpädagogisches/journalistisches Volontariat bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/volontariat-radio-feierwerk
 ---
-Job Title: Ausbildung zur/zum Kauffrau/-mann für Büromanagement
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/ausbildungsplatz-kauffrau/kaufmann-fuer-bueromanagement
----
 Job Title: Bundesfreiwilligendienst beim mobilen Vorlaufprojekt Feierwerk Boom (Freiham)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/bundesfreiwilligendienst-boom
+---
+Job Title: Bundesfreiwilligendienst bei Feierwerk Trafixx (Obersendling)
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/bundesfreiwilligendienst-trafixx
 ---
 Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
@@ -198,42 +194,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/
 --- 
 job_scraper_gaertnerplatztheater1.2.py 
 ---
-Job Title: Maskenbildner (m/W/D) als Elternzeitvertretung
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Mitarbeiter (M/W/D) für den zentralen Verkauf und das Abobüro
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Ankleider (m/w/d) im bereich Damen Solo
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Herrenschneider (M/w/D)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Praktikant (m/w/d) in der Abteilung Presse- und Öffentlichkeitsarbeit/Marketing
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Orchesterstellen
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Mitarbeiter für den Einlassdienst (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Aushilfen für die Theatergastronomie
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
-Job Title: Personal für die Theaterkantine
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html
----
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -246,20 +206,24 @@ Link: https://www.glockenbachwerkstatt.de/ueber-uns/jobs/online-bewerbung/?stell
 --- 
 job_scraper_HDK1.6.py 
 ---
-Job Title: Membership Manager*in (w/m/d)
+Job Title: Mitarbeiter*innen Ausstellungssicherheit (m/w/d)
 Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/membership-manager-in-w-m-d
----
-Job Title: Marketing- und CRM-Manager*in  (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/marketing-und-crm-manager-in-w-m-d
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/mitarbeiter-innen-ausstellungssicherheit-m-w-d
 ---
 
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Mitarbeiter/ -in (m/ w/ d) im Referat Provenienzforschung, Vollzeit | München
+Employer: Staatliche Museumagentur
+Link: https://interamt.de/koop/app/stelle?id=1329826
+---
+Job Title: Volontariat in der Konservierung /  Restaurierung im Fachbereich „Gemälde/ Skulptur“ | München
+Employer: Bayerisches Landesamt für Denkmalpflege (LFD)
+Link: https://interamt.de/koop/app/stelle?id=1325850
+---
 Job Title: Volontär*in (m/ w/ d) im Bereich Kultur mit Schwerpunkt Film, Bildende Kunst und digitale Kulturformate | München
-Employer: Neu Goethe-Institut e.V.
+Employer: Goethe-Institut e.V.
 Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=1504
 ---
 Job Title: Projektkoordination (w/ m/ d) für das Musikvermittlungsprogramm "BRSO und du" | München
@@ -269,18 +233,6 @@ Link: https://jobs.br.de/Vacancies/684/Description/1
 Job Title: Restaurator/ in (m/ w/ d) | München
 Employer: Staatliche Antikensammlungen und Glyptothek
 Link: https://interamt.de/koop/app/stelle?id=1326819
----
-Job Title: Gallery Manager (m/ w/ d) | München
-Employer: Galerie Deborah Schamoni
-Link: https://bvdg.de/sites/default/files/Gallery%20Manager_07%2025.pdf
----
-Job Title: Membership Manager*in (w/ m/ d) | München
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/membership-manager-in-w-m-d
----
-Job Title: Marketing- und CRM-Manager*in  (w/ m/ d) | München
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/marketing-und-crm-manager-in-w-m-d
 ---
 Job Title: Social-Media- und Web-Manager/ in (m/ w/ d) | München
 Employer: Bayerische Akademie der Wissenschaften
@@ -364,7 +316,19 @@ Link: https://www.mphil.de/ueber-uns/offene-stellen
 --- 
 job_scraper_pinakothek.py 
 ---
-Job Title: Leitenden Betriebsrechniker (m/w/d)
+Job Title: Leitende Betriebstechnikerin / Leitender Betriebstechniker Alte Pinakothek (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: bis spätestens 08.08.2025
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Interamt
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Leitende Betriebstechnikerin / Leitender Betriebstechniker Neue Pinakothek (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
@@ -400,6 +364,10 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Bühnenbildassistenz (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Betriebsingenieur Theater- und Zukunftstechnik(m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -408,15 +376,19 @@ Job Title: Mitarbeiter (m/w/d)für die Gebäude- und Anlagentechnik in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-Job Title: Mitarbeiter*in (m/w/d)für den zentralen Kartenverkauf und das Abobüro
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
 Job Title: Einlassdienst
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-Job Title: Praktikumsplatz in der Abteilung Regie
+Job Title: Praktikumsplatzin der Kostümabteilung
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Praktikumsplatzin der Abteilung Kommunikation und Marketing
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Praktikumsplatzin der Abteilung Regie
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -468,6 +440,50 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: mgm technology partners GmbH: Office Manager in Elternzeitvertretung befristet auf 1 Jahr (m/w/d) mi
+Employer: mgm technology partners GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2814761751148001-S
+---
+Job Title: Mitarbeiter/-in (m/w/d)
+Employer: Zentrale Dienste der staatlich en Museen und Sammlungen
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001581548-S
+---
+Job Title: Veranstaltungstechniker m/w/d
+Employer: Younivers GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13342662-S
+---
+Job Title: Fachkraft für Veranstaltungstechnik- m/w/d - Nürnberg
+Employer: artlogic GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2504150001-S
+---
+Job Title: Technischer Assistent Veranstaltungstechnik München (m/w/d) – mit Erfahrung
+Employer: artlogic GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2108190009-S
+---
+Job Title: Stagehand / Helfer München (m/w/d) für Event, Konzert, Lager, Messe - Saisonal (70 Tage im Jahr)
+Employer: artlogic GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2608230012-S
+---
+Job Title: Stagehand / Helfer München (m/w/d) für Event, Konzert, Lager, Messe in Teilzeit
+Employer: artlogic GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-JOBDE00020-S
+---
+Job Title: Stagehand / Helfer München für Event, Konzert, Lager, Messe  - Mini-Job (538€ Basis)  - m/w/d
+Employer: artlogic GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2608230004-S
+---
+Job Title: Mitarbeiter [gn] Hotel / Event / Restaurant für Profis und Quereinsteiger
+Employer: BEMOVA GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15303-WCN3CUOZYD75BPBP-S
+---
+Job Title: Event- & Projektmanager (m/w/d) Kongresse und Seminare
+Employer: carpediem Personalberatung GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001568899-S
+---
+Job Title: Bühnenbildassistent (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001567732-S
+---
 Job Title: Junior Event Manager (m/w/d)
 Employer: Radio Arabella Studiobetriebsgesellschaft mbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15517274-STA-S
@@ -492,14 +508,6 @@ Job Title: Host im GRETA OTO Munich (d/w/m) Teilzeit oder Werkstudent
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-b2819d351209409-S
 ---
-Job Title: Hostess (m/w/d)
-Employer: L'Osteria
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-7ZAXHZ-39P-S
----
-Job Title: Event- & Projektmanager (m/w/d) Kongresse und Seminare
-Employer: carpediem Personalberatung GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001556429-S
----
 Job Title: Assistant Director of Reservation & Event Sales (all genders), Steigenberger Hotel München
 Employer: Steigenberger Hotel München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1831497-S
@@ -516,10 +524,6 @@ Job Title: Event Coordinator (m/w/d)
 Employer: Technische Universität München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202983913-S
 ---
-Job Title: Veranstaltungstechniker (m/w/d)
-Employer: STRATO Personal GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4326341942-S
----
 Job Title: Veranstaltungstechniker (m/w/d) Luftfahrt
 Employer: Hito High Professionals GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4326272843-S
@@ -535,38 +539,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001548440-S
 Job Title: Event Logistiker (m/w/d) ? Vollzeit | München
 Employer: Kofler & Kompanie München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-9XAZE6-OCP-S
----
-Job Title: Events Operations Manager (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-D06N9I-DCV-S
----
-Job Title: (Senior) Eventmanager (m/w/d)
-Employer: SIXT SE
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-BJJCAB-JTD-S
----
-Job Title: Teamleiter System & Veranstalter (m/w/d)
-Employer: meplan GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28028347-YF-S
----
-Job Title: mgm technology partners GmbH: Assistenz im Front- und Backoffice in Elternzeitvertretung befristet a
-Employer: mgm technology partners GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2814761751148001-S
----
-Job Title: Fachkraft für Veranstaltungstechnik- m/w/d - Nürnberg
-Employer: artlogic GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2504150001-S
----
-Job Title: Technischer Assistent Veranstaltungstechnik München (m/w/d) – mit Erfahrung
-Employer: artlogic GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2108190009-S
----
-Job Title: Stagehand / Helfer München (m/w/d) für Event, Konzert, Lager, Messe - Saisonal (70 Tage im Jahr)
-Employer: artlogic GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-2608230012-S
----
-Job Title: Stagehand / Helfer München (m/w/d) für Event, Konzert, Lager, Messe in Teilzeit
-Employer: artlogic GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14999-JOBDE00020-S
 ---
 
 --- 
