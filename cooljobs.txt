@@ -18,7 +18,15 @@ Job Title: Leitung Gebäudetechnik / Haustechnik / Versorgungstechnik & Facility
 Employer: Bergson
 Link: https://bergson.com/jobs/leitung-gebaeudetechnik-haustechnik-versorgungstechnik-facilitymanagement-m-w-d-2
 ---
-Job Title: Sous Chef:in (m/w/d)
+Job Title: Werkstudent:in / Aushilfe / Minijobber:in im Kulturbüro (m/w/d) - Backoffice Kulturmanagement
+Employer: Bergson
+Link: https://bergson.com/jobs/werkstudent-in-aushilfe-minijobber-in-im-kulturbuero-m-w-d-backoffice-kulturmanagement
+---
+Job Title: Koch / Köchin für Bankett und Eventcatering / Eventkoch / Eventköchin / Cateringkoch / Cateringköchin / Produktionskoch / Produktionsköchin (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/koch-koechin-fuer-bankett-und-eventcatering-eventkoch-eventkoechin-cateringkoch-cateringkoechin-produktionskoch-produktionskoechin-m-w-d
+---
+Job Title: Sous Chef:in à la carte  (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/sous-chef-in-m-w-d
 ---
@@ -26,11 +34,7 @@ Job Title: Chef:in de Rang / Kellner:in / Servicekraft Gastronomie & Events (m/w
 Employer: Bergson
 Link: https://bergson.com/jobs/chef-in-de-rang-kellner-in-servicekraft-gastronomie-events-m-w-d-2
 ---
-Job Title: Chef:in Entremetier (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/chef-in-entremetier-m-w-d
----
-Job Title: Chef:in de Partie / Postenchef:in (m/w/d)
+Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/chef-in-de-partie-postenchef-in-m-w-d-2
 ---
@@ -89,14 +93,6 @@ job_scraper_buehnenjobs1.2.py
 
 --- 
 job_scraper_feierwerk.py 
----
-Job Title: Sozial-/ Kultur-/ Medienpädagog*in (w/m/d) für Feierwerk Boom
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogen-kulturpaedagogen-medienpaedagogen-w/m/d-vorlaufprojekt-freiham
----
-Job Title: Sozial-/ Kultur-/ Medienpädagog*in (w/m/d) in der Feierwerk Südpolstation
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/sozial-/kulur-/-medienpaedagoge-suedpolstation
 ---
 Job Title: Fachkraft für Veranstaltungstechnik (w/m/d) für unsere Technikabteilung
 Employer: Feierwerk
@@ -170,6 +166,10 @@ job_scraper_glockenbachwerkstatt.py
 --- 
 job_scraper_HDK1.6.py 
 ---
+Job Title: Volontär*in Produktion (w/m/d) Programm/Ausstellungen
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
+---
 
 --- 
 job_scraper_kultweet1.3.py 
@@ -181,14 +181,6 @@ Link: https://interamt.de/koop/app/stelle?id=1364651
 Job Title: Volontär:in (w/ m/ d) Kommunikation und Eventmanagement | München
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
----
-Job Title: Projektmitarbeiter/ in (m/ w/ d) für das Historische Lexikon Bayerns | München
-Employer: Bayerische Staatsbibliothek
-Link: https://interamt.de/koop/app/stelle?id=1348366
----
-Job Title: (Junior) Consultant (m/ w/ d) in der Kultur- und Strategieberatung mit Schwerpunkt Architektur /  Bauwesen | München
-Employer: actori GmbH
-Link: https://actori-gmbh.jobs.personio.de/job/2256009?display=de
 ---
 Job Title: Assistenz (w/ m/ d) der Geschäftsführung in Teilzeit (30 Std./ Woche) | München
 Employer: Akademie des Symphonieorchesters des Bayerischen Rundfunks
@@ -210,15 +202,15 @@ Job Title: Praktikum in der Kunsthalle
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
+Job Title: Stellvertretende GarderobenleitungUnterstützung der Garderobenleitung bei der Organisation und Koordination des GarderobenbetriebsVertretung der Leitung in deren AbwesenheitKassiertätigkeit sowie Verwaltung und Abrechnung der EinnahmenMitarbeit bei der Erstellung und Pflege von Arbeitsplänen und Stundenkonten sowie Kontroll- und BestandslistenAnnahme, Aufbewahrung und Ausgabe von Kleidungs- und GepäckgegenständenAusgabe von Audio-Geräten für GruppenführungenEnge Zusammenarbeit mit allen Bereichen der Kunsthalle München/Hypo-KulturstiftungFreude am Umgang mit Menschen und ServiceorientierungErfahrungen im Dienstleistungsbereich oder an der Garderobe wünschenswertOrganisationsgeschick und VerantwortungsbewusstseinMS-Office-Kenntnissefreundliches und höfliches Auftreten und eine gepflegte Erscheinungzeitliche Flexibilitätattraktiven Arbeitsplatz im Herzen Münchenskollegiales, freundliches und professionelles TeamMinijob-BasisBeginn ab sofort möglich
+Employer: Kunsthalle München
+Link: https://www.kunsthalle-muc.de/stellenangebote/
+---
 Job Title: Mitarbeit im Garderoben-TeamAnnahme, Aufbewahrung und Ausgabe von Kleidungs- und GepäckgegenständenKassiertätigkeitAusgabe von Audio-Geräten für GruppenführungenFreude am Umgang mit Menschen und Serviceorientierungzeitliche FlexibilitätVerfügbarkeit an zwei bis drei Tagen pro Wochefreundliches und höfliches Auftreten und eine gepflegte ErscheinungMindestalter 18 JahreErfahrungen an der Garderobe sind nicht notwendig, es erfolgt eine gründliche Einarbeitungattraktiver Arbeitsplatz im Herzen Münchenskollegiales, freundliches und professionelles TeamVergütung: € 13/Stundezusätzliches Fahrgeld in Höhe von € 0,30 pro EntfernungskilometerMinijob mit maximal 42,7 Stunden pro MonatBeginn ab sofort möglich
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
-Employer: Kunsthalle München
-Link: https://www.kunsthalle-muc.de/stellenangebote/
----
-Job Title: Verkäufer*in (m/w/d) für den Museumsshop in der Kunsthalle MünchenFreundliche und kompetente Beratung unserer nationalen und internationalen Besucher*innenVerkauf von Souvenirs, Büchern, Postkarten, Kunsthandwerk und DesignartikelnKassiertätigkeit und KassenabschlussAnsprechende Präsentation und Pflege der Verkaufsflächen sowie Dekoration im ShopLeichte LagertätigkeitenUnterstützung bei Sonderaktionen und VeranstaltungenAnsprechpartner*in für allgemeine Besucheranfragen im ShopbereichIdealerweise eine abgeschlossene Ausbildung als Einzelhändler*in oder BerufserfahrungKassenerfahrungHohe Kundenorientierung, Freundlichkeit und KommunikationsstärkeInteresse an Kunst, Kultur und Design – idealerweise Erfahrung im KulturbereichSpaß am VerkaufGute Deutschkenntnisse, weitere Fremdsprachenkenntnisse (v. a. Englisch) von VorteilBereitschaft zu regelmäßiger Wochenend-/FeiertagsarbeitEinen inspirierenden Arbeitsplatz in einem der führenden Ausstellungshäusern DeutschlandsKollegiale Arbeitsatmosphäre in einem kleinen, motivierten TeamPersonalrabatt im ShopBeteiligung am Job TicketEinbindung in kulturelle Veranstaltungen
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
@@ -276,14 +268,6 @@ Job Title: Leitende Betriebstechnikerin / Leitender Betriebstechniker (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-Job Title: Wissenschaftliche/n Restaurator/in für moderne und zeitgenössische Kunst als Leitende/r Restaurator/in (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: für das Museum Brandhorst
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
 Job Title: Wissenschaftliche/n Restaurator/in für Gemälde als Leitende/r Restaurator/in (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -319,6 +303,14 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 
 --- 
 job_scraper_residenztheater1.2.py 
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Metallbauer (m/w/d)Fachrichtung Konstruktionstechnik in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Maskenbildner (m/w/d)in Teilzeit
 Employer: Residenztheater
@@ -396,6 +388,18 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Bankett- & Veranstaltungskoordinator (d/w/m)
+Employer: MHP Hotel an der Isar Nr. 1 GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-5455f2bf2615422-S
+---
+Job Title: Messe - Servicekraft [gn] ab 16 EUR / Std.
+Employer: BEMOVA GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15303-RH5ECDG04R16FK9E-S
+---
+Job Title: Management Associate (m/w/d)
+Employer: LBT e.V.
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-Catch123_JB4942232-S
+---
 Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-07b0f4da4b8249a-S
@@ -403,10 +407,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-07b0f4da4b8249a-S
 Job Title: Hostess im GRETA OTO Munich (d/w/m)Teilzeit oder Werkstudent
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-27b0295affe4437-S
----
-Job Title: Senior Projektmanager Sales &amp; Event Marketing (m/w/d)
-Employer: SIXT SE
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MD10FE-GOD-S
 ---
 Job Title: (Junior) Eventmanager (w/m/d)
 Employer: Feinkost Käfer
@@ -420,6 +420,10 @@ Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-MV7-S
 ---
+Job Title: Senior Projektmanager Sales &amp; Event Marketing (m/w/d)
+Employer: SIXT SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MD10FE-GOD-S
+---
 Job Title: Veranstaltungstechniker (m/w/d)
 Employer: GOP Varieté München GmbH & Co. KG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-0UE-S
@@ -432,10 +436,6 @@ Job Title: Veranstaltungsmanager (m/w/d)
 Employer: BRUNATA-METRONA GmbH & Co. KG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-15702274-KAL-S
 ---
-Job Title: Mitarbeiter Bankett und Veranstaltungen (m/w/d)
-Employer: Münchner Künstlerhaus-Stiftung
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-15615783-KAL-S
----
 Job Title: Event Manager (m/w/d) // Bundesweit,Düsseldorf,Berlin,Dor...
 Employer: Baker Tilly
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1941805-S
@@ -444,17 +444,9 @@ Job Title: (Junior) Eventmanager (w/m/d), München
 Employer: Käfer-Schänke
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1941587-S
 ---
-Job Title: wissenschaftliches Volontariat
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14089-01364651-S
----
 Job Title: Assistant Sales- und Eventmanagement (M/W/D) LaMunt Store
 Employer: OBERALP Deutschland GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15725194-STA-S
----
-Job Title: Bankett- & Veranstaltungskoordinator (d/w/m)
-Employer: MHP Hotel an der Isar Nr. 1 GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-07217c444362400-S
 ---
 Job Title: Veranstaltungstechniker m/w/d
 Employer: Younivers GmbH
@@ -468,25 +460,17 @@ Job Title: Parkraumkontrolleur (m/w/d) für München in Vollzeit
 Employer: Park & Control PAC GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001898406-S
 ---
-Job Title: Stellvertretende Leitung der Beleuchtung (m/w/d) Vollzeit / Teilzeit
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244911-RJA-S
----
 Job Title: Meister für Beleuchtung / Veranstaltungstechnik (m/w/d) Vollzeit / Teilzeit
 Employer: Staatstheater am Gärtnerplatz
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244905-RJA-S
 ---
+Job Title: Stellvertretende Leitung der Beleuchtung (m/w/d) Vollzeit / Teilzeit
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244911-RJA-S
+---
 Job Title: Senior Video Redakteur (m/w/d)
 Employer: BurdaForward GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4491676781-S
----
-Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001878656-S
----
-Job Title: Stellvertretender Leiter der Beleuchtung (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001878628-S
 ---
 Job Title: Spezialist/in Lichttechnik: Lichtplanung & Kundenbetreuung im Außendienst (m/w/d)
 Employer: Schrack Technik Deutschland GmbH
@@ -495,6 +479,14 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28226320-RJA-S
 Job Title: Projektleiter*In (m/w/d)
 Employer: POOLgroup GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007608565-S
+---
+Job Title: Werkstudent (m/w/d) in der Unternehmenskommunikation, Schwerpunkt Film,München,Würzburg
+Employer: bbw-Gruppe
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1932240-S
+---
+Job Title: Event Manager (m/w/d) // Bundesweit
+Employer: Baker Tilly Holding GmbH Wirtschaftsprüfungs- gesellschaft
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001758212-S
 ---
 
 --- 
