@@ -6,6 +6,18 @@ job_scraper_bahnwaerterthiel.py
 --- 
 job_scraper_bergson.py 
 ---
+Job Title: Koch / Köchin für Bankett und Eventcatering / Eventkoch / Eventköchin / Cateringkoch / Cateringköchin / Produktionskoch / Produktionsköchin (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/koch-koechin-fuer-bankett-und-eventcatering-eventkoch-eventkoechin-cateringkoch-cateringkoechin-produktionskoch-produktionskoechin-m-w-d
+---
+Job Title: Sous Chef:in à la carte  (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/sous-chef-in-m-w-d
+---
+Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/chef-in-de-partie-postenchef-in-m-w-d-2
+---
 Job Title: Werkstudent:in oder Aushilfe bzw. Minijobber:in als Servicekraft Gastronomie & Events (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/servicekraft-gastronomie-events-neu
@@ -22,21 +34,9 @@ Job Title: Werkstudent:in / Aushilfe / Minijobber:in im Kulturbüro (m/w/d) - Ba
 Employer: Bergson
 Link: https://bergson.com/jobs/werkstudent-in-aushilfe-minijobber-in-im-kulturbuero-m-w-d-backoffice-kulturmanagement
 ---
-Job Title: Koch / Köchin für Bankett und Eventcatering / Eventkoch / Eventköchin / Cateringkoch / Cateringköchin / Produktionskoch / Produktionsköchin (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/koch-koechin-fuer-bankett-und-eventcatering-eventkoch-eventkoechin-cateringkoch-cateringkoechin-produktionskoch-produktionskoechin-m-w-d
----
-Job Title: Sous Chef:in à la carte  (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/sous-chef-in-m-w-d
----
 Job Title: Chef:in de Rang / Kellner:in / Servicekraft Gastronomie & Events (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/chef-in-de-rang-kellner-in-servicekraft-gastronomie-events-m-w-d-2
----
-Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/chef-in-de-partie-postenchef-in-m-w-d-2
 ---
 Job Title: Bilanzbuchhalter:in (m/w/d)
 Employer: Bergson
@@ -170,13 +170,17 @@ Job Title: Volontär*in Produktion (w/m/d) Programm/Ausstellungen
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
 ---
+Job Title: Praktikant*in (w/m/d) Presse/Kommunikation
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-programm-ausstellungen
+---
 
 --- 
 job_scraper_kultweet1.3.py 
 ---
-Job Title: 3 wissenschaftliche Volontariate | München
-Employer: Staatliche Museumsagentur Bayern
-Link: https://interamt.de/koop/app/stelle?id=1364651
+Job Title: Mitarbeit im Auktionshaus (Expertenassistenz) Teilzeit (16h) | Grasbrunn bei München
+Employer: Hermann Historica GmbH
+Link: https://bvdg.de/node/28442
 ---
 Job Title: Volontär:in (w/ m/ d) Kommunikation und Eventmanagement | München
 Employer: Kunsthalle München
@@ -185,10 +189,6 @@ Link: https://www.kunsthalle-muc.de/stellenangebote/
 Job Title: Assistenz (w/ m/ d) der Geschäftsführung in Teilzeit (30 Std./ Woche) | München
 Employer: Akademie des Symphonieorchesters des Bayerischen Rundfunks
 Link: https://www.kultweet.de/jobs/BRSO-Assistenz-der-GF.pdf
----
-Job Title: Mitarbeiter*in (m/ w/ d) in Teilzeit (19,5 h) für Marketing, Öffentlichkeitsarbeit & Programmkoordination | München
-Employer: Stattreisen München e.V.
-Link: https://www.stattreisen-muenchen.de/sites/default/files/2025-08/Stattreisen%20Stellenanzeige_%20Mitarbeiter_%20m_w_d%20Stadtführungsanbieter_25.pdf
 ---
 
 --- 
@@ -304,6 +304,18 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Theaterobermeister (m/w/d) für das Residenztheaterin Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Aushilfen Bühnentechnik (m/w/d)in Teilzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -321,10 +333,6 @@ Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -388,25 +396,45 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
-Job Title: Bankett- & Veranstaltungskoordinator (d/w/m)
-Employer: MHP Hotel an der Isar Nr. 1 GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-5455f2bf2615422-S
+Job Title: Eventtechniker:in (m/w/d)
+Employer: FastLane GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28313614-RJA-S
 ---
-Job Title: Messe - Servicekraft [gn] ab 16 EUR / Std.
-Employer: BEMOVA GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15303-RH5ECDG04R16FK9E-S
+Job Title: Spezialist/in Lichttechnik: Lichtplanung & Kundenbetreuung im Außendienst (m/w/d)
+Employer: Schrack Technik Deutschland GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28226320-RJA-S
 ---
-Job Title: Management Associate (m/w/d)
-Employer: LBT e.V.
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-Catch123_JB4942232-S
+Job Title: Meister für Beleuchtung / Veranstaltungstechnik (m/w/d) Vollzeit / Teilzeit
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244905-RJA-S
 ---
-Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-07b0f4da4b8249a-S
+Job Title: Stellvertretende Leitung der Beleuchtung (m/w/d) Vollzeit / Teilzeit
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244911-RJA-S
 ---
-Job Title: Hostess im GRETA OTO Munich (d/w/m)Teilzeit oder Werkstudent
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-27b0295affe4437-S
+Job Title: Fachkraft Customer Interaction (m/w/d)
+Employer: Guldberg GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13410-k13572.15002-S
+---
+Job Title: Projektleiter*In (m/w/d)
+Employer: POOLgroup GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007612675-S
+---
+Job Title: Assistant Sales- und Eventmanagement (m/w/d) LaMunt Store
+Employer: OBERALP Deutschland GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
+---
+Job Title: Referent (m/w/d) Veranstaltungsmanagement
+Employer: Verlag C.H.Beck GmbH & Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/19739-0060180760-S
+---
+Job Title: Aushilfen Bühnentechnik (m/w/d) in Teilzeit
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002002076-S
+---
+Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
+Employer: DO & CO Deutschland Holding
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
 ---
 Job Title: (Junior) Eventmanager (w/m/d)
 Employer: Feinkost Käfer
@@ -420,21 +448,41 @@ Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-MV7-S
 ---
-Job Title: Senior Projektmanager Sales &amp; Event Marketing (m/w/d)
-Employer: SIXT SE
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MD10FE-GOD-S
----
 Job Title: Veranstaltungstechniker (m/w/d)
 Employer: GOP Varieté München GmbH & Co. KG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-0UE-S
 ---
+Job Title: Senior Projektmanager Sales &amp; Event Marketing (m/w/d)
+Employer: SIXT SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MD10FE-GOD-S
+---
+Job Title: Veranstaltungstechniker (m/w/d), Schreiner (m/w/d), Schlosser (m/w/d) in VZ als  Bühnenhandwerker
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001994143-S
+---
+Job Title: Veranstaltungstechniker (m/w/d), Schreiner (m/w/d), Schlosser (m/w/d) in VZ als Bühnenhandwerker
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001994113-S
+---
+Job Title: Resources Assistant (m/w/d)
+Employer: Technische Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204100791-S
+---
+Job Title: Messe - Servicekraft [gn] ab 16 EUR / Std.
+Employer: BEMOVA GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15303-RH5ECDG04R16FK9E-S
+---
+Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-07b0f4da4b8249a-S
+---
+Job Title: Hostess im GRETA OTO Munich (d/w/m)Teilzeit oder Werkstudent
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-27b0295affe4437-S
+---
 Job Title: Koordinator Fort- und Weiterbildungsorganisation (m/w/d)
 Employer: Bayerische Ingenieurekammer-Bau
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001925596-S
----
-Job Title: Veranstaltungsmanager (m/w/d)
-Employer: BRUNATA-METRONA GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-15702274-KAL-S
 ---
 Job Title: Event Manager (m/w/d) // Bundesweit,Düsseldorf,Berlin,Dor...
 Employer: Baker Tilly
@@ -447,46 +495,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1941587-S
 Job Title: Assistant Sales- und Eventmanagement (M/W/D) LaMunt Store
 Employer: OBERALP Deutschland GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15725194-STA-S
----
-Job Title: Veranstaltungstechniker m/w/d
-Employer: Younivers GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13469863-S
----
-Job Title: Assistant Sales- und Eventmanagement (m/w/d) LaMunt Store
-Employer: OBERALP Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
----
-Job Title: Parkraumkontrolleur (m/w/d) für München in Vollzeit
-Employer: Park & Control PAC GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001898406-S
----
-Job Title: Meister für Beleuchtung / Veranstaltungstechnik (m/w/d) Vollzeit / Teilzeit
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244905-RJA-S
----
-Job Title: Stellvertretende Leitung der Beleuchtung (m/w/d) Vollzeit / Teilzeit
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244911-RJA-S
----
-Job Title: Senior Video Redakteur (m/w/d)
-Employer: BurdaForward GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4491676781-S
----
-Job Title: Spezialist/in Lichttechnik: Lichtplanung & Kundenbetreuung im Außendienst (m/w/d)
-Employer: Schrack Technik Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28226320-RJA-S
----
-Job Title: Projektleiter*In (m/w/d)
-Employer: POOLgroup GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007608565-S
----
-Job Title: Werkstudent (m/w/d) in der Unternehmenskommunikation, Schwerpunkt Film,München,Würzburg
-Employer: bbw-Gruppe
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1932240-S
----
-Job Title: Event Manager (m/w/d) // Bundesweit
-Employer: Baker Tilly Holding GmbH Wirtschaftsprüfungs- gesellschaft
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001758212-S
 ---
 
 --- 
@@ -506,6 +514,14 @@ Employer: BLITZ Club
 Link: https://www.blitz.club/jobs/
 ---
 Job Title: Gaderobe
+Employer: BLITZ Club
+Link: https://www.blitz.club/jobs/
+---
+Job Title: BAR
+Employer: BLITZ Club
+Link: https://www.blitz.club/jobs/
+---
+Job Title: Details
 Employer: BLITZ Club
 Link: https://www.blitz.club/jobs/
 ---
