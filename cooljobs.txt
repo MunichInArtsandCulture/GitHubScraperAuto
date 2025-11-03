@@ -106,10 +106,6 @@ Job Title: Sozialpädagog*in / Kulturpädagog*in (w/m/d) im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogin/kulturpaedagogin-tatz
 ---
-Job Title: Produktionsleitung (w/m/d) für unseren Veranstaltungsbereich
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
----
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
@@ -118,9 +114,9 @@ Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKID
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
 ---
-Job Title: Ausbildung zur/zum Veranstaltungskauffrau/-mann (w/m/d)
+Job Title: Ausbildung zur Fachkraft für Veranstaltungstechnik (w/m/d)
 Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/ausbildung-als-veranstaltungskauffrau-mann
+Link: https://www.feierwerk.de/ueber-uns/jobs/ausbildungsplatz-veranstaltungstechnik
 ---
 Job Title: Bundesfreiwilligendienst beim mobilen Vorlaufprojekt Feierwerk Boom (Freiham)
 Employer: Feierwerk
@@ -166,6 +162,10 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Mitarbeiter/ in (m/ w/ d) für die Redaktion des Literaturportals Bayerns | München
+Employer: Bayerische Staatsbibliothek
+Link: https://interamt.de/koop/app/stelle?id=1375774
+---
 Job Title: wiss. Mitarbeit Forschungsgruppe "Kunst, Umwelt, Ökologie" | München
 Employer: Zentralinstitut für Kunstgeschichte
 Link: https://www.zikg.eu/aktuelles/nachrichten/stellenausschreibung-kunsthistorikerin
@@ -174,7 +174,7 @@ Link: https://www.zikg.eu/aktuelles/nachrichten/stellenausschreibung-kunsthistor
 --- 
 job_scraper_kunsthalle-muc.py 
 ---
-Job Title: Volontär:in (w/m/d) Kommunikation und EventmanagementMitarbeit bei der Bearbeitung von Presse-, Interview- und, DrehanfragenMitarbeit bei der Organisation und Durchführung von Pressekonferenzen, Veranstaltungen im Rahmen des Begleitprogramms (u.a. Vorträge, Führungsformate und Konzerte) sowie EröffnungsveranstaltungenBetreuung und Pflege der E-Marketing-Suite (CRM-System von starmate)Konzeption und Gestaltung eines ausstellungsbezogenen KinderbegleitheftsBetreuung und Pflege der Website sowie des Online-PressebereichsBetreuung und Pflege der Social-Media-KanäleErstellung und Gestaltung von VeranstaltungsflyernAbgeschlossenes Hochschulstudium (Master oder gleichwertig) im Bereich Kulturmanagement, Journalismus oder Public Relations, Kommunikation & Marketing oder Vergleichbares (nicht notwendigerweise in Kunstgeschichte)Erste Erfahrungen in der Presse- oder Öffentlichkeitsarbeit, im Marketing und EventmanagementAusgezeichnetes OrganisationsgeschickAusgeprägte Kommunikationskompetenz und ein sicherer, lebendiger SchreibstilDeutsch auf Muttersprachniveau sowie sehr gute Englischkenntnisse in Wort und SchriftSicherer Umgang mit EDV-SystemenGrundkenntnisse von Adobe-Creative-Cloud-Anwendungen und WordPress sind von VorteilGroßes Interesse an Kunst und KulturFlexibilität und hohe Einsatzbereitschaft, Belastbarkeit, Eigeninitiative, TeamfähigkeitEine interessante und vielseitige Tätigkeit in einem internationalen ArbeitsumfeldEin dynamisches, offenes und motiviertes Team, das die Möglichkeit bietet, sich mit individuellen Fähigkeiten und Ideen einzubringenEinen zentral gelegenen Arbeitsplatz mit sehr guter Anbindung an den öffentlichen NahverkehrArbeitgeberzuschuss für DeutschlandticketJob und EGYM-Wellpass
+Job Title: Stellvertretende GarderobenleitungUnterstützung der Garderobenleitung bei der Organisation und Koordination des GarderobenbetriebsVertretung der Leitung in deren AbwesenheitKassiertätigkeit sowie Verwaltung und Abrechnung der EinnahmenMitarbeit bei der Erstellung und Pflege von Arbeitsplänen und Stundenkonten sowie Kontroll- und BestandslistenAnnahme, Aufbewahrung und Ausgabe von Kleidungs- und GepäckgegenständenAusgabe von Audio-Geräten für GruppenführungenEnge Zusammenarbeit mit allen Bereichen der Kunsthalle München/Hypo-KulturstiftungFreude am Umgang mit Menschen und ServiceorientierungErfahrungen im Dienstleistungsbereich oder an der Garderobe wünschenswertOrganisationsgeschick und VerantwortungsbewusstseinMS-Office-Kenntnissefreundliches und höfliches Auftreten und eine gepflegte Erscheinungzeitliche Flexibilitätattraktiven Arbeitsplatz im Herzen Münchenskollegiales, freundliches und professionelles TeamMinijob-BasisBeginn ab sofort möglich
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
@@ -264,7 +264,7 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
-Job Title: Maskenbildner (m/w/d)in Teilzeit
+Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -352,11 +352,67 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: (Junior) Eventmanager (w/m/d)
+Employer: Feinkost Käfer
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-AM2-S
+---
+Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-JL2-S
+---
+Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-3ET-S
+---
+Job Title: Veranstaltungstechniker (m/w/d)
+Employer: GOP Varieté München GmbH & Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-BZH-S
+---
+Job Title: Senior Projektmanager Messen &amp; Events (m/w/d)
+Employer: SIXT SE
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Z41WNS-825-S
+---
+Job Title: Bankettlogistiker (m/w/d)
+Employer: INFINITY Hotel & Conference Resort Munich
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-O8IKQM-DL4-S
+---
+Job Title: Veranstaltungstechniker (m/w/d), Schreiner (m/w/d) oder Schlosser (m/w/d) in Vollzeit als Bühnenhand
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002080415-S
+---
+Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
+Employer: DO & CO Deutschland Holding
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
+---
+Job Title: Mitarbeiterin oder Mitarbeiter (m/w/d) Veranstaltungsmanagement
+Employer: DRV Bayern Süd
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002065289-S
+---
+Job Title: Musikerin/Musiker (m/w/d) Instrument Tenorsaxophon/Klarinette
+Employer: Bundespolizeipräsidium
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204260321-S
+---
+Job Title: Musikerin/Musiker (m/w/d) Instrument Trompete mit Verpflichtung zum Flügelhorn und Kornett
+Employer: Bundespolizeipräsidium
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204260316-S
+---
+Job Title: Musikerin/Musiker (m/w/d) Instrument Euphonium Bundespolizeiorchester München
+Employer: Bundespolizeipräsidium
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204260311-S
+---
+Job Title: Assistenz der Technischen Leitungen aller Spielstätten (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002054528-S
+---
+Job Title: Kultur- und Eventkoordinator/in (m/w/d)
+Employer: Tertianum Premium Group
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-3115d3b3_JB4964417-S
+---
 Job Title: Assistant Sales- und Eventmanagement (M/W/D) LaMunt Store
 Employer: OBERALP Deutschland GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15725194-STA-S
 ---
-Job Title: Kultur- und Eventkoordinator/in (m/w/d)
+Job Title: Kulturreferent (m/w/d)
 Employer: Tertianum Premium Residences
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-315542-S
 ---
@@ -380,10 +436,6 @@ Job Title: Bühnentechniker (m/w/d) in Teilzeit
 Employer: Bayerisches Staatsschauspiel Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002031847-S
 ---
-Job Title: Senior Projektmanager Messen &amp; Events (m/w/d)
-Employer: SIXT SE
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Z41WNS-825-S
----
 Job Title: Kunsthistoriker/in (m/w/d)
 Employer: Zentralinstitut für Kunstgeschichte
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002026144-S
@@ -400,66 +452,9 @@ Job Title: Stellvertretende Leitung der Beleuchtung (m/w/d) Vollzeit / Teilzeit
 Employer: Staatstheater am Gärtnerplatz
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244911-RJA-S
 ---
-Job Title: Theaterobermeister (m/w/d) für die Spielstätte Residenztheater
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002016621-S
----
-Job Title: Spezialist/in Lichttechnik: Lichtplanung & Kundenbetreuung im Außendienst (m/w/d)
-Employer: Schrack Technik Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28226320-RJA-S
----
-Job Title: Fachkraft Customer Interaction (m/w/d)
-Employer: Guldberg GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13410-k13572.15002-S
----
-Job Title: Projektleiter*In (m/w/d)
-Employer: POOLgroup GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007612675-S
----
-Job Title: Assistant Sales- und Eventmanagement (m/w/d) LaMunt Store
-Employer: OBERALP Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
----
-Job Title: Referent (m/w/d) Veranstaltungsmanagement
-Employer: Verlag C.H.Beck GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/19739-0060180760-S
----
-Job Title: Aushilfen Bühnentechnik (m/w/d) in Teilzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002002076-S
----
-Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
-Employer: DO & CO Deutschland Holding
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
----
-Job Title: Veranstaltungstechniker (m/w/d), Schreiner (m/w/d), Schlosser (m/w/d) in VZ als  Bühnenhandwerker
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001994143-S
----
-Job Title: (Junior) Eventmanager (w/m/d)
-Employer: Feinkost Käfer
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-KBE-S
----
-Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-KRD-S
----
-Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-MV7-S
----
-Job Title: Veranstaltungstechniker (m/w/d)
-Employer: GOP Varieté München GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-0UE-S
----
 
 --- 
 job_scraper_muenchen.de1.2.py 
----
-Job Title: Lehrkraft für Sprecherziehung und Stimmbildung (w/m/d)
-Employer: Münchner Kammerspiele
-Link: https://karriere.muenchen.de/job/Falckenbergstr_-2%2C-80539-M%C3%BCnch-Lehrkraft-f%C3%BCr-Sprecherziehung-und-Stimmbildung-%28wmd%29-Falckenber/1250135901/
-
 ---
 Job Title: Ausbildung zur/m Fachangestellten für Medien- und Informationsdienste Bibliothek (w/m/d)
 Employer: Kulturreferat
