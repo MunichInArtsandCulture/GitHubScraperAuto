@@ -122,6 +122,10 @@ Job Title: Bundesfreiwilligendienst bei Feierwerk Trafixx (Obersendling)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/bundesfreiwilligendienst-trafixx
 ---
+Job Title: Praktikum bei dem Projekt PRIX JEUNESSE Kinderjury 2026
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-prix-jeunesse-kinderjury
+---
 Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
@@ -134,7 +138,10 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=52871): Read timed out. (read timeout=120)
+
+--- 
+job_scraper_gaertnerplatztheater1.2.py 
+---
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -150,6 +157,18 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/projektmita
 
 --- 
 job_scraper_kultweet1.3.py 
+---
+Job Title: Wissenschaftliche Mitarbeit im Projekt "Bonds of Intimacy and Dependency" | München
+Employer: Institut für Zeitgeschichte München–Berlin (IfZ)
+Link: https://www.ifz-muenchen.de/das-institut/stellenpraktika/stellenpraktika-detail/stellenangebot-wissenschaftliche-mitarbeit-im-projekt-bonds-of-intimacy-and-dependency
+---
+Job Title: Referentin (m/ w/ d) für Musikförderungsprogramme | München
+Employer: Bayerischer Musikrat gemeinnützige Projekt GmbH
+Link: https://www.bayerischer-musikrat.de/nachrichten/2025-10-31-Referentin
+---
+Job Title: Fachreferentin, Fachreferent der Depotorganisation, Inventarisierung und Archive (M/ W/ D) | München
+Employer: Archäologische Staatssammlung München
+Link: https://interamt.de/koop/app/stelle?id=1379102
 ---
 Job Title: Mitarbeiter (m/ w/ d) für das Kulturreferat | Garching bei München
 Employer: Stadt Garching
@@ -167,11 +186,7 @@ Link: https://www.zikg.eu/aktuelles/nachrichten/stellenausschreibung-kunsthistor
 --- 
 job_scraper_kunsthalle-muc.py 
 ---
-Job Title: Stellvertretende GarderobenleitungUnterstützung der Garderobenleitung bei der Organisation und Koordination des GarderobenbetriebsVertretung der Leitung in deren AbwesenheitKassiertätigkeit sowie Verwaltung und Abrechnung der EinnahmenMitarbeit bei der Erstellung und Pflege von Arbeitsplänen und Stundenkonten sowie Kontroll- und BestandslistenAnnahme, Aufbewahrung und Ausgabe von Kleidungs- und GepäckgegenständenAusgabe von Audio-Geräten für GruppenführungenEnge Zusammenarbeit mit allen Bereichen der Kunsthalle München/Hypo-KulturstiftungFreude am Umgang mit Menschen und ServiceorientierungErfahrungen im Dienstleistungsbereich oder an der Garderobe wünschenswertOrganisationsgeschick und VerantwortungsbewusstseinMS-Office-Kenntnissefreundliches und höfliches Auftreten und eine gepflegte Erscheinungzeitliche Flexibilitätattraktiven Arbeitsplatz im Herzen Münchenskollegiales, freundliches und professionelles TeamMinijob-BasisBeginn ab sofort möglich
-Employer: Kunsthalle München
-Link: https://www.kunsthalle-muc.de/stellenangebote/
----
-Job Title: Praktikum in der Kunsthalle
+Job Title: Praktikum in der KunsthalleMitarbeit in allen Bereichen des AusstellungsbürosBeantwortung unterschiedlicher Anfragen von Besucher:innenOrganisation von Führungen und VeranstaltungenAllgemeine VerwaltungstätigkeitenEinblicke in die praktische Realisierung einer AusstellungUnterstützung des kuratorischen Teams bei der Konzeption und Planung neuer ProjekteAssistieren beim AusstellungswechselEinblicke in weitere Abteilungen der Kunsthalle, wie zum Beispiel die Presse- und Öffentlichkeits-arbeit oder die technische AbteilungStudium der Kunstgeschichte oder eines vergleichbaren StudiengangsErste Praxiserfahrungen wünschenswertSicherer Umgang mit den gängigen PC-Programmen (insbesondere Microsoft-Office)Deutsch auf Muttersprachniveau sowie sehr gute Englischkenntnisse in Wort und SchriftTeamfähigkeit, Offenheit, Freundlichkeit und BelastbarkeitDie Praktikumsdauer beträgt in der Regel mindestens 2 Monate und maximal drei Monate, um Studierenden einen möglichst guten Einblick in den Alltagsbetrieb eines Ausstellungshauses geben zu könnenDas Praktikum wird in Vollzeit absolviert. Die Arbeitszeit ist von Montag bis Freitag 9–17 Uhr oder flexibel nach Absprache einteilbarDie Vergütung beträgt € 556/Monat
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
@@ -215,10 +230,6 @@ Job Title: Solo-Bratsche
 Employer: Münchner Philharmoniker
 Link: https://www.mphil.de/ueber-uns/offene-stellen
 ---
-Job Title: Solo-Kontrabass
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
 
 --- 
 job_scraper_pinakothek.py 
@@ -255,27 +266,15 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Regieassistenz (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Bühnentechniker (m/w/d)in Teilzeit (23,1 Std./Woche)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Theaterobermeister (m/w/d) für das Residenztheaterin Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Aushilfen Bühnentechnik (m/w/d)in Teilzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -343,21 +342,41 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Minijob (m/w/d) in der Veranstaltungsbetreuung
+Employer: Technische Hochschule Ingolstadt Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002158556-S
+---
+Job Title: Projektmanager / Projektmanagerin für Veranstaltungen (m/w/d)
+Employer: Ludwig-Maximilians-Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-ybinriu68k-S
+---
+Job Title: Assistant Sales- und Eventmanagement (m/w/d) LaMunt Store
+Employer: OBERALP Deutschland GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
+---
+Job Title: Senior Video Redakteur (m/w/d)
+Employer: BurdaForward GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4587309695-S
+---
+Job Title: Mediengestalter/Mediengestalterin für Bild und Ton oder Fotografen (m/w/d)
+Employer: Bayerisches Landeskriminalamt
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18338-1501986-1-S
+---
+Job Title: Beleuchtungsmeister*in (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002125580-S
+---
+Job Title: Regieassistenz (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002124057-S
+---
 Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-e28a873749f14f9-S
 ---
-Job Title: Veranstaltungstechniker / Medientechniker (m/w/d) im Bereich Hörsaaltechnik
-Employer: Technische Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15837175-STA-S
----
 Job Title: Bühnentechniker*in (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002118760-S
----
-Job Title: Technische/r Mitarbeiter/in (m/w/d) im Geräteverleih der Hochschule für Fernsehen und Film
-Employer: Hochschule für Fernsehen und Film München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28379023-RJA-S
 ---
 Job Title: Veranstaltungstechniker / Medientechniker (m/w/d)
 Employer: Technische Universität München
@@ -386,10 +405,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-3ET-S
 Job Title: Bankettlogistiker (m/w/d)
 Employer: INFINITY Hotel & Conference Resort Munich
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-O8IKQM-DL4-S
----
-Job Title: Veranstaltungstechniker (m/w/d), Schreiner (m/w/d) oder Schlosser (m/w/d) in Vollzeit als Bühnenhand
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002080415-S
 ---
 Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
 Employer: DO & CO Deutschland Holding
@@ -426,22 +441,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002046124-S
 Job Title: Sachbearbeitung (m/w/d) Veranstaltungen (ID MZ235)
 Employer: Condrobs e.V. Geschäftsstelle
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002044583-S
----
-Job Title: Veranstaltungstechniker m/w/d
-Employer: Younivers GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13516161-S
----
-Job Title: Bühnentechniker (m/w/d) in Teilzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002031847-S
----
-Job Title: Kunsthistoriker/in (m/w/d)
-Employer: Zentralinstitut für Kunstgeschichte
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002026144-S
----
-Job Title: Meister für Beleuchtung / Veranstaltungstechnik (m/w/d) Vollzeit / Teilzeit
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28244905-RJA-S
 ---
 
 --- 
