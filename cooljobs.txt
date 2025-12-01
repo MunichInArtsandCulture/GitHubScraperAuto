@@ -30,6 +30,14 @@ Job Title: Stewarding Supervisor / Chief Steward / Leitung Spülküche (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/stewarding-supervisor-chief-steward-leitung-spuelkueche-m-w-d
 ---
+Job Title: CRM - Manager:in (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/crm-manager-in-m-w-d
+---
+Job Title: HR Manager:in mit Fokus Recruiting und Personaladministration (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/hr-manager-in-mit-fokus-recruiting-und-personaladministration-m-w-d
+---
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-veranstaltungskauffrau-bzw-zum-veranstaltungskaufmann-2
@@ -138,10 +146,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=36755): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -154,6 +159,14 @@ job_scraper_HDK1.6.py
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Referent:in Öffentlichkeitsarbeit | München
+Employer: ​Flughafen München GmbH
+Link: https://bewerben.munich-airport.de/de/jobs/116590/referentin-offentlichkeitsarbeit
+---
+Job Title: Werkstudent Kunst Management (w/ m/ x) | München
+Employer: BMW Group
+Link: https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.172390.html
+---
 Job Title: Wissenschaftliche*n Volontär*in im Bereich Konservierung /  Restaurierung von Gemälden und Skulpturen oder Graphik und Photographie | München
 Employer: Städtische Galerie im Lenbachhaus und Kunstbau München
 Link: https://www.kultweet.de/jobs/Lenbachhaus_wiss_Volontariat.pdf
@@ -162,29 +175,9 @@ Job Title: wiss. Mitarbeiter zur Vorbereitung der Sonderausstellung „Liaisons 
 Employer: Staatliche Museumsagentur Bayern
 Link: https://interamt.de/koop/app/stelle?id=1383586
 ---
-Job Title: Erstellung Werkverzeichnis Medienkunst auf Werkvertragsbasis | remote, mit Abstimmungsterminen und Sichtungen in Graz und München
-Employer: Medienkunstverein Richard Kriesche e.V.
-Link: https://bvdg.de/node/28499
----
 Job Title: Werkstudent (w/ m/ d) Kultur- und Sponsoringprogramme | München
 Employer: Siemens AG
 Link: https://jobs.siemens.com/en_US/externaljobs/JobDetail/484936?recommendation=&source=Private+Post&tags=prosple
----
-Job Title: Wissenschaftliche Mitarbeit im Projekt "Bonds of Intimacy and Dependency" | München
-Employer: Institut für Zeitgeschichte München–Berlin (IfZ)
-Link: https://www.ifz-muenchen.de/das-institut/stellenpraktika/stellenpraktika-detail/stellenangebot-wissenschaftliche-mitarbeit-im-projekt-bonds-of-intimacy-and-dependency
----
-Job Title: Referentin (m/ w/ d) für Musikförderungsprogramme | München
-Employer: Bayerischer Musikrat gemeinnützige Projekt GmbH
-Link: https://www.bayerischer-musikrat.de/nachrichten/2025-10-31-Referentin
----
-Job Title: Fachreferentin, Fachreferent der Depotorganisation, Inventarisierung und Archive (M/ W/ D) | München
-Employer: Archäologische Staatssammlung München
-Link: https://interamt.de/koop/app/stelle?id=1379102
----
-Job Title: Mitarbeiter (m/ w/ d) für das Kulturreferat | Garching bei München
-Employer: Stadt Garching
-Link: https://bewerbung.garching.de/jobposting/28493dff89c2784db737921cd139a558a0e9cc8c0
 ---
 Job Title: wiss. Mitarbeit Forschungsgruppe "Kunst, Umwelt, Ökologie" | München
 Employer: Zentralinstitut für Kunstgeschichte
@@ -354,29 +347,77 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-2K1-S
+---
+Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-H4E-S
+---
+Job Title: (Junior) Eventmanager (w/m/d)
+Employer: Feinkost Käfer
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-1PG-S
+---
+Job Title: Eventmanager (m/w/d)
+Employer: Aramark Holding Deutschland GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15874-43805692-1128-S
+---
+Job Title: befristete Elternzeitvertretung einer Referatsleitung (w/m/d) in der Museumsabteilung
+Employer: Bayer. Verw.d.staatl.Schlösser Gärten u. Seen -Hauptverw.- Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204646405-S
+---
+Job Title: International Coordinator (m/w/d)
+Employer: Technische Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204643450-S
+---
+Job Title: Customer Events Coordinator (w/m/d)
+Employer: Worksmart GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11112-68568-1738667-0-S
+---
+Job Title: Garderobenkraft (w/m/d) in der Käfer-Schänke, München
+Employer: Käfer-Schänke
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2012310-S
+---
+Job Title: Eventmanager (m/w/d)
+Employer: Aramark Deutschland
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-3EP-S
+---
+Job Title: Leitung Veranstaltungsverkauf (m/w/d)
+Employer: Sperger Gaststättenbetrieb OHG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002204754-S
+---
+Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
+Employer: anonymisiertem Arbeitgeber
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
+---
+Job Title: Wissenschaftliche Mitarbeiterin / Wissenschaftlichen Mitarbeiter Sonderausstellung
+Employer: Staatliche Museumsagentur Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002201199-S
+---
+Job Title: Referent (m/w/d) Veranstaltungsmanagement
+Employer: Verlag C.H.Beck GmbH & Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/19739-0061043047-S
+---
+Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-beacc2d47493477-S
+---
+Job Title: Sachbearbeiter/-in im Bereich Öffentlichkeitsarbeit/Eventmanagement (m/w/d)
+Employer: Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002198768-S
+---
 Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
 Employer: anonymisiertem Arbeitgeber
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15872211-STA-S
----
-Job Title: Assistant Sales- und Eventmanagement (M/W/D) LaMunt Store
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15725194-STA-S
 ---
 Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
 Employer: anonymisiertem Arbeitgeber
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4606190479-S
 ---
-Job Title: Host*ess (m/w/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Y3XWI5-TOF-S
----
 Job Title: Eventtechniker:in (m/w/d)
-Employer: anonymisiertem Arbeitgeber
+Employer: FastLane GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28313614-RJA-S
----
-Job Title: Technische/r Mitarbeiter/in (m/w/d) im Geräteverleih der Hochschule für Fernsehen und Film
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28379023-RJA-S
 ---
 Job Title: Veranstaltungstechniker m/w/d
 Employer: Younivers GmbH
@@ -389,26 +430,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-a7b43f15e5d5ee44-S
 Job Title: Projektleiter*In (m/w/d)
 Employer: anonymisiertem Arbeitgeber
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007616443-S
----
-Job Title: (Junior) Eventmanager (w/m/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-AM2-S
----
-Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-JL2-S
----
-Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-3ET-S
----
-Job Title: Bankettlogistiker (m/w/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-O8IKQM-DL4-S
----
-Job Title: Minijob (m/w/d) in der Veranstaltungsbetreuung
-Employer: Technische Hochschule Ingolstadt Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002158556-S
 ---
 Job Title: Senior Video Redakteur (m/w/d)
 Employer: BurdaForward GmbH
@@ -425,34 +446,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
 Job Title: Mediengestalter/Mediengestalterin für Bild und Ton oder Fotografen (m/w/d)
 Employer: Bayerisches Landeskriminalamt
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18338-1501986-1-S
----
-Job Title: Beleuchtungsmeister*in (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002125580-S
----
-Job Title: Regieassistenz (m/w/d)
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002124057-S
----
-Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-e28a873749f14f9-S
----
-Job Title: Veranstaltungstechniker / Medientechniker (m/w/d)
-Employer: Technische Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204407803-S
----
-Job Title: Bühnentechniker*in (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002118760-S
----
-Job Title: Mitarbeiter:in Fundstelle und Schließfachaufsicht am Bahnhof München
-Employer: DB Zeitarbeit GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1499038-1-S
----
-Job Title: Werkstudent (m/w/d) in der Unternehmenskommunikation, Schwerpunkt Film,München,Würzburg
-Employer: bbw-Gruppe
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-1977487-S
 ---
 
 --- 
