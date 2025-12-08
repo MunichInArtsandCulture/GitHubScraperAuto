@@ -94,6 +94,10 @@ job_scraper_buehnenjobs1.2.py
 --- 
 job_scraper_feierwerk.py 
 ---
+Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
+---
 Job Title: Fachkraft für Veranstaltungstechnik (w/m/d) für unsere Technikabteilung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/fachkraft-fuer-veranstaltungstechnik
@@ -146,7 +150,10 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=36755): Read timed out. (read timeout=120)
+
+--- 
+job_scraper_gaertnerplatztheater1.2.py 
+---
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -158,6 +165,10 @@ job_scraper_HDK1.6.py
 
 --- 
 job_scraper_kultweet1.3.py 
+---
+Job Title: Freiberufliche Kunst- oder /  und Kulturpädagog*in als Projektleitung für das Projekt Raumveränderer (m/ w/ d) | München
+Employer: CultureClouds e.V.
+Link: https://www.kultweet.de/jobs/CultureClouds_Projektleitung.pdf
 ---
 Job Title: Referent:in Öffentlichkeitsarbeit | München
 Employer: ​Flughafen München GmbH
@@ -174,14 +185,6 @@ Link: https://www.kultweet.de/jobs/Lenbachhaus_wiss_Volontariat.pdf
 Job Title: wiss. Mitarbeiter zur Vorbereitung der Sonderausstellung „Liaisons françaises“ (m/ w/ d) | München
 Employer: Staatliche Museumsagentur Bayern
 Link: https://interamt.de/koop/app/stelle?id=1383586
----
-Job Title: Werkstudent (w/ m/ d) Kultur- und Sponsoringprogramme | München
-Employer: Siemens AG
-Link: https://jobs.siemens.com/en_US/externaljobs/JobDetail/484936?recommendation=&source=Private+Post&tags=prosple
----
-Job Title: wiss. Mitarbeit Forschungsgruppe "Kunst, Umwelt, Ökologie" | München
-Employer: Zentralinstitut für Kunstgeschichte
-Link: https://www.zikg.eu/aktuelles/nachrichten/stellenausschreibung-kunsthistorikerin
 ---
 
 --- 
@@ -271,7 +274,11 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
-Job Title: Auszubildendezur Fachkraft für Veranstaltungstechnik (m/w/d)
+Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Referent*in Controlling (m/w/d)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -279,11 +286,23 @@ Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-Job Title: Regieassistenz (m/w/d)in Vollzeit
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Ausbildungsplatzzum/zur Damenmaßschneider/in (m/w/d)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Auszubildendezur Fachkraft für Veranstaltungstechnik (m/w/d)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Regieassistenz (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -347,17 +366,49 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
-Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-2K1-S
+Job Title: Assistenz der Technischen Leitungen aller Spielstätten (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252471-S
+---
+Job Title: Ankleider (m/w/d) für die Schauspielgarderobe
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252310-S
+---
+Job Title: Orchesterwart*in (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17790-43814618-122-S
+---
+Job Title: Senior Video Redakteur (m/w/d)
+Employer: BurdaForward GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4628573609-S
+---
+Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
+Employer: Deutsches Theater München Betriebs-GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4628478201-S
+---
+Job Title: Volontariat (m/w/d) Kulturreferat Seniorenresidenz München-Neufriedenheim
+Employer: Augustinum gGmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000856541-S
+---
+Job Title: Technische Assistenz im Forschungslabor (Teilzeit 50%)  (m/w/d)
+Employer: Klinikum der Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-95222283157468d0-S
+---
+Job Title: Eventmanager (m/w/d)
+Employer: Aramark Deutschland
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-3EP-S
+---
+Job Title: (Junior) Eventmanager (w/m/d)
+Employer: Feinkost Käfer
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-1PG-S
 ---
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-H4E-S
 ---
-Job Title: (Junior) Eventmanager (w/m/d)
-Employer: Feinkost Käfer
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-1PG-S
+Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-2K1-S
 ---
 Job Title: Eventmanager (m/w/d)
 Employer: Aramark Holding Deutschland GmbH
@@ -375,14 +426,6 @@ Job Title: Customer Events Coordinator (w/m/d)
 Employer: Worksmart GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11112-68568-1738667-0-S
 ---
-Job Title: Garderobenkraft (w/m/d) in der Käfer-Schänke, München
-Employer: Käfer-Schänke
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2012310-S
----
-Job Title: Eventmanager (m/w/d)
-Employer: Aramark Deutschland
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-3EP-S
----
 Job Title: Leitung Veranstaltungsverkauf (m/w/d)
 Employer: Sperger Gaststättenbetrieb OHG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002204754-S
@@ -395,10 +438,6 @@ Job Title: Wissenschaftliche Mitarbeiterin / Wissenschaftlichen Mitarbeiter Sond
 Employer: Staatliche Museumsagentur Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002201199-S
 ---
-Job Title: Referent (m/w/d) Veranstaltungsmanagement
-Employer: Verlag C.H.Beck GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/19739-0061043047-S
----
 Job Title: Hostess im GRETA OTO Munich (d/w/m) Vollzeit
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-beacc2d47493477-S
@@ -408,12 +447,8 @@ Employer: Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002198768-S
 ---
 Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
-Employer: anonymisiertem Arbeitgeber
+Employer: Deutsches Theater München Betriebs-GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-15872211-STA-S
----
-Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4606190479-S
 ---
 Job Title: Eventtechniker:in (m/w/d)
 Employer: FastLane GmbH
@@ -423,29 +458,13 @@ Job Title: Veranstaltungstechniker m/w/d
 Employer: Younivers GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13556920-S
 ---
-Job Title: Hilfskraft zur Veranstaltungsunterstützung  (m/w/d)
-Employer: Klinikum der Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-a7b43f15e5d5ee44-S
----
 Job Title: Projektleiter*In (m/w/d)
 Employer: anonymisiertem Arbeitgeber
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007616443-S
 ---
-Job Title: Senior Video Redakteur (m/w/d)
-Employer: BurdaForward GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4587309695-S
----
 Job Title: Projektmanager / Projektmanagerin für Veranstaltungen (m/w/d)
 Employer: Ludwig-Maximilians-Universität München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-ybinriu68k-S
----
-Job Title: Assistant Sales- und Eventmanagement (m/w/d) LaMunt Store
-Employer: OBERALP Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13243-15725194-JB-S
----
-Job Title: Mediengestalter/Mediengestalterin für Bild und Ton oder Fotografen (m/w/d)
-Employer: Bayerisches Landeskriminalamt
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18338-1501986-1-S
 ---
 
 --- 
