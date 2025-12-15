@@ -34,10 +34,6 @@ Job Title: CRM - Manager:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/crm-manager-in-m-w-d
 ---
-Job Title: HR Manager:in mit Fokus Recruiting und Personaladministration (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/hr-manager-in-mit-fokus-recruiting-und-personaladministration-m-w-d
----
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-veranstaltungskauffrau-bzw-zum-veranstaltungskaufmann-2
@@ -70,10 +66,6 @@ Job Title: Projektleiter:in Veranstaltungstechnik (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/projektleiter-in-veranstaltungstechnik-m-w-d
 ---
-Job Title: Convention & Event Operations Coordinator (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/convention-event-operations-coordinator-m-w-d
----
 Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward / Küchenhilfe / Spülhilfe (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/mitarbeiter-in-stewarding-spueler-in-steward-kuechenhilfe-spuelhilfe-m-w-d
@@ -94,6 +86,10 @@ job_scraper_buehnenjobs1.2.py
 --- 
 job_scraper_feierwerk.py 
 ---
+Job Title: Barmanager*in (w/m/d)
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/barmanagerin-w/m/d
+---
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
@@ -113,6 +109,10 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/sozial-kultur-und-medienpaedagogen
 Job Title: Sozialpädagog*in / Kulturpädagog*in (w/m/d) im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogin/kulturpaedagogin-tatz
+---
+Job Title: Mitarbeiter*in (w/m/d) für das AMP Proberaumzentrum
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-w/m/d-fuer-das-amp-proberaumzentrum
 ---
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
@@ -150,10 +150,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=41577): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -166,17 +163,13 @@ job_scraper_HDK1.6.py
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Volontariat (m/ w/ d) Kulturreferat | München-Neufriedenheim
+Employer: Augustinum gGmbH
+Link: https://bewerbung.augustinum-gruppe.de/jobposting/91e73eaec0e3a96e856e73fc914edf5d5b37cc400?ref=homepage
+---
 Job Title: Freiberufliche Kunst- oder /  und Kulturpädagog*in als Projektleitung für das Projekt Raumveränderer (m/ w/ d) | München
 Employer: CultureClouds e.V.
 Link: https://www.kultweet.de/jobs/CultureClouds_Projektleitung.pdf
----
-Job Title: Referent:in Öffentlichkeitsarbeit | München
-Employer: ​Flughafen München GmbH
-Link: https://bewerben.munich-airport.de/de/jobs/116590/referentin-offentlichkeitsarbeit
----
-Job Title: Werkstudent Kunst Management (w/ m/ x) | München
-Employer: BMW Group
-Link: https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.172390.html
 ---
 Job Title: Wissenschaftliche*n Volontär*in im Bereich Konservierung /  Restaurierung von Gemälden und Skulpturen oder Graphik und Photographie | München
 Employer: Städtische Galerie im Lenbachhaus und Kunstbau München
@@ -274,6 +267,10 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Aushilfe (m/w/d) für die Bühnenreinigungmit 5 Wochenarbeitsstunden
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -299,10 +296,6 @@ Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Auszubildendezur Fachkraft für Veranstaltungstechnik (m/w/d)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Regieassistenz (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -366,6 +359,30 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Veranstaltungstechniker Modern Workplace (m/w/d)
+Employer: FORTE Germany GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002293239-S
+---
+Job Title: Werkstudent Marketing Manager (w/m/d) - Schwerpunkt Online Marketing & Event-Management, München
+Employer: Materna Virtual Solution GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037824-S
+---
+Job Title: Producer digitale Medienproduktion (m/w/d), München Niederlassung
+Employer: Neumann&Müller Veranstaltungstechnik
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037791-S
+---
+Job Title: Betreuer (m/w/d) Verantwortungsbereich Schulkooperationen, HDBW
+Employer: Hochschule der Bayerischen Wirtschaft (HDBW) gGmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037746-S
+---
+Job Title: Veranstaltungstechniker m/w/d
+Employer: Younivers GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13593699-S
+---
+Job Title: Leiter*in der Beleuchtungs-/Video-Abteilung (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002271042-S
+---
 Job Title: Assistenz der Technischen Leitungen aller Spielstätten (m/w/d)
 Employer: Bayerisches Staatsschauspiel Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252471-S
@@ -373,14 +390,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252471-S
 Job Title: Ankleider (m/w/d) für die Schauspielgarderobe
 Employer: Bayerisches Staatsschauspiel Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252310-S
----
-Job Title: Orchesterwart*in (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17790-43814618-122-S
----
-Job Title: Senior Video Redakteur (m/w/d)
-Employer: BurdaForward GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4628573609-S
 ---
 Job Title: Mitarbeiter*in Veranstaltungsorganisation (m/w/d) mit Führungserfahrung
 Employer: Deutsches Theater München Betriebs-GmbH
@@ -390,17 +399,9 @@ Job Title: Volontariat (m/w/d) Kulturreferat Seniorenresidenz München-Neufriede
 Employer: Augustinum gGmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000856541-S
 ---
-Job Title: Technische Assistenz im Forschungslabor (Teilzeit 50%)  (m/w/d)
-Employer: Klinikum der Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-95222283157468d0-S
----
 Job Title: Eventmanager (m/w/d)
 Employer: Aramark Deutschland
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-3EP-S
----
-Job Title: (Junior) Eventmanager (w/m/d)
-Employer: Feinkost Käfer
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-WZ4JQZ-1PG-S
 ---
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
@@ -414,13 +415,13 @@ Job Title: Eventmanager (m/w/d)
 Employer: Aramark Holding Deutschland GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15874-43805692-1128-S
 ---
-Job Title: befristete Elternzeitvertretung einer Referatsleitung (w/m/d) in der Museumsabteilung
-Employer: Bayer. Verw.d.staatl.Schlösser Gärten u. Seen -Hauptverw.- Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204646405-S
----
 Job Title: International Coordinator (m/w/d)
 Employer: Technische Universität München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204643450-S
+---
+Job Title: befristete Elternzeitvertretung einer Referatsleitung (w/m/d) in der Museumsabteilung
+Employer: Bayer. Verw.d.staatl.Schlösser Gärten u. Seen -Hauptverw.- Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204646405-S
 ---
 Job Title: Customer Events Coordinator (w/m/d)
 Employer: Worksmart GmbH
@@ -454,14 +455,6 @@ Job Title: Eventtechniker:in (m/w/d)
 Employer: FastLane GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28313614-RJA-S
 ---
-Job Title: Veranstaltungstechniker m/w/d
-Employer: Younivers GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13556920-S
----
-Job Title: Projektleiter*In (m/w/d)
-Employer: anonymisiertem Arbeitgeber
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007616443-S
----
 Job Title: Projektmanager / Projektmanagerin für Veranstaltungen (m/w/d)
 Employer: Ludwig-Maximilians-Universität München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-ybinriu68k-S
@@ -469,6 +462,11 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-ybinriu68k-S
 
 --- 
 job_scraper_muenchen.de1.2.py 
+---
+Job Title: Leiter*in der Beleuchtungs-/Video-Abteilung (w/m/d)
+Employer: Münchner Kammerspiele
+Link: https://karriere.muenchen.de/job/Schauburg%2C-Theater-f%C3%BCr-junges-Leiterin-der-Beleuchtungs-Video-Abteilung-%28wmd%29-Schauburg%2C/1274628901/
+
 ---
 Job Title: Ausbildung zur/m Fachangestellten für Medien- und Informationsdienste Bibliothek (w/m/d)
 Employer: Kulturreferat
