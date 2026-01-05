@@ -162,6 +162,10 @@ job_scraper_HDK1.6.py
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: wissenschaftlichen Mitarbeiter/ in (m/ w/ d), Vollzeit | München
+Employer: Neu Staatliche Graphische Sammlung München
+Link: https://interamt.de/koop/app/stelle?id=1390612
+---
 Job Title: Volontär*in (m/ w/ d) Trends und Wirkungsorientierung | München
 Employer: Goethe-Institut e.V.
 Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=10209
@@ -173,10 +177,6 @@ Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=10208&srsltid=AfmBOooMvE1Q
 Job Title: Kunstpädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Raumveränderer in München
 Employer: CultureClouds e.V.
 Link: https://www.kultweet.de/jobs/CultureClouds_Kunstpaedagogik.pdf
----
-Job Title: Volontariat (m/ w/ d) Kulturreferat | München-Neufriedenheim
-Employer: Augustinum gGmbH
-Link: https://bewerbung.augustinum-gruppe.de/jobposting/91e73eaec0e3a96e856e73fc914edf5d5b37cc400?ref=homepage
 ---
 Job Title: Freiberufliche Kunst- oder /  und Kulturpädagog*in als Projektleitung für das Projekt Raumveränderer (m/ w/ d) | München
 Employer: CultureClouds e.V.
@@ -272,6 +272,14 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Leitung der Transportabteilung unddes Dekorationslagers (m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -356,17 +364,33 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
-Job Title: Host/ Hostess für das Trader Vic´s (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-9K4-S
+Job Title: Wissenschaftliche/r Mitarbeiter/in (m/w/d)
+Employer: Staatliche Museumsagentur Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002275175-S
 ---
-Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-6IN-S
+Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002356943-S
+---
+Job Title: Stellvertretender Leiter der Beleuchtungsabteilung (m/w/d) Vollzeit / Teilzeit
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28530489-RJA-S
+---
+Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
+Employer: Rauschenberger Catering & Restaurants München GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-OKE-S
 ---
 Job Title: Eventmanager (m/w/d)
 Employer: Aramark Deutschland
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-VSU-S
+---
+Job Title: House Host (m/w/d), Revo München
+Employer: Revo München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2067487-S
+---
+Job Title: Service Host (m/w/d), Revo München
+Employer: Revo München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2067485-S
 ---
 Job Title: Referent/in Veranstaltungs- und Gremienmanagement (m/w/d)
 Employer: Sparkassenverband Bayern
@@ -380,10 +404,6 @@ Job Title: ES-Klarinette (m/w/d) mit Verpflichtung zur B-Klarinette für das Pol
 Employer: I. Bereitschaftspolizeiabteilu ng München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204938449-S
 ---
-Job Title: Referent/in Veranstaltungs- und Gremienmanagement (m/w/d)
-Employer: Sparkassenverband Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4660274406-S
----
 Job Title: Event- & Projektmanager (w/m/d), München
 Employer: SOS-Kinderdörfer weltweit
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2050124-S
@@ -396,17 +416,9 @@ Job Title: Regieassistent*in (Schauspiel) (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002325771-S
 ---
-Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
-Employer: Rauschenberger Catering & Restaurants München GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-OKE-S
----
 Job Title: Video Producer (m/w/d)
 Employer: IPPEN.MEDIA
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28506302-YF-S
----
-Job Title: Arbeitsvermittler/in (w/m/d) ZAV-Künstlervermittlung München, Sparte Unterhaltung, Teilzeit 1 Jahr
-Employer: Bundesagentur für Arbeit
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204876631-S
 ---
 Job Title: Veranstaltungstechniker Modern Workplace (m/w/d)
 Employer: FORTE Germany GmbH
@@ -432,6 +444,10 @@ Job Title: Leiter*in der Beleuchtungs-/Video-Abteilung (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002271042-S
 ---
+Job Title: Assistenz der Technischen Leitungen aller Spielstätten (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252471-S
+---
 Job Title: Volontariat (m/w/d) Kulturreferat Seniorenresidenz München-Neufriedenheim
 Employer: Augustinum gGmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000856541-S
@@ -447,14 +463,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779-
 Job Title: Leitung Veranstaltungsverkauf (m/w/d)
 Employer: Sperger Gaststättenbetrieb OHG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002204754-S
----
-Job Title: Sachbearbeiter/-in im Bereich Öffentlichkeitsarbeit/Eventmanagement (m/w/d)
-Employer: Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002198768-S
----
-Job Title: Projektmanager / Projektmanagerin für Veranstaltungen (m/w/d)
-Employer: Ludwig-Maximilians-Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-ybinriu68k-S
 ---
 
 --- 
