@@ -10,18 +10,6 @@ Job Title: Leitung Gebäudetechnik / Haustechnik / Versorgungstechnik & Facility
 Employer: Bergson
 Link: https://bergson.com/jobs/leitung-gebaeudetechnik-haustechnik-versorgungstechnik-facilitymanagement-m-w-d-2
 ---
-Job Title: Koch / Köchin für Bankett und Eventcatering / Eventkoch / Eventköchin / Cateringkoch / Cateringköchin / Produktionskoch / Produktionsköchin (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/koch-koechin-fuer-bankett-und-eventcatering-eventkoch-eventkoechin-cateringkoch-cateringkoechin-produktionskoch-produktionskoechin-m-w-d
----
-Job Title: Sous Chef:in à la carte  (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/sous-chef-in-m-w-d
----
-Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/chef-in-de-partie-postenchef-in-m-w-d-2
----
 Job Title: Werkstudent:in oder Aushilfe bzw. Minijobber:in als Servicekraft Gastronomie & Events (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/servicekraft-gastronomie-events-neu
@@ -30,17 +18,9 @@ Job Title: Stewarding Supervisor / Chief Steward / Leitung Spülküche (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/stewarding-supervisor-chief-steward-leitung-spuelkueche-m-w-d
 ---
-Job Title: CRM - Manager:in (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/crm-manager-in-m-w-d
----
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-veranstaltungskauffrau-bzw-zum-veranstaltungskaufmann-2
----
-Job Title: Chef:in de Rang / Kellner:in / Servicekraft Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/chef-in-de-rang-kellner-in-servicekraft-gastronomie-events-m-w-d-2
 ---
 Job Title: Elektriker:in als Mitarbeitende:r in unserer Haustechnik / Gebäudetechnik (m/w/d)
 Employer: Bergson
@@ -146,10 +126,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=54829): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -162,8 +139,20 @@ job_scraper_HDK1.6.py
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Redakteur/ in (m/ w/ d) in der Redaktion der Neuen Deutschen Biographie-online (NDB-online) | München
+Employer: Historische Kommission bei der Bayerischen Akademie der Wissenschaften
+Link: https://www.historischekommission-muenchen.de/abteilungen/deutsche-biographie-neue-deutsche-biographie-ndb-online#c614
+---
+Job Title: Leitung (m/ w/ d) Kommunikation & Marketing | München
+Employer: Karl & Faber Kunstauktionen GmbH
+Link: https://www.karlundfaber.de/de/auktionshaus/karriere/
+---
+Job Title: Referent*in (m/ w/ d) Tanz und Performance | München
+Employer: Goethe-Institut e.V.
+Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=10622
+---
 Job Title: wissenschaftlichen Mitarbeiter/ in (m/ w/ d), Vollzeit | München
-Employer: Neu Staatliche Graphische Sammlung München
+Employer: Staatliche Graphische Sammlung München
 Link: https://interamt.de/koop/app/stelle?id=1390612
 ---
 Job Title: Volontär*in (m/ w/ d) Trends und Wirkungsorientierung | München
@@ -177,10 +166,6 @@ Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=10208&srsltid=AfmBOooMvE1Q
 Job Title: Kunstpädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Raumveränderer in München
 Employer: CultureClouds e.V.
 Link: https://www.kultweet.de/jobs/CultureClouds_Kunstpaedagogik.pdf
----
-Job Title: Freiberufliche Kunst- oder /  und Kulturpädagog*in als Projektleitung für das Projekt Raumveränderer (m/ w/ d) | München
-Employer: CultureClouds e.V.
-Link: https://www.kultweet.de/jobs/CultureClouds_Projektleitung.pdf
 ---
 Job Title: Wissenschaftliche*n Volontär*in im Bereich Konservierung /  Restaurierung von Gemälden und Skulpturen oder Graphik und Photographie | München
 Employer: Städtische Galerie im Lenbachhaus und Kunstbau München
@@ -204,10 +189,8 @@ Error occurred: Message:
 --- 
 job_scraper_museum-fuenf-kontinente.py 
 ---
-Job Title: Eine engagierte Persönlichkeit (m/w/d) für den Aufsichtsdienst
-Employer: Museum Fünf Kontinente
-Link: https://www.museum-fuenf-kontinente.de/museum/stellenangebote/aufsichtsdienst/
----
+Error occurred: Message: 
+
 
 --- 
 job_scraper_pasinger-fabrik1.2.py 
@@ -236,22 +219,6 @@ Link: https://www.mphil.de/ueber-uns/offene-stellen
 --- 
 job_scraper_pinakothek.py 
 ---
-Job Title: Wissenschaftliche Mitarbeiterin / Wissenschaftlichen Mitarbeiter zur Vorbereitung der Sonderausstellung „Liaisons françaises“ (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Leitende Betriebstechnikerin / Leitender Betriebstechniker (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Betriebstechnikerin / Betriebstechniker (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: für die Pinakothek der Moderne
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
 Job Title: Abteilung Presse und Kommunikation der Bayerischen Staatsgemäldesammlungen
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -271,6 +238,10 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 
 --- 
 job_scraper_residenztheater1.2.py 
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Assistenz der Technischen Leitungenaller Spielstätten (m/w/d) in Vollzeit
 Employer: Residenztheater
@@ -364,6 +335,30 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Veranstaltungstechniker m/w/d
+Employer: Younivers GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13630543-S
+---
+Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28590596-RJA-S
+---
+Job Title: Video Producer (m/w/d)
+Employer: IPPEN.MEDIA
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28506302-YF-S
+---
+Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-6IN-S
+---
+Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
+Employer: Rauschenberger Catering & Restaurants München GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-OKE-S
+---
+Job Title: Eventmanager (m/w/d)
+Employer: Aramark Deutschland
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-VSU-S
+---
 Job Title: Wissenschaftliche/r Mitarbeiter/in (m/w/d)
 Employer: Staatliche Museumsagentur Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002275175-S
@@ -375,14 +370,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002356943-S
 Job Title: Stellvertretender Leiter der Beleuchtungsabteilung (m/w/d) Vollzeit / Teilzeit
 Employer: Staatstheater am Gärtnerplatz
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28530489-RJA-S
----
-Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
-Employer: Rauschenberger Catering & Restaurants München GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-OKE-S
----
-Job Title: Eventmanager (m/w/d)
-Employer: Aramark Deutschland
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-VSU-S
 ---
 Job Title: House Host (m/w/d), Revo München
 Employer: Revo München
@@ -408,37 +395,13 @@ Job Title: Event- & Projektmanager (w/m/d), München
 Employer: SOS-Kinderdörfer weltweit
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2050124-S
 ---
-Job Title: Broadcast Manager / Sendeleiter (m/w/d)
-Employer: ProSiebenSat.1 Media SE
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15224-43823123-1217-S
----
 Job Title: Regieassistent*in (Schauspiel) (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002325771-S
 ---
-Job Title: Video Producer (m/w/d)
-Employer: IPPEN.MEDIA
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28506302-YF-S
----
-Job Title: Veranstaltungstechniker Modern Workplace (m/w/d)
-Employer: FORTE Germany GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002293239-S
----
 Job Title: Werkstudent Marketing Manager (w/m/d) - Schwerpunkt Online Marketing & Event-Management, München
 Employer: Materna Virtual Solution GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037824-S
----
-Job Title: Producer digitale Medienproduktion (m/w/d), München Niederlassung
-Employer: Neumann&Müller Veranstaltungstechnik
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037791-S
----
-Job Title: Betreuer (m/w/d) Verantwortungsbereich Schulkooperationen, HDBW
-Employer: Hochschule der Bayerischen Wirtschaft (HDBW) gGmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2037746-S
----
-Job Title: Veranstaltungstechniker m/w/d
-Employer: Younivers GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13593699-S
 ---
 Job Title: Leiter*in der Beleuchtungs-/Video-Abteilung (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
@@ -463,6 +426,14 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779-
 Job Title: Leitung Veranstaltungsverkauf (m/w/d)
 Employer: Sperger Gaststättenbetrieb OHG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002204754-S
+---
+Job Title: Sachbearbeiter/-in im Bereich Öffentlichkeitsarbeit/Eventmanagement (m/w/d)
+Employer: Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002198768-S
+---
+Job Title: Fachkraft Customer Interaction (m/w/d)
+Employer: Guldberg GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13410-k13572.15002-S
 ---
 
 --- 
