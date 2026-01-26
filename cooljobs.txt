@@ -74,10 +74,6 @@ Job Title: Barpersonal (w/m/d) für das Gastro-Team
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/barpersonal-wmd
 ---
-Job Title: Mitarbeiter*in (w/m/d) für das AMP Proberaumzentrum
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-w/m/d-fuer-das-amp-proberaumzentrum
----
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
@@ -126,13 +122,41 @@ job_scraper_glockenbachwerkstatt.py
 --- 
 job_scraper_HDK1.6.py 
 ---
+Job Title: Volontär*in Kuration
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
+---
 
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Volontär:in (m/ w/ d) in der Dramaturgie | München
+Employer: Bayerische Staatsoper
+Link: https://www.staatsoper.de/media/user_upload/Dramaturgie_Volontariat_2026_LL_SK.pdf
+---
+Job Title: Volontär*in Kuration (w/ m/ d), Vollzeit | München
+Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
+---
+Job Title: Kunstpädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Straße.Oase in München
+Employer: CultureClouds e.V.
+Link: https://www.kultweet.de/jobs/CultureClouds_Kunstpaedagogik_Strasse_Oase.pdf
+---
+Job Title: Projektassistenz (m/ w/ d), Vollzeit und Festanstellung | München
+Employer: Elastique. GmbH
+Link: https://elastique-gmbh.jobs.personio.de/job/2431202?display=de
+---
+Job Title: Künstlerisches Betriebsbüro (m/ w/ d), Minijob (603€) oder Werkstudent:in, 10h/ Woche | München
+Employer: ODEON Jugendsinfonieorchester München e.V.
+Link: https://www.kultweet.de/jobs/ODEON_KBB.pdf
+---
+Job Title: Produktionsleitung (m/ w/ d), 32h/ Woche | München
+Employer: Pasinger Fabrik Kultur- und Bürgerzentrum GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002438211-S
+---
 Job Title: Projektmanager (w/ m/ d) für Veranstaltungen | München
 Employer: Deutsches Museum
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002410572-S
+Link: https://www.deutsches-museum.de/museum/ueber-uns/karriere/stellenangebote#c41809
 ---
 Job Title: Redakteur/ in (m/ w/ d) in der Redaktion der Neuen Deutschen Biographie-online (NDB-online) | München
 Employer: Historische Kommission bei der Bayerischen Akademie der Wissenschaften
@@ -145,10 +169,6 @@ Link: https://www.karlundfaber.de/de/auktionshaus/karriere/
 Job Title: Referent*in (m/ w/ d) Tanz und Performance | München
 Employer: Goethe-Institut e.V.
 Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=10622
----
-Job Title: Kunstpädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Raumveränderer in München
-Employer: CultureClouds e.V.
-Link: https://www.kultweet.de/jobs/CultureClouds_Kunstpaedagogik.pdf
 ---
 Job Title: Wissenschaftliche*n Volontär*in im Bereich Konservierung /  Restaurierung von Gemälden und Skulpturen oder Graphik und Photographie | München
 Employer: Städtische Galerie im Lenbachhaus und Kunstbau München
@@ -221,6 +241,14 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 
 --- 
 job_scraper_residenztheater1.2.py 
+---
+Job Title: Gast-Kostümassistenten (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Leitung der Transportabteilung unddes Dekorationslagers (m/w/d) in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Betriebsingenieur Theater- und Zukunftstechnik(m/w/d) in Vollzeit
 Employer: Residenztheater
@@ -310,6 +338,30 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Eventmanager (m/w/d)
+Employer: Aramark Deutschland
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-2SV-S
+---
+Job Title: Fachkraft Präparation Geologie
+Employer: Technische Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205230832-S
+---
+Job Title: Projektleitung - Koordination und Eventmanagement - Gedenkjahr Joseph von Fraunhofer (all genders)
+Employer: Fraunhofer-Gesellschaft e.V. Zentrale München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-43922066-122-S
+---
+Job Title: Gast-Kostümassistenz (m/w/d)
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002458882-S
+---
+Job Title: Referent (m/w/d) im Bereich Veranstaltungsmanagement
+Employer: Steuerberaterkammer München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4690456382-S
+---
+Job Title: Event Coordinator (m/w/d)  Facility Management 
+Employer: CBRE GWS IFM Industrie GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20344-0062225284-S
+---
 Job Title: Produktionsleitung (m/w/d)
 Employer: Pasinger Fabrik Kultur- und Bürgerzentrum GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002438211-S
@@ -326,9 +378,17 @@ Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-6IN-S
 ---
-Job Title: Eventmanager (m/w/d)
-Employer: Aramark Deutschland
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-VSU-S
+Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28590596-RJA-S
+---
+Job Title: Industrie- oder Handwerksmeister/in Elektrotechnik (m/w/d)
+Employer: Staatl. Fachoberschule München Ausbildungsrichtung Technik + ABU
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002416225-S
+---
+Job Title: Mitarbeitende/-r für die Schlüsselverwaltung  (m/w/d)
+Employer: Hochschule für angewandte Wissenschaften München Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002409559-S
 ---
 Job Title: Stellvertretender Leiter der Beleuchtungsabteilung (m/w/d) Vollzeit / Teilzeit
 Employer: Staatstheater am Gärtnerplatz
@@ -337,18 +397,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28530489-RJA-S
 Job Title: Projektmanager (w/m/d) für Veranstaltungen - 2603
 Employer: Deutsches Museum Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002410572-S
----
-Job Title: Industrie- oder Handwerksmeister/in Elektrotechnik (m/w/d)
-Employer: Staatl. Fachoberschule München Ausbildungsrichtung Technik + ABU
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002416225-S
----
-Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28590596-RJA-S
----
-Job Title: Mitarbeitende/-r für die Schlüsselverwaltung  (m/w/d)
-Employer: Hochschule für angewandte Wissenschaften München Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002409559-S
 ---
 Job Title: (Junior) Eventmanager (m/w/d) Public Catering Allianz Arena
 Employer: DO & CO Deutschland Holding
@@ -389,26 +437,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002271042-S
 Job Title: Assistenz der Technischen Leitungen aller Spielstätten (m/w/d)
 Employer: Bayerisches Staatsschauspiel Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002252471-S
----
-Job Title: Volontariat (m/w/d) Kulturreferat Seniorenresidenz München-Neufriedenheim
-Employer: Augustinum gGmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000856541-S
----
-Job Title: Eventmanager (m/w/d)
-Employer: Aramark Holding Deutschland GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15874-43805692-1128-S
----
-Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
-Employer: DO & CO Deutschland Holding
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
----
-Job Title: Leitung Veranstaltungsverkauf (m/w/d)
-Employer: Sperger Gaststättenbetrieb OHG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002204754-S
----
-Job Title: Sachbearbeiter/-in im Bereich Öffentlichkeitsarbeit/Eventmanagement (m/w/d)
-Employer: Rechtsanwaltskammer für den Oberlandesgerichtsbezirk München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002198768-S
 ---
 
 --- 
