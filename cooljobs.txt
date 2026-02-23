@@ -14,6 +14,10 @@ Job Title: Stewarding Supervisor / Chief Steward / Leitung Spülküche (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/stewarding-supervisor-chief-steward-leitung-spuelkueche-m-w-d
 ---
+Job Title: Junior Marketing - Manager:in (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/junior-marketing-manager-in-m-w-d
+---
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-veranstaltungskauffrau-bzw-zum-veranstaltungskaufmann-2
@@ -126,9 +130,17 @@ Job Title: Volontär*in Kuration
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
 ---
+Job Title: Kurator*in
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/kurator-in-w-m-d
+---
 
 --- 
 job_scraper_kultweet1.3.py 
+---
+Job Title: Kultur- und Kommunikationsmanager (w/ m/ d), Teilzeit | München​‌‌‌​‌‌‌​‌​​​​‌‌‌‌‌
+Employer: Technische Universität München
+Link: https://portal.mytum.de/jobs/sonstige/NewsArticle_20260211_113241
 ---
 Job Title: Zirkuspädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Zirkus Pumpernudl | München​‌‌‌​‌‌‌​​‌​​‌‌‌​​‌
 Employer: CultureClouds e. V.
@@ -162,21 +174,9 @@ Job Title: Volontär:in (m/ w/ d) in der Dramaturgie | München​‌‌‌​�
 Employer: Bayerische Staatsoper
 Link: https://www.staatsoper.de/media/user_upload/Dramaturgie_Volontariat_2026_LL_SK.pdf
 ---
-Job Title: Volontär*in Kuration (w/ m/ d), Vollzeit | München​‌‌‌​‌‌​‌​‌​‌​​‌​​​
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/volont%C3%A4r-in-produktion-w-m-d-programm-ausstellungen
----
-Job Title: Kunstpädagog*innen (m/ w/ d) als freiberufliche Mitarbeiter*innen für das Projekt Straße.Oase in München​‌‌‌​‌‌​‌​‌​​‌​‌‌‌​
-Employer: CultureClouds e.V.
-Link: https://www.kultweet.de/jobs/CultureClouds_Kunstpaedagogik_Strasse_Oase.pdf
----
 Job Title: Projektassistenz (m/ w/ d), Vollzeit und Festanstellung | München​‌‌‌​‌‌​‌​​‌‌‌​​​​‌
 Employer: Elastique. GmbH
 Link: https://elastique-gmbh.jobs.personio.de/job/2431202?display=de
----
-Job Title: Künstlerisches Betriebsbüro (m/ w/ d), Minijob (603€) oder Werkstudent:in, 10h/ Woche | München​‌‌‌​‌‌​‌​​‌​‌‌​‌​‌
-Employer: ODEON Jugendsinfonieorchester München e.V.
-Link: https://www.kultweet.de/jobs/ODEON_KBB.pdf
 ---
 
 --- 
@@ -190,10 +190,8 @@ Link: https://www.kunsthalle-muc.de/stellenangebote/
 --- 
 job_scraper_museum-brandhorst.py 
 ---
-Job Title: PRAKTIKUMSANGEBOT
-Employer: Museum Brandhorst
-Link: https://www.museum-brandhorst.de/stellenangebote/
----
+Error occurred: Message: 
+
 
 --- 
 job_scraper_museum-fuenf-kontinente.py 
@@ -247,14 +245,6 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 
 --- 
 job_scraper_residenztheater1.2.py 
----
-Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Betriebsingenieur Theater- und Zukunftstechnik(m/w/d) in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Einlassdienst
 Employer: Residenztheater
@@ -316,6 +306,26 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) Depotwesen
+Employer: grey engineering GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17902-k59932.5099-S
+---
+Job Title: Elektrotechniker (m/w/d) Gebäude- und Veranstaltungstechnik
+Employer: Kassenzahnärztliche Vereinigung Bayerns
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-16056666-KAL-S
+---
+Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) im Depotwesen -
+Employer: SIEMENS bei Tintschl Technik GmbH    
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13869-13671681-S
+---
+Job Title: Messe- und Eventmanager (m/w/d)
+Employer: Orizon GmbH, Unit Aviation
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A4471-S
+---
+Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-4d32c82a341a44e-S
+---
 Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-GE0-S
@@ -328,37 +338,21 @@ Job Title: Assistant Events Operations Manager (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-7Y1OBO-5GI-S
 ---
-Job Title: Eventmanager (m/w/d)
-Employer: Aramark Deutschland
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SPQ5CU-2SV-S
----
-Job Title: Hostess oder Host im GRETA OTO Munich (d/w/m) Vollzeit
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-4d32c82a341a44e-S
----
 Job Title: Veranstaltungskaufmann (w/m/d), München
 Employer: Feinkost Käfer GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2143111-S
----
-Job Title: Video Editor/Cutter:in (m/w/d)
-Employer: Dicentia Germany GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002599269-S
 ---
 Job Title: Veranstaltungskauffrau oder Veranstaltungskaufmann (m/w/d)
 Employer: DRV Bayern Süd
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002588598-S
 ---
-Job Title: Event Manager (m/w/d) Internal Developer Events / R&D Veranstaltungen
-Employer: Cs2 ITEC GmbH   Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002587323-S
----
-Job Title: Event Manager (w/m/d) R&D
-Employer: Akkodis Germany Tech Experts GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-637634-7878-9054-S
----
 Job Title: Eventmanager international (all gender) Ref. Nr.: 17588 – DA
 Employer: SD & T Systems Development & Technology AG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002585635-S
+---
+Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28590596-RJA-S
 ---
 Job Title: Stellvertretender Leiter der Beleuchtungsabteilung (m/w/d) Vollzeit / Teilzeit
 Employer: Staatstheater am Gärtnerplatz
@@ -380,10 +374,6 @@ Job Title: Musikerin/Musiker (m/w/d) Instrument Oboe
 Employer: Bundespolizeipräsidium
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205426931-S
 ---
-Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28590596-RJA-S
----
 Job Title: (Junior) Eventmanager (w/m/d), München
 Employer: Käfer-Schänke
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2132404-S
@@ -396,6 +386,10 @@ Job Title: Campus Manager (m/w/d)
 Employer: Scaling Spaces
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-060578450-S
 ---
+Job Title: Experte Administrative Unterstützung im
+Employer: Hays Professional Solutions GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-856030%252F1_597110LS-S
+---
 Job Title: Tontechniker*in (w/m/d)
 Employer: Landeshauptstadt München Personal- und Organisationsreferat
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002533887-S
@@ -403,10 +397,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002533887-S
 Job Title: Haushälterin (m/w/d) / Office Host
 Employer: Weder & Noch GmbH & Co. KG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-5662df25_JB5059853-S
----
-Job Title: Experte Administrative Unterstützung im
-Employer: Hays Professional Solutions GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-856030%252F1_597110LS-S
 ---
 Job Title: Bürokoordinator (m/w/d)  Facility Management 
 Employer: CBRE GWS IFM Industrie GmbH
@@ -420,6 +410,7 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002526369-S
 --- 
 job_scraper_muenchen.de1.2.py 
 ---
+Fehler beim Abrufen der Seite, Status Code: 404
 
 --- 
 job_scraper_blitz.py 
