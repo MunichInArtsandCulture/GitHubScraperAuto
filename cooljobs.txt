@@ -10,9 +10,13 @@ Job Title: Werkstudent:in oder Aushilfe bzw. Minijobber:in als Servicekraft Gast
 Employer: Bergson
 Link: https://bergson.com/jobs/servicekraft-gastronomie-events-neu
 ---
-Job Title: Stewarding Supervisor / Chief Steward / Leitung Spülküche (m/w/d)
+Job Title: Back-of-House-Manager (m/w/d)
 Employer: Bergson
-Link: https://bergson.com/jobs/stewarding-supervisor-chief-steward-leitung-spuelkueche-m-w-d
+Link: https://bergson.com/jobs/back-of-house-manager-m-w-d
+---
+Job Title: F&B Supervisor (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/f-b-supervisor-m-w-d
 ---
 Job Title: Junior Marketing - Manager:in (m/w/d)
 Employer: Bergson
@@ -106,8 +110,14 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=44149): Read timed out. (read timeout=120)
-Error executing job_scraper_glockenbachwerkstatt.py: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+--- 
+job_scraper_gaertnerplatztheater1.2.py 
+---
+
+--- 
+job_scraper_glockenbachwerkstatt.py 
+---
 
 --- 
 job_scraper_HDK1.6.py 
@@ -116,9 +126,33 @@ Job Title: Kurator*in
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/kurator-in-w-m-d
 ---
+Job Title: Assistent*in des künstlerischen Geschäftsführers
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/assistenz-kuenstlerische-geschaeftsfuehrung-2
+---
+Job Title: Haustechniker*in
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/haustechnik-2
+---
+Job Title: Mitarbeiter*in im Sicherheitsbereich / Pforte
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/sicherheit-pforte
+---
 
 --- 
 job_scraper_kultweet1.3.py 
+---
+Job Title: Programmleitung (m/ w/ d) Europanetzwerk Deutsch, Vollzeit | München​‌‌‌​‌‌‌‌‌​​​​​​​‌​
+Employer: Goethe-Institut e.V.
+Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9469
+---
+Job Title: Musikwissenschaftler/ in (m/ w/ d), Teilzeit | München​‌‌‌​‌‌‌‌​‌‌‌​​​‌​​
+Employer: Bayerische Staatsbibliothek
+Link: https://www.bsb-muenchen.de/ueber-uns/stellenausschreibungen/
+---
+Job Title: Assistent*in des künstlerischen Geschäftsführers (w/ m/ d), 75% | München​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌
+Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/assistenz-kuenstlerische-geschaeftsfuehrung-2
 ---
 Job Title: Registrar:in (m/ w/ d), 40h/ Woche, befristet | München​‌‌‌​‌‌‌‌​​‌​‌‌​​‌​
 Employer: Kunsthalle der Hypo-Kulturstiftung
@@ -131,18 +165,6 @@ Link: https://www.service.bund.de/IMPORTE/Stellenangebote/interamt/2026/03/14203
 Job Title: Kunst- oder /  und Kulturpädagog*in (m/ w/ d), Teilzeit,  als freiberufliche Projektleitung für das Projekt Raumveränderer | München​‌‌‌​‌‌‌‌​​​‌​​​‌​‌
 Employer: CultureClouds e. V.
 Link: https://www.kultweet.de/jobs/CultureClouds_Kunst_Kulturpaedagogin_Projektleitung.pdf
----
-Job Title: Kurator*in (w/ m/ d) mit Schwerpunkt Medien in Vollzeit | München​‌‌‌​‌‌‌​‌‌‌‌​‌​​‌‌
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/kurator-in-w-m-d
----
-Job Title: Volontär*in (m/ w/ d) im Kultur- und Freizeitprogramm, Vollzeit | München​‌‌‌​‌‌‌​‌‌‌‌​​‌​​‌
-Employer: Goethe-Institut e.V.
-Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=6128
----
-Job Title: Bildungsreferent*in /  Pädagogische*n Mitarbeiter*in (w/ m/ d), 30,5h/ Woche | München​‌‌‌​‌‌‌​‌‌​‌‌‌‌‌​‌
-Employer: Freiwilligendienste Kultur und Bildung
-Link: https://c1fc186c-d451-4c90-a59a-3f497d2a0954.filesusr.com/ugd/3dbe13_177a8b193bb54b489ce7cd1bb10574b9.pdf
 ---
 Job Title: Lektor (m/ w/ d) Geschichte, Vollzeit | Berlin, München, Freiburg i. Br. oder 100% remote​‌‌‌​‌‌‌​‌‌​‌​​‌​​​
 Employer: Verlag Herder GmbH
@@ -188,29 +210,11 @@ job_scraper_pasinger-fabrik1.2.py
 --- 
 job_scraper_philharmoniker.py 
 ---
-Job Title: Konzertmeister*in der 1. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-Job Title: STELLV. Konzertmeister*in der 1. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-Job Title: Stimmführer*in der 2. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-Job Title: Solo-Bratsche
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
+Fehler: Message: 
+
 
 --- 
 job_scraper_pinakothek.py 
----
-Job Title: 09.03. bis 13.03.2026 geschlossen
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
 Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
 Employer: --not determinable-- 
@@ -244,6 +248,10 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
+Job Title: Mitarbeiter (m/w/d) für die Transportabteilungin Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -256,15 +264,7 @@ Job Title: Mitarbeiter (m/w/d) in der Beleuchtungin Teilzeit (32 Wochenarbeitsst
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-Job Title: Mitarbeiter (m/w/d) für die Videoabteilungin Teilzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
 Job Title: Veranstaltungstechniker (m/w/d)in Vollzeit für die Spielstätte Cuvilliéstheater
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Beauftragten (m/w/d) für das betrieblicheEingliederungsmanagement und für Inklusion
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -316,10 +316,6 @@ job_scraper_tollwood_praktikum.py
 --- 
 job_scraper_unterfahrts.py 
 ---
-Job Title: Der Jazzclub Unterfahrt sucht zur Verstärkung seines Teams Mitarbeiter*innen
-Employer: Jazzclub Unterfahrt
-Link: https://www.unterfahrt.de/info.php?action=jobs
----
 
 --- 
 job_scraper_wow.py 
@@ -328,57 +324,9 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
-Job Title: Kultur- und Kommunikationsmanager mit Schwerpunkt QuantWorld (w/m
-Employer: Technische Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205758094-S
----
-Job Title: Beleuchtungsmeister/in (m/w/d)
-Employer: Bayerische Staatsoper
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28772237-RJA-S
----
-Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-850863b12e5b466-S
----
 Job Title: Event Manager m/w/d
 Employer: Network Circle GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-K94MZ5-XGV-S
----
-Job Title: Events and Office Coordinator  (m/w/d)
-Employer: Ludwig-Maximilians-Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-gz1r8tno60-S
----
-Job Title: Event Manager (m/w/d)
-Employer: George P. Johnson GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28762055-YF-S
----
-Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) im Depotwesen
-Employer: Aide GmbH Regensburg
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002689172-S
----
-Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01420336-S
----
-Job Title: Mitarbeiter (m/w/d) in der Beleuchtung in Vollzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688673-S
----
-Job Title: Mitarbeiter (m/w/d) in der Beleuchtung in Teilzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688593-S
----
-Job Title: Projekt-/ Eventkoordinator (m/w/d)
-Employer: GHM Gesellschaft für Handwerksmessen mbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16150010-STA-S
----
-Job Title: Veranstaltungskauffrau oder Veranstaltungskaufmann (w/m/d)
-Employer: CultureClouds e.V.
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16149740-STA-S
----
-Job Title: Creative Producer Video (m/w/d)
-Employer: IPPEN.MEDIA
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28734569-YF-S
 ---
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
@@ -388,33 +336,85 @@ Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-GE0-S
 ---
-Job Title: Projektmitarbeiter/in (m/w/d)
+Job Title: Studio & Video Producer (m/w/d)
+Employer: Hays Professional Solutions GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-865785%252F1_602168LS-S
+---
+Job Title: Seminar- und Eventmanager (m/w/d) in München
+Employer: Treukontax Steuerberatungsgesellschaft mbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20467-2195757-S
+---
+Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
+Employer: MHP Hotel AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ae1717573cdf401-S
+---
+Job Title: Mitarbeiter (m/w/d) Veranstaltungsmanagement (75%)
+Employer: Technische Hochschule Ingolstadt Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002755865-S
+---
+Job Title: Musikwissenschaftler/in (m/w/d)
 Employer: Bayerische Staatsbibliothek
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002638385-S
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002740979-S
+---
+Job Title: Kultur- und Kommunikationsmanager mit Schwerpunkt QuantWorld (w/m
+Employer: Technische Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205758094-S
+---
+Job Title: Stellwerksbeleuchter (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731705-S
+---
+Job Title: Beleuchtungsmeister/in (m/w/d)
+Employer: Bayerische Staatsoper
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28772237-RJA-S
+---
+Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731686-S
+---
+Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-850863b12e5b466-S
+---
+Job Title: Event Manager (m/w/d)
+Employer: George P. Johnson GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28762055-YF-S
+---
+Job Title: Events and Office Coordinator  (m/w/d)
+Employer: Ludwig-Maximilians-Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-gz1r8tno60-S
+---
+Job Title: Mitarbeiter (m/w/d) in der Beleuchtung in Vollzeit
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688673-S
+---
+Job Title: Mitarbeiter (m/w/d) in der Beleuchtung in Teilzeit
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688593-S
+---
+Job Title: Creative Producer Video (m/w/d)
+Employer: IPPEN.MEDIA
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28734569-YF-S
+---
+Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
+Employer: Staatliche Museumsagentur Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01420336-S
+---
+Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) im Depotwesen
+Employer: Aide GmbH Regensburg
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002689172-S
+---
+Job Title: Projekt-/ Eventkoordinator (m/w/d)
+Employer: GHM Gesellschaft für Handwerksmessen mbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16150010-STA-S
+---
+Job Title: Veranstaltungskauffrau oder Veranstaltungskaufmann (w/m/d)
+Employer: CultureClouds e.V.
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16149740-STA-S
 ---
 Job Title: Veranstaltungstechniker m/w/d
 Employer: Younivers GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13679085-S
----
-Job Title: Veranstaltungstechniker (m/w/d) in Vollzeit für die Spielstätte Cuvilliéstheater
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002664742-S
----
-Job Title: Mitarbeiter (m/w/d) für die Videoabteilung in Teilzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002664585-S
----
-Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) Depotwesen
-Employer: grey engineering GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17902-k59932.5099-S
----
-Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) im Depotwesen -
-Employer: SIEMENS bei Tintschl Technik GmbH    
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13869-13671681-S
----
-Job Title: Messe- und Eventmanager (m/w/d)
-Employer: Orizon GmbH, Unit Aviation
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A4471-S
 ---
 Job Title: Veranstaltungskaufmann (w/m/d), München
 Employer: Feinkost Käfer GmbH
@@ -423,10 +423,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2143111-S
 Job Title: Eventmanager international (all gender) Ref. Nr.: 17588 – DA
 Employer: SD & T Systems Development & Technology AG
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002585635-S
----
-Job Title: Registrar (w/m/d) - 2606
-Employer: Deutsches Museum Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002569385-S
 ---
 
 --- 
