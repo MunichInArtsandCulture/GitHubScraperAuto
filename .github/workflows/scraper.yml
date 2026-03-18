@@ -5,6 +5,9 @@ on:
     - cron: "0 8 * * 1"  # Jeden Montag um 08:00 Uhr
   workflow_dispatch:      # Manuell auslösbar
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -17,6 +20,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: 📦 Install Dependencies
         run: |
@@ -26,8 +30,8 @@ jobs:
       - name: 🌐 Install Chromium
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
-          echo "CHROME_BIN=$(which chromium-browser)" >> $GITHUB_ENV
+          sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+          echo "CHROME_BIN=$(which chromium-browser || which chromium)" >> $GITHUB_ENV
 
       - name: 🚀 Run Master Script
         run: |
@@ -40,4 +44,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add cooljobs.txt categorized_jobs.txt || true
           git commit -m "📄 Update job list (automated)" || echo "No changes to commit"
-          git push origin HEAD:main --force
+          git push origin HEAD:main
