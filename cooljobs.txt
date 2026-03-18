@@ -106,7 +106,10 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=53313): Read timed out. (read timeout=120)
+
+--- 
+job_scraper_gaertnerplatztheater1.2.py 
+---
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
