@@ -106,10 +106,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-
---- 
-job_scraper_gaertnerplatztheater1.2.py 
----
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=54429): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -326,6 +323,10 @@ Job Title: Disponent/in (m/w/d) im Bereich Filmproduktion
 Employer: Hochschule für Fernsehen und Film München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28809831-RJA-S
 ---
+Job Title: Junior Serviceleiter
+Employer: Lufthansa Group Taste & More GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1551719-1-S
+---
 Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-NK8-S
@@ -361,10 +362,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-K94MZ5-XGV-S
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-CWT-S
----
-Job Title: Seminar- und Eventmanager (m/w/d) in München
-Employer: Treukontax Steuerberatungsgesellschaft mbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20467-2195757-S
 ---
 Job Title: Studio & Video Producer (m/w/d)
 Employer: Hays Professional Solutions GmbH
