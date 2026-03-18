@@ -68,6 +68,7 @@ for line in lines:
         current_block.append(line)
 
 # Speichern in Datei
+print("Processed jobs count:", len(processed_jobs))
 with open("categorized_jobs.txt", "w", encoding="utf-8") as output_file:
     output_file.write("\n---\n".join(processed_jobs))
 
