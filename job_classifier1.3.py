@@ -60,7 +60,7 @@ for line in lines:
                         processed_jobs.append(formatted_job)
 
                     except Exception as e:
-                        print(f"❌ GPT Error for job '{title}': {e}")
+                        print(f"❌ GPT Error for job '{title}': {type(e).__name__}: {e}")
 
         current_block = []
         inside_block = True
