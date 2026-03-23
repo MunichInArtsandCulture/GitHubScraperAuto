@@ -106,7 +106,10 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=54429): Read timed out. (read timeout=120)
+
+--- 
+job_scraper_gaertnerplatztheater1.2.py 
+---
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -135,8 +138,16 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/sicherheit-
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Praktikum bei einem internationalen Festival für zeitgenössischen Tanz | München​‌‌‌​‌‌‌‌‌‌​‌‌​‌​​​
+Employer: JOINT ADVENTURES – Walter Heun
+Link: https://www.kultweet.de/jobs/TWE-Praktikumsausschreibung.pdf
+---
+Job Title: Werkstudent (w/ m/ d) in der Musikredaktion von BR Klassik, 10h/ Woche | München - Freimann​‌‌‌​‌‌‌‌‌‌​​‌‌​‌‌​
+Employer: Bayerischer Rundfunk
+Link: https://jobs.br.de/Vacancies/1096/Description/1
+---
 Job Title: Volontär*in (m/ w/ d) im Vorstandsbereich, Vollzeit | München​‌‌‌​‌‌‌‌‌‌​​​​‌​‌​
-Employer: Neu Goethe-Institut e.V.
+Employer: Goethe-Institut e.V.
 Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9305
 ---
 Job Title: Arbeitsstellenleiter (w/ m/ d) für das Verbundprojekt „Edition wissenschaftlicher Software“, Vollzeit | Münchenrlin​‌‌‌​‌‌‌‌‌​‌‌​​​​‌‌
@@ -319,6 +330,18 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ac3abacc2b31417-S
+---
+Job Title: Junior Eventmanager (m/w/d) operativ
+Employer: Ferdinand Gastronomie GmbH Im Bamberger Haus
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16207363-STA-S
+---
+Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
+Employer: DO & CO Deutschland Holding
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
+---
 Job Title: Disponent/in (m/w/d) im Bereich Filmproduktion
 Employer: Hochschule für Fernsehen und Film München
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28809831-RJA-S
@@ -367,25 +390,21 @@ Job Title: Studio & Video Producer (m/w/d)
 Employer: Hays Professional Solutions GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-865785%252F1_602168LS-S
 ---
-Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
-Employer: MHP Hotel AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ae1717573cdf401-S
----
 Job Title: Mitarbeiter (m/w/d) Veranstaltungsmanagement (75%)
 Employer: Technische Hochschule Ingolstadt Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002755865-S
+---
+Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
+Employer: MHP Hotel AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ae1717573cdf401-S
 ---
 Job Title: Musikwissenschaftler/in (m/w/d)
 Employer: Bayerische Staatsbibliothek
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002740979-S
 ---
-Job Title: Meister/in Beleuchtung (m/w/d)
+Job Title: Meister Beleuchtung / Veranstaltungstechnik (m/w/d) als Teamleitung
 Employer: Bayerische Staatsoper
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28772237-RJA-S
----
-Job Title: Kultur- und Kommunikationsmanager mit Schwerpunkt QuantWorld (w/m
-Employer: Technische Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205758094-S
 ---
 Job Title: Stellwerksbeleuchter (m/w/d)
 Employer: Staatstheater am Gärtnerplatz
@@ -394,10 +413,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731705-S
 Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
 Employer: Staatstheater am Gärtnerplatz
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731686-S
----
-Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-850863b12e5b466-S
 ---
 Job Title: Event Manager (m/w/d)
 Employer: George P. Johnson GmbH
@@ -414,10 +429,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688673-S
 Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
 Employer: Staatliche Museumsagentur Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01420336-S
----
-Job Title: Wissenschaftlicher Mitarbeiter (m/w/d) im Depotwesen
-Employer: Aide GmbH Regensburg
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002689172-S
 ---
 
 --- 
