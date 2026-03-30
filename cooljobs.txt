@@ -6,9 +6,9 @@ job_scraper_bahnwaerterthiel.py
 --- 
 job_scraper_bergson.py 
 ---
-Job Title: Werkstudent:in oder Aushilfe bzw. Minijobber:in als Servicekraft Gastronomie & Events (m/w/d)
+Job Title: F&B Magaziner:in / F&B Lagerist:in / Warenlogistiker:in /  Mitarbeiter:in Lagerlogistik
 Employer: Bergson
-Link: https://bergson.com/jobs/servicekraft-gastronomie-events-neu
+Link: https://bergson.com/jobs/f-b-magaziner-in-f-b-lagerist-in-warenlogistiker-in-mitarbeiter-in-lagerlogistik
 ---
 Job Title: Back-of-House-Manager (m/w/d)
 Employer: Bergson
@@ -17,10 +17,6 @@ Link: https://bergson.com/jobs/back-of-house-manager-m-w-d
 Job Title: F&B Supervisor (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/f-b-supervisor-m-w-d
----
-Job Title: Junior Marketing - Manager:in (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/junior-marketing-manager-in-m-w-d
 ---
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
@@ -37,18 +33,6 @@ Link: https://bergson.com/jobs/ausbildung-zur-koechin-bzw-zum-koch
 Job Title: Ausbildung zur Fachkraft für Veranstaltungstechnik (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-fachkraft-fuer-veranstaltungstechnik-m-w-d
----
-Job Title: Anlagenmechaniker:in HKLS / Gebäudetechniker:in / Hausmeister:in  (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/anlagenmechaniker-in-hkls-gebaeudetechniker-in-hausmeister-in-m-w-d
----
-Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward / Küchenhilfe / Spülhilfe (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/mitarbeiter-in-stewarding-spueler-in-steward-kuechenhilfe-spuelhilfe-m-w-d
----
-Job Title: Freelancer in der Veranstaltungstechnik (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/freelancer-in-der-veranstaltungstechnik-m-w-d
 ---
 
 --- 
@@ -138,6 +122,14 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/sicherheit-
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Projektleitung Stadtteilmanagement (m/ w/ d) im Rahmen einer Elternzeitvertretung, Voll- oder Teilzeit, befristet | München​‌‌‌‌​​​​​​‌‌​‌‌​​‌
+Employer: Münchner Gesellschaft für Stadterneuerung mbH (MGS)
+Link: https://mgs.jobs.personio.de/job/2577367?language=de
+---
+Job Title: Volontär:in (m/ w/ d) in der Dramaturgie | München​‌‌‌‌​​​​​​​‌​‌​‌‌‌
+Employer: Bayerische Staatsoper
+Link: https://www.staatsoper.de/media/content/PDF/Jobs/Dramaturgie_Volontariat_2026-27_1.Haelfte__003_.pdf
+---
 Job Title: Praktikum bei einem internationalen Festival für zeitgenössischen Tanz | München​‌‌‌​‌‌‌‌‌‌​‌‌​‌​​​
 Employer: JOINT ADVENTURES – Walter Heun
 Link: https://www.kultweet.de/jobs/TWE-Praktikumsausschreibung.pdf
@@ -157,18 +149,6 @@ Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibun
 Job Title: Programmleitung (m/ w/ d) Europanetzwerk Deutsch, Vollzeit | München​‌‌‌​‌‌‌‌‌​​​​​​​‌​
 Employer: Goethe-Institut e.V.
 Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9469
----
-Job Title: Musikwissenschaftler/ in (m/ w/ d), Teilzeit | München​‌‌‌​‌‌‌‌​‌‌‌​​​‌​​
-Employer: Bayerische Staatsbibliothek
-Link: https://www.bsb-muenchen.de/ueber-uns/stellenausschreibungen/
----
-Job Title: Assistent*in des künstlerischen Geschäftsführers (w/ m/ d), 75% | München​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/assistenz-kuenstlerische-geschaeftsfuehrung-2
----
-Job Title: Re­fe­rent/ in für Alt­deut­sche und Alt­nie­der­län­di­sche Ma­le­rei (m/ w/ d), Vollzeit | München​‌‌‌​‌‌‌‌​​​‌‌​​‌​‌
-Employer: Bayerischen Staatsgemäldesammlungen
-Link: https://www.service.bund.de/IMPORTE/Stellenangebote/interamt/2026/03/1420336.html;jsessionid=C1C187D56F321B87A2D45DD371DC0907.internet642?nn=4642046&type=0&searchResult=true
 ---
 Job Title: Kunst- oder /  und Kulturpädagog*in (m/ w/ d), Teilzeit,  als freiberufliche Projektleitung für das Projekt Raumveränderer | München​‌‌‌​‌‌‌‌​​​‌​​​‌​‌
 Employer: CultureClouds e. V.
@@ -234,11 +214,27 @@ Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
+Job Title: Projektmitarbeiter/in, Schwerpunkt Erstellung des Bestandskatalogs Skulptur, Teil III (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Wissenschaftliche/n Restaurator/in für moderne und zeitgenössische Kunst als Restaurator/in (m/w/d) für die Sammlung Moderne Kunst
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
 Job Title: Leitende Betriebstechnikerin / Leitenden Betriebstechniker (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-Job Title: Museumsaufseher/in (m/w/d)
+Job Title: Neue Pinakothek, Sammlung Schack
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Leitende Betriebstechnikerin / Leitenden Betriebstechniker (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Pinakothek der Moderne
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
@@ -266,7 +262,19 @@ Job Title: Mitarbeiter (m/w/d) für die Transportabteilungin Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
+Job Title: Ankleider (m/w/d) für die Schauspielgarderobein Teilzeit mit 16 Wochenarbeitsstunden
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Theaterobermeister (m/w/d)für die Spielstätte Residenztheater in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -330,6 +338,340 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x5567d4f98a6a <unknown>
+#1 0x5567d49a7ab5 <unknown>
+#2 0x5567d49ae92b <unknown>
+#3 0x5567d49b11ab <unknown>
+#4 0x5567d49b1253 <unknown>
+#5 0x5567d49fa059 <unknown>
+#6 0x5567d49fa8b1 <unknown>
+#7 0x5567d49ef616 <unknown>
+#8 0x5567d49ef4f7 <unknown>
+#9 0x5567d4a427b6 <unknown>
+#10 0x5567d49edcbf <unknown>
+#11 0x5567d49eea81 <unknown>
+#12 0x5567d4f5ea64 <unknown>
+#13 0x5567d4f61951 <unknown>
+#14 0x5567d4f4b21e <unknown>
+#15 0x5567d4f6251e <unknown>
+#16 0x5567d4f31be0 <unknown>
+#17 0x5567d4f859b8 <unknown>
+#18 0x5567d4f85b88 <unknown>
+#19 0x5567d4f974de <unknown>
+#20 0x7fb30149caa4 <unknown>
+#21 0x7fb301529c6c <unknown>
+
+Job Title: Video Editor (m/w/d)
+Employer: BurdaForward GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4761043515-S
+---
+Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-QWA-S
+---
+Job Title: Ankleider (m/w/d) für die Schauspielgarderobe in Teilzeit
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002841588-S
+---
+Job Title: Technischer Assistent mit administrativen Aufgaben im Bereich Forschung (Teilzeit 50%)  (m/w/d)
+Employer: Klinikum der Universität München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-69e04b01a156a31f-S
+---
+Job Title: Künstlerische Produktionsleitung (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002835737-S
+---
+Job Title: Veranstaltungstechniker m/w/d
+Employer: Younivers GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13706279-S
+---
+Job Title: Senior Tax Manager (m/w/d)
+Employer: ARRI Arnold & Richter Cine Technik GmbH & Co. Betriebs KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18896-8543912-S
+---
+Job Title: Technischer Projektmanager (m/w/d) Hochbau München, DE - München
+Employer: Max Bögl Bauservice GmbH und Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2212407-S
+---
+Job Title: Theaterinspizient*in (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002824480-S
+---
+Job Title: Projektmitarbeiter/in, Schwerpunkt Erstellung des Bestandskatalogs Skulptur, Teil III (m/w/d)
+Employer: Staatliche Museumsagentur Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01428808-S
+---
+Job Title: eine/n wissenschaftliche/n Restaurator/in für moderne und zeitgenössische Kunst als Restaurator/i...
+Employer: Staatliche Museumsagentur Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01428049-S
+---
+Job Title: Event Manager (m/w/d) – Schwerpunkt Event‑Organisation & Projektmanagement
+Employer: Dataciders GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-99bee922_JB5104264-S
+---
 Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
 Employer: MHP Hotel am Karlsplatz GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ac3abacc2b31417-S
@@ -337,98 +679,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ac3abacc2b31417-S
 Job Title: Junior Eventmanager (m/w/d) operativ
 Employer: Ferdinand Gastronomie GmbH Im Bamberger Haus
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16207363-STA-S
----
-Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
-Employer: DO & CO Deutschland Holding
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
----
-Job Title: Disponent/in (m/w/d) im Bereich Filmproduktion
-Employer: Hochschule für Fernsehen und Film München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28809831-RJA-S
----
-Job Title: Junior Serviceleiter
-Employer: Lufthansa Group Taste & More GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1551719-1-S
----
-Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
-Employer: Rauschenberger Catering & Restaurants München GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-NK8-S
----
-Job Title: Studentische Aushilfe (m/w/d)  für die Sortierung und Dokumentation der Quellen  aus d.Schott-Archiv
-Employer: Bayerische Staatsbibliothek
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002775221-S
----
-Job Title: Projekt-/ Eventkoordinator (m/w/d)
-Employer: GHM Gesellschaft für Handwerksmessen mbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16150010-STA-S
----
-Job Title: Veranstaltungskauffrau oder Veranstaltungskaufmann (w/m/d)
-Employer: CultureClouds e.V.
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16149740-STA-S
----
-Job Title: Medientechniker / Servicetechniker (m/w/d)
-Employer: ICT AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002772021-S
----
-Job Title: Marketing Eventmanager (m/w/d)
-Employer: Spanflug Technologies GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-5af0718c_JB5096114-S
----
-Job Title: Aushilfe (m/w/d) für unsere Garderobe
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1I70D2-YZ0-S
----
-Job Title: Event Manager m/w/d
-Employer: Network Circle GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-K94MZ5-XGV-S
----
-Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
-Employer: Hotel Bayerischer Hof
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-CWT-S
----
-Job Title: Studio & Video Producer (m/w/d)
-Employer: Hays Professional Solutions GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-865785%252F1_602168LS-S
----
-Job Title: Mitarbeiter (m/w/d) Veranstaltungsmanagement (75%)
-Employer: Technische Hochschule Ingolstadt Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002755865-S
----
-Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
-Employer: MHP Hotel AG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ae1717573cdf401-S
----
-Job Title: Musikwissenschaftler/in (m/w/d)
-Employer: Bayerische Staatsbibliothek
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002740979-S
----
-Job Title: Meister Beleuchtung / Veranstaltungstechnik (m/w/d) als Teamleitung
-Employer: Bayerische Staatsoper
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-28772237-RJA-S
----
-Job Title: Stellwerksbeleuchter (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731705-S
----
-Job Title: Beleuchtungsmeister mit Stellwerksverpflichtung (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002731686-S
----
-Job Title: Event Manager (m/w/d)
-Employer: George P. Johnson GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28762055-YF-S
----
-Job Title: Creative Producer Video (m/w/d)
-Employer: IPPEN.MEDIA
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28734569-YF-S
----
-Job Title: Mitarbeiter (m/w/d) in der Beleuchtung in Vollzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002688673-S
----
-Job Title: Referent/in für Altdeutsche und Altniederländische Malerei (m/w/d)
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01420336-S
 ---
 
 --- 
