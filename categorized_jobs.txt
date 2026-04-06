@@ -13,7 +13,7 @@ Job Title: F&B Supervisor (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/f-b-supervisor-m-w-d
 ---
-[Education, Pedagogical and Social]
+[Education, Pedagogical and Social.]
 Job Title: Ausbildung zur Veranstaltungskauffrau bzw. zum Veranstaltungskaufmann
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-veranstaltungskauffrau-bzw-zum-veranstaltungskaufmann-2
@@ -42,6 +42,11 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchh
 Job Title: Sozialpädagog*in / Kulturpädagog*in (w/m/d) im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/sozialpaedagogin/kulturpaedagogin-tatz
+---
+[Education, Pedagogical and Social]
+Job Title: Mitarbeiter*in (w/m/d) für die pädagogische Betreuung im Feierwerk Dschungelpalast
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-dschungelpalast
 ---
 [Education, Pedagogical and Social]
 Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
@@ -88,30 +93,35 @@ Job Title: Praktikum in der Fachstelle Pop
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
 ---
-[Communication, PR and Press]
+[Art, Artist Support and Event Management]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
+[Communication, PR and Press]
+Job Title: Marketing & Digital Operations Manager*in (w/m/d)
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/marketing-digital-operations-manager-in-w-m-d
+---
+[Communication, PR and Press]
+Job Title: Pressesprecher*in (w/m/d)
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/pressesprecher-in-w-m-d
+---
+[Other]
+Job Title: Werkstudent*in (w/m/d)
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d
+---
+[Communication, PR and Press]
+Job Title: Praktikant*in (w/m/d) Kommunikation
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-kommunikation
+---
 [Art, Artist Support and Event Management]
-Job Title: Kurator*in
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/kurator-in-w-m-d
----
-[Stage and Event Technology]
-Job Title: Assistent*in des künstlerischen Geschäftsführers
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/assistenz-kuenstlerische-geschaeftsfuehrung-2
----
-[Stage and Event Technology]
-Job Title: Haustechniker*in
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/haustechnik-2
----
-[Customer Service, Catering and Cash Register]
-Job Title: Mitarbeiter*in im Sicherheitsbereich / Pforte
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/sicherheit-pforte
+Job Title: Projektmanager*in (m/ w/ d) Arbeitsbereich Kultur, Vollzeit, befristet | München​‌‌‌‌​​​​​‌‌‌​‌‌‌​​
+Employer: Siemens Stiftung
+Link: https://www.kultweet.de/jobs/Siemens_Stiftung_ProjektmanagerIn_Kultur.pdf
 ---
 [Education, Pedagogical and Social]
 Job Title: Projektleitung Stadtteilmanagement (m/ w/ d) im Rahmen einer Elternzeitvertretung, Voll- oder Teilzeit, befristet | München​‌‌‌‌​​​​​​‌‌​‌‌​​‌
@@ -134,19 +144,9 @@ Employer: Bayerischer Rundfunk
 Link: https://jobs.br.de/Vacancies/1096/Description/1
 ---
 [Legal and Financial]
-Job Title: Volontär*in (m/ w/ d) im Vorstandsbereich, Vollzeit | München​‌‌‌​‌‌‌‌‌‌​​​​‌​‌​
-Employer: Goethe-Institut e.V.
-Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9305
----
-[Education, Pedagogical and Social]
 Job Title: Arbeitsstellenleiter (w/ m/ d) für das Verbundprojekt „Edition wissenschaftlicher Software“, Vollzeit | Münchenrlin​‌‌‌​‌‌‌‌‌​‌‌​​​​‌‌
 Employer: Deutsches Museum
 Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2616_Arbeitsstellenleitung_EWS-Projekt_Online.pdf
----
-[Communication, PR and Press]
-Job Title: Programmleitung (m/ w/ d) Europanetzwerk Deutsch, Vollzeit | München​‌‌‌​‌‌‌‌‌​​​​​​​‌​
-Employer: Goethe-Institut e.V.
-Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9469
 ---
 [Education, Pedagogical and Social]
 Job Title: Kunst- oder /  und Kulturpädagog*in (m/ w/ d), Teilzeit,  als freiberufliche Projektleitung für das Projekt Raumveränderer | München​‌‌‌​‌‌‌‌​​​‌​​​‌​‌
@@ -203,7 +203,7 @@ Job Title: Wissenschaftliche/n Restaurator/in für moderne und zeitgenössische 
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Stage and Event Technology]
+[Stage and Event Technology.]
 Job Title: Leitende Betriebstechnikerin / Leitenden Betriebstechniker (m/w/d)
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -238,7 +238,7 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Other]
+[Education, Pedagogical and Social]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -268,11 +268,6 @@ Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cu
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d) in der Beleuchtungin Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
 [Customer Service, Catering and Cash Register]
 Job Title: Einlassdienst
 Employer: Residenztheater
@@ -293,77 +288,82 @@ Job Title: Assistenz Presse- & Öffentlichkeitsarbeitbeim FestivalFreischwimmen 
 Employer: HochX Theater
 Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf
 ---
-[IT and Digital]
-Job Title: Video Editor (m/w/d)
-Employer: BurdaForward GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4761043515-S
+[Customer Service, Catering and Cash Register]
+Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
+Employer: MHP Hotel am Karlsplatz GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-46456c017939486-S
+---
+[Legal and Financial]
+Job Title: Referent der Geschäftsführung (m/w/d)
+Employer: Verlag C.H.BECK
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4768219545-S
+---
+[Communication, PR and Press]
+Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
+Employer: MHP Hotel AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-4f133371a49142b-S
+---
+[Communication, PR and Press]
+Job Title: Senior Projekt Manager (m/w/d) zur Industriebeteiligungs-, Ausstellungsplanung und Sponsorenbetreuun
+Employer: EUROKONGRESS GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4767249715-S
+---
+[Other]
+Job Title: Locationleitung vom smartvillage München-Bogenhausen
+Employer: smartvillage
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-057f100e_JB5113443-S
 ---
 [Stage and Event Technology]
+Job Title: Technische*r Leiter*in Werkraum (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002863645-S
+---
+[Costume, Makeup and Fashion]
+Job Title: Aushilfe (m/w/d) für unsere Garderobe
+Employer: Hotel Bayerischer Hof
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1I70D2-YZ0-S
+---
+[Event, Art, Artist Support and Event Management]
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-QWA-S
 ---
-[Costume, Makeup and Fashion]
-Job Title: Ankleider (m/w/d) für die Schauspielgarderobe in Teilzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002841588-S
----
-[Education, Pedagogical and Social]
-Job Title: Technischer Assistent mit administrativen Aufgaben im Bereich Forschung (Teilzeit 50%)  (m/w/d)
-Employer: Klinikum der Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-69e04b01a156a31f-S
----
-[Stage and Event Technology]
-Job Title: Künstlerische Produktionsleitung (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002835737-S
----
-[Stage and Event Technology]
-Job Title: Veranstaltungstechniker m/w/d
-Employer: Younivers GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13706279-S
----
-[Legal and Financial]
-Job Title: Senior Tax Manager (m/w/d)
-Employer: ARRI Arnold & Richter Cine Technik GmbH & Co. Betriebs KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18896-8543912-S
----
-[Stage and Event Technology]
-Job Title: Technischer Projektmanager (m/w/d) Hochbau München, DE - München
-Employer: Max Bögl Bauservice GmbH und Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2212407-S
----
-[Stage and Event Technology]
-Job Title: Theaterinspizient*in (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002824480-S
+[Art, Artist Support and Event Management]
+Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
+Employer: Rauschenberger Catering & Restaurants München GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-NK8-S
 ---
 [Art, Artist Support and Event Management]
-Job Title: Projektmitarbeiter/in, Schwerpunkt Erstellung des Bestandskatalogs Skulptur, Teil III (m/w/d)
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01428808-S
+Job Title: Event Manager (m/w/d)
+Employer: George P. Johnson GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28762055-YF-S
 ---
 [Art, Artist Support and Event Management]
-Job Title: eine/n wissenschaftliche/n Restaurator/in für moderne und zeitgenössische Kunst als Restaurator/i...
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01428049-S
+Job Title: Creative Producer Video (m/w/d)
+Employer: IPPEN.MEDIA
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-28734569-YF-S
 ---
 [Art, Artist Support and Event Management]
-Job Title: Event Manager (m/w/d) – Schwerpunkt Event‑Organisation & Projektmanagement
-Employer: Dataciders GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-99bee922_JB5104264-S
+Job Title: Junior Eventmanager (m/w/d) Allianz Arena München
+Employer: DO & CO Deutschland Holding
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-bcd4ace4-59a7-4779--S
+---
+[Communication, PR and Press]
+Job Title: Mitarbeiter/-in (m/w/d) Kommunikation und Strategie
+Employer: Bayer. Staatsministerium für Digitales
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002858987-S
+---
+[Stage and Event Technology]
+Job Title: Consultant (m/w/d) Fachrichtung Beschallung
+Employer: ICT AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002856628-S
+---
+[Stage and Event Technology]
+Job Title: Consultant (m/w/d) Fachrichtung Studio Broadcast/Corporate
+Employer: ICT AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002856606-S
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Host/ess & Guest Relations (d/w/m) – GRETA OTO Restaurant
-Employer: MHP Hotel am Karlsplatz GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-ac3abacc2b31417-S
----
-[Art, Artist Support and Event Management]
-Job Title: Junior Eventmanager (m/w/d) operativ
-Employer: Ferdinand Gastronomie GmbH Im Bamberger Haus
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16207363-STA-S
----
-[Stage and Event Technology]
 Job Title: Runner / Ausgabeunterstützung
 Employer: BLITZ Club
 Link: https://www.blitz.club/jobs/
