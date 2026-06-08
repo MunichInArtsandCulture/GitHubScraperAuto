@@ -110,7 +110,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=53809): Read timed out. (read timeout=120)
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=60697): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -119,20 +119,28 @@ job_scraper_glockenbachwerkstatt.py
 --- 
 job_scraper_HDK1.6.py 
 ---
-Job Title: Haustechniker*in (w/m/d)
+Job Title: Mitarbeiter*innen Ausstellungssicherheit (w/m/d)
 Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-kommunikation-2
----
-Job Title: Praktikant*in Programm und Ausstellungen (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-programm-und-ausstellungen-w-m-d
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/mitarbeiter-innen-ausstellungssicherheit-w-m-d
 ---
 
 --- 
 job_scraper_kultweet1.3.py 
 ---
+Job Title: Online Marketing Manager (m/ w/ d), Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​‌​
+Employer: MünchenMusik GmbH & Co. KG
+Link: https://www.kultweet.de/jobs/MuenchenMusik_OnlineManager_Marketing.pdf
+---
+Job Title: Junior Online Campaigns & Media Manager (m/ w/ d), Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​​‌
+Employer: MünchenMusik GmbH & Co. KG
+Link: https://www.kultweet.de/jobs/MuenchenMusik_Junior_Manager_Marketing.pdf
+---
+Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​​​
+Employer: MünchenMusik GmbH & Co. KG
+Link: https://www.kultweet.de/jobs/MuenchenMusik_Alegria_Projektleiter_Tournee_Veranstaltungsmanagement.pdf
+---
 Job Title: Koordination der Kuration und Gestaltung der Ausstellungen (w/ m/ d), unbefristet, Vollzeit | München​‌‌‌‌​​‌​‌‌‌​‌‌​​‌‌
-Employer: Neu Staatliche Naturwissenschaftliche Sammlungen Bayerns
+Employer: Staatliche Naturwissenschaftliche Sammlungen Bayerns
 Link: https://snsb.de/koordination-ausstellungen/
 ---
 Job Title: Projektleitung (m/ w/ d) „Übergangsmanagement“, Vollzeit, befristet | München​‌‌‌‌​​‌​‌‌​​​‌​​‌​
@@ -143,25 +151,9 @@ Job Title: wiss. Mitarbeiter/ -in im Projekt „Bühnenentwürfe und Zeichnungen
 Employer: Deutsches Theatermuseum
 Link: https://www.deutschestheatermuseum.de/de/besuch#stellenangebote
 ---
-Job Title: Assistenzkurator:in (m/ w/ d) Projekt: Antifascism: Now. 50% (freiberuflich, Werkvertrag) | München, flexibel​‌‌‌‌​​‌​‌​​​‌‌‌‌​‌
-Employer: Lothringer 13 Kunsthalle & Goethe-Institut Athen
-Link: https://drive.google.com/file/d/1NUFY7BmsT1K0Ee-uMoKNuZnm1jVQbtqQ/view?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnxhEPkk0OJxVlJ0Xr78tv7G0ZOYNmaiiDpv7i9kGzv_I_skCTbR4VZY-KZNU_aem_L1KkdsQRyPbm_adRupL0ZA
----
 Job Title: Projektmanager (m/ w/ d) Künstler- und Tourneemanagement, Vollzeit | München​‌‌‌‌​​‌​‌​​​‌​​​‌​
 Employer: MünchenMusik GmbH & Co. KG
 Link: https://www.kultweet.de/jobs/MuenchenMusik_Projektmanagement_Tourneen.pdf
----
-Job Title: wiss. Volontär/ in für das Jüdische Museum München, befristet | München​‌‌‌‌​​‌​​‌‌​​‌​‌​​
-Employer: Landeshauptstadt München
-Link: https://www.juedisches-museum-muenchen.de/fileadmin/redaktion/07_Impressum/Ausschreibung_Volontariat_040526.pdf
----
-Job Title: wiss. Mitarbeiter/ in als Leiter/ in der Abteilung Zentrales Sammlungs- und Wissensmanagement (Digital Manager) (m/ w/ d) | München​‌‌‌‌​​​‌‌​​‌​​​​‌‌
-Employer: Bayerische Staatsgemäldesammlungen
-Link: https://interamt.de/koop/app/stelle?id=1441589
----
-Job Title: Projektleitung Stadtteilmanagement (m/ w/ d) im Rahmen einer Elternzeitvertretung, Voll- oder Teilzeit, befristet | München​‌‌‌‌​​​​​​‌‌​‌‌​​‌
-Employer: Münchner Gesellschaft für Stadterneuerung mbH (MGS)
-Link: https://mgs.jobs.personio.de/job/2577367?language=de
 ---
 
 --- 
@@ -247,7 +239,35 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 --- 
 job_scraper_residenztheater1.2.py 
 ---
-Job Title: Bühnenbildassistent (m/w/d)in Vollzeit
+Job Title: Mitarbeiter (m/w/d) in der Personalabteilungin Teilzeit (bis zu 16 Std./Woche)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Mitarbeiter (m/w/d) für die Bühnenreinigungin Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Berufskraftfahrer (m/w/d)mit Führerscheinklasse CE in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Maschinist (m/w/d)in Teilzeit (23,1 Wochenarbeitsstunden)
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Bühnentechniker (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Theaterobermeister (m/w/d)für die Spielstätte Residenztheater in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -331,6 +351,26 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Job Title: Bankettlogistiker (m/w/d)
+Employer: INFINITY Hotel & Conference Resort Munich
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-DAN-S
+---
+Job Title: Stellwerksbeleuchter:in (m/w/d) in Vollzeit
+Employer: Bayerische Theaterakadamie "August Everding" im Prinz- regententheater, Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003173144-S
+---
+Job Title: Beleuchter:in (m/w/d) in Vollzeit
+Employer: Bayerische Theaterakadamie "August Everding" im Prinz- regententheater, Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003173045-S
+---
+Job Title: Bühnentechniker (m/w/d) in Vollzeit
+Employer: Bayerisches Staatsschauspiel Land Bayern
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003172918-S
+---
+Job Title: Technische*r Leiter*in Werkraum (w/m/d)
+Employer: Landeshauptstadt München Personal- und Organisationsreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003162162-S
+---
 Job Title: Host (m/w/d)
 Employer: smartments Betriebsgesellschaft mbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-5b63e39d_JB5159914-S
@@ -355,10 +395,6 @@ Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-VQD-S
 ---
-Job Title: Bankettlogistiker (m/w/d)
-Employer: INFINITY Hotel & Conference Resort Munich
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-H9R-S
----
 Job Title: Mitarbeiter (m/w/d) Training & Event Management - Vollzeit / Teilzeit (min. 30 Stunden/Woche)
 Employer: ADAC HEMS Academy GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-44875-YF-S
@@ -379,21 +415,9 @@ Job Title: Bühnentechniker (m/w/d) für das Proben- und Werkstättenzentrum in 
 Employer: Bayerisches Staatsschauspiel Land Bayern
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003118727-S
 ---
-Job Title: #14401 Broadcast Engineer (m/w/d)
-Employer: Constaff GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15220-2026-14401-S
----
-Job Title: Pianistin/Pianisten (m/w/d) mit Schwerpunkt  Repertoirecoaching in Teilzeit (50 %)
-Employer: Bayerische Theaterakadamie "August Everding" im Prinz- regententheater, Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003103069-S
----
 Job Title: Technischer Assistent (m/w/d) – translationale Krebsforschung
 Employer: Universitätsklinikum der Technischen Universität München AöR
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003096776-S
----
-Job Title: Event Manager (all gender)
-Employer: Maritim Hotel München Maritim Hotelgesellschaft mbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003097366-S
 ---
 Job Title: LED-Techniker (m/w/d),Berlin,Dresden,Leipzig,München
 Employer: Neumann&Müller Veranstaltungstechnik
@@ -410,10 +434,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13749571-S
 Job Title: Aushilfskraft als Videotechniker (m/w/d)
 Employer: Staatstheater am Gärtnerplatz
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003062260-S
----
-Job Title: Veranstaltungskauffrau oder Veranstaltungskaufmann (m/w/d)
-Employer: DRV Bayern Süd
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/15379-NWT2CAKT4hdtle-S
 ---
 Job Title: Objektleiter Infrastrukturelles Facility Management (w/m/d)
 Employer: Apleona GmbH
