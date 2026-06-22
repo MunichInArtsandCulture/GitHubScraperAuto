@@ -18,7 +18,7 @@ Job Title: Restaurantmanager:in / Restaurantleiter:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/restaurantmanager-in-restaurantleiter-in-m-w-d
 ---
-Job Title: Ausbildung zur Köchin bzw. zum Koch (m/w/d)
+Job Title: Ausbildung zur Köchin bzw. zum Koch (m/w/d) ab September 2026
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-koechin-bzw-zum-koch
 ---
@@ -34,6 +34,10 @@ job_scraper_buehnenjobs1.2.py
 --- 
 job_scraper_feierwerk.py 
 ---
+Job Title: Mitarbeiter*in (w/m/d) Vermietungen (Konzerte & Partys) & partizipative Programmentwicklung
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-vermietungen-partizipative-programmentwicklung
+---
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
@@ -41,14 +45,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchh
 Job Title: Barbetrieb Assistenz (w/m/d)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/barbetrieb-assistenz-w/m/d
----
-Job Title: Produktionsleitung (w/m/d) für den Veranstaltungsbereich (Schwerpunkt Partys)
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
----
-Job Title: Mitarbeiter*in (w/m/d) für die pädagogische Betreuung im Feierwerk Dschungelpalast
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-dschungelpalast
 ---
 Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
 Employer: Feierwerk
@@ -98,7 +94,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=37439): Read timed out. (read timeout=120)
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=53139): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -114,6 +110,14 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/mitarbeiter
 
 --- 
 job_scraper_kultweet1.3.py 
+---
+Job Title: Personalentwickler:in (m/ w/ d), Vollzeit | München​‌‌‌‌​​‌‌‌​‌‌​‌‌​‌​
+Employer: Bayerische Staatsoper
+Link: https://www.staatsoper.de/jobs/im-buero
+---
+Job Title: Mitarbeiter:in als Assistenz Musikalische Direktion & Organisatorische Leitung  Hermann-Levi-Akademie (m/ w/ d), Vollzeit | München​‌‌‌‌​​‌‌‌​‌‌​‌‌​​‌
+Employer: Bayerische Staatsoper
+Link: https://www.staatsoper.de/jobs/im-buero
 ---
 Job Title: Sachbearbeiterin/ Sachbearbeiter Büro/ Verwaltung (m/ w/ d), Teilzeit 30 Std./ W., unbefristet | München​‌‌‌‌​​‌‌​‌‌‌​​​​​​
 Employer: Bund der Vertriebenen Vereinigte Landsmannschaften Landesverband Bayern e.V.
@@ -134,10 +138,6 @@ Link: https://www.kultweet.de/jobs/MuenchenMusik_Junior_Manager_Marketing.pdf
 Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​​​
 Employer: MünchenMusik GmbH & Co. KG
 Link: https://www.kultweet.de/jobs/MuenchenMusik_Alegria_Projektleiter_Tournee_Veranstaltungsmanagement.pdf
----
-Job Title: Koordination der Kuration und Gestaltung der Ausstellungen (w/ m/ d), unbefristet, Vollzeit | München​‌‌‌‌​​‌​‌‌‌​‌‌​​‌‌
-Employer: Staatliche Naturwissenschaftliche Sammlungen Bayerns
-Link: https://snsb.de/koordination-ausstellungen/
 ---
 Job Title: Projektmanager (m/ w/ d) Künstler- und Tourneemanagement, Vollzeit | München​‌‌‌‌​​‌​‌​​​‌​​​‌​
 Employer: MünchenMusik GmbH & Co. KG
@@ -191,19 +191,19 @@ Link: https://www.mphil.de/ueber-uns/offene-stellen
 --- 
 job_scraper_pinakothek.py 
 ---
-Job Title: Wissenschaftliche/r Mitarbeiter/in als Leiter/in der Abteilung Zentrales Sammlungs- und Wissensmanagement (Digital Manager) (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Gastkurator-/in Klassische Moderne für die Sammlung Moderne Kunst in der Pinakothekder Moderne (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
 Job Title: Leitende Betriebsingenieurin/ Leitenden Betriebsingenieur (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
 Job Title: Sachbearbeiter/in Registratur und Beschaffung (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Sachgebietsleitung Museums- und Ausstellungstechnik Museum Brandhorst (m/w/d)
+Employer: --not determinable-- 
+Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+Job Title: Museums- und Ausstellungstechniker/in (m/w/d)
 Employer: --not determinable-- 
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
@@ -232,10 +232,6 @@ Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Mitarbeiter (m/w/d) in der Personalabteilungin Teilzeit (bis zu 16 Std./Woche)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-Job Title: Mitarbeiter (m/w/d) für die Bühnenreinigungin Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -268,6 +264,10 @@ Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Praktikumsplatzin der Abteilung Kommunikation und Marketing
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: PRAKTIKUMSPLATZim Bereich Komposition/Musikproduktion
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -327,6 +327,144 @@ job_scraper_wow.py
 --- 
 job_scraper_arbeitsagentur_teil3.py 
 ---
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x564cd85323da <unknown>
+#1 0x564cd7f14139 <unknown>
+#2 0x564cd7f1b332 <unknown>
+#3 0x564cd7f1debb <unknown>
+#4 0x564cd7fb1c61 <unknown>
+#5 0x564cd7fb0b5c <unknown>
+#6 0x564cd7f5be4f <unknown>
+#7 0x564cd7f5cc31 <unknown>
+#8 0x564cd84f89f7 <unknown>
+#9 0x564cd84f7203 <unknown>
+#10 0x564cd84e1f16 <unknown>
+#11 0x564cd84f7d9a <unknown>
+#12 0x564cd84c9eb0 <unknown>
+#13 0x564cd851ed58 <unknown>
+#14 0x564cd851eef5 <unknown>
+#15 0x564cd8530f5e <unknown>
+#16 0x7fe80609caa4 <unknown>
+#17 0x7fe806129c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x564cd85323da <unknown>
+#1 0x564cd7f14139 <unknown>
+#2 0x564cd7f1b332 <unknown>
+#3 0x564cd7f1dbbb <unknown>
+#4 0x564cd7f1dc63 <unknown>
+#5 0x564cd7f68280 <unknown>
+#6 0x564cd7f68ad1 <unknown>
+#7 0x564cd7f5d7c6 <unknown>
+#8 0x564cd7f5d6a7 <unknown>
+#9 0x564cd7fb0b5c <unknown>
+#10 0x564cd7f5be4f <unknown>
+#11 0x564cd7f5cc31 <unknown>
+#12 0x564cd84f89f7 <unknown>
+#13 0x564cd84f7203 <unknown>
+#14 0x564cd84e1f16 <unknown>
+#15 0x564cd84f7d9a <unknown>
+#16 0x564cd84c9eb0 <unknown>
+#17 0x564cd851ed58 <unknown>
+#18 0x564cd851eef5 <unknown>
+#19 0x564cd8530f5e <unknown>
+#20 0x7fe80609caa4 <unknown>
+#21 0x7fe806129c6c <unknown>
+
+Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+#0 0x564cd85323da <unknown>
+#1 0x564cd7f14139 <unknown>
+#2 0x564cd7f1b332 <unknown>
+#3 0x564cd7f1dbbb <unknown>
+#4 0x564cd7f1dc63 <unknown>
+#5 0x564cd7f68280 <unknown>
+#6 0x564cd7f68ad1 <unknown>
+#7 0x564cd7f5d7c6 <unknown>
+#8 0x564cd7f5d6a7 <unknown>
+#9 0x564cd7fb0b5c <unknown>
+#10 0x564cd7f5be4f <unknown>
+#11 0x564cd7f5cc31 <unknown>
+#12 0x564cd84f89f7 <unknown>
+#13 0x564cd84f7203 <unknown>
+#14 0x564cd84e1f16 <unknown>
+#15 0x564cd84f7d9a <unknown>
+#16 0x564cd84c9eb0 <unknown>
+#17 0x564cd851ed58 <unknown>
+#18 0x564cd851eef5 <unknown>
+#19 0x564cd8530f5e <unknown>
+#20 0x7fe80609caa4 <unknown>
+#21 0x7fe806129c6c <unknown>
+
+Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
+Employer: MHP Hotel AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-el203l5lb9-S
+---
+Job Title: Manager (d/w/m) im Veranstaltungsverkauf (MICE)
+Employer: MHP Hotel AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-3gayn9tkfu-S
+---
+Job Title: SENIOR EVENT MANAGER (all genders)
+Employer: George P. Johnson GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-45722-YF-S
+---
+Job Title: Mitarbeiter (m/w/d) Training & Event Management - Vollzeit / Teilzeit (min. 30 Stunden/Woche)
+Employer: ADAC HEMS Academy GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-44875-YF-S
+---
+Job Title: EVENT MANAGER (all genders)
+Employer: George P. Johnson GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-45723-YF-S
+---
+Job Title: Hostess (m/w/d)
+Employer: FR L'Osteria SE München
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18009-0065424141-S
+---
+Job Title: Veranstaltungstechniker (m/w/d)
+Employer: GOP Varieté München GmbH & Co. KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-BBD-S
+---
+Job Title: Live‑Experience Construction Pro – Messebau (m/w/d)
+Employer: INCEPTOR GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003251824-S
+---
+Job Title: LED-Techniker (m/w/d),Berlin,Dresden,Leipzig,München
+Employer: Neumann&Müller Veranstaltungstechnik
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2280580-S
+---
+Job Title: Eventmanager (m/w/d)
+Employer: Israelitische Kultusgemeinde Mchn.u.Obb. K.d.ö.R. Abteilung Finanzreferat
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003242481-S
+---
+Job Title: Specialist Loyalisierung & Community Management (m/w/d)
+Employer: Munich Consulting Group GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-337462-S
+---
+Job Title: Veranstaltungstechniker m/w/d
+Employer: Younivers GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/14638-13776555-S
+---
+Job Title: Bühnenmaschinist*in (m/w/d)
+Employer: Münchner Volkstheater GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003240601-S
+---
+Job Title: Fachkraft für Veranstaltungstechnik/ Bühnentechniker*in (m/w/d)
+Employer: Münchner Volkstheater GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003240502-S
+---
+Job Title: Events Operations Manager (m/w/d)
+Employer: Hotel Bayerischer Hof Gebrüder Volkhardt KG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206832812-S
+---
+Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
+Employer: Rauschenberger Catering & Restaurants München GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-FND-S
+---
 Job Title: Senior Event Manager (m/w/d) (Elternzeitvertretung 16 Monate)
 Employer: 1000 Satellites GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-0b2268af_JB5171761-S
@@ -339,93 +477,17 @@ Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-S7P-S
 ---
-Job Title: Veranstaltungstechniker (m/w/d)
-Employer: GOP Varieté München GmbH & Co. KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CAA1GY-NTE-S
----
 Job Title: Veranstaltungskoordinator Conference & Restaurant (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-3TCJPO-T3Z-S
----
-Job Title: EVENTMANAGER im Bereich Eventcatering (m/w/d)
-Employer: Rauschenberger Catering & Restaurants München GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-FND-S
 ---
 Job Title: Bankettlogistiker (m/w/d)
 Employer: INFINITY Hotel & Conference Resort Munich
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-DAN-S
 ---
-Job Title: Events Operations Manager (m/w/d)
-Employer: Hotel Bayerischer Hof Gebrüder Volkhardt KG
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206832812-S
----
-Job Title: SENIOR EVENT MANAGER (all genders)
-Employer: George P. Johnson GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-45722-YF-S
----
-Job Title: EVENT MANAGER (all genders)
-Employer: George P. Johnson GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-45723-YF-S
----
 Job Title: Produktionsmitarbeiter Landsberg am Lech (m/w/d)
 Employer: teamkompetent GmbH Personaldienstleistungen
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13414-BXLSS2J5FFZIL6CR-S
----
-Job Title: LED-Techniker (m/w/d),Berlin,Dresden,Leipzig,München
-Employer: Neumann&Müller Veranstaltungstechnik
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2276249-S
----
-Job Title: Teamleiter (m/w/d) Messen und Events
-Employer: DR.SCHNELL GmbH & Co. KGaA
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003202009-S
----
-Job Title: Wissenschaftlicher Mitarbeiter / Wissenschaftliche Mitarbeiterin...
-Employer: Ludwig-Maximilians-Universität München
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-27fun1civq-S
----
-Job Title: Stimmlage Sopran 1  im Chor
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003204971-S
----
-Job Title: Stimmlage Sopran 1  im Chor
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003204943-S
----
-Job Title: Aushilfskraft als Ankleider (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003196800-S
----
-Job Title: zwei Bühnenhandwerker (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003196767-S
----
-Job Title: Beleuchter:in (m/w/d) in Vollzeit
-Employer: Bayerische Theaterakadamie "August Everding" im Prinz- regententheater, Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003173045-S
----
-Job Title: Stellwerksbeleuchter:in (m/w/d) in Vollzeit
-Employer: Bayerische Theaterakadamie "August Everding" im Prinz- regententheater, Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003173144-S
----
-Job Title: Bühnentechniker (m/w/d) in Vollzeit
-Employer: Bayerisches Staatsschauspiel Land Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003172918-S
----
-Job Title: Technische*r Leiter*in Werkraum (w/m/d)
-Employer: Landeshauptstadt München Personal- und Organisationsreferat
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003162162-S
----
-Job Title: Host (m/w/d)
-Employer: smartments Betriebsgesellschaft mbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-5b63e39d_JB5159914-S
----
-Job Title: Mitarbeiter (m/w/d) Training & Event Management - Vollzeit / Teilzeit (min. 30 Stunden/Woche)
-Employer: ADAC HEMS Academy GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-44875-YF-S
----
-Job Title: Kulturbeauftragte (m/w/d) Augustinum Seniorenresidenzen
-Employer: Augustinum gGmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003129096-S
 ---
 
 --- 
