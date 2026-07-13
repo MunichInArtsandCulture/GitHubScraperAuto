@@ -8,12 +8,12 @@ Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als Servicekra
 Employer: Bergson
 Link: https://bergson.com/jobs/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d
 ---
-[Customer Service, Catering and Cash Register]
+[Customer Service, Catering, and Cash Register]
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als Barkeeper/ Barista für Gastronomie & Events (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-m-w-d
 ---
-[Costume, Makeup and Fashion]
+[Customer Service, Catering and Cash Register]
 Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
 Employer: Bergson
 Link: https://bergson.com/jobs/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit
@@ -37,6 +37,11 @@ Link: https://bergson.com/jobs/casino-koch-koechin-bzw-demi-chef-de-partie-m-w-d
 Job Title: Restaurantmanager:in / Restaurantleiter:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/restaurantmanager-in-restaurantleiter-in-m-w-d
+---
+[Stage and Event Technology]
+Job Title: Back-of-House-Manager (m/w/d)
+Employer: Bergson
+Link: https://bergson.com/jobs/back-of-house-manager-m-w-d
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Ausbildung zur Köchin bzw. zum Koch (m/w/d) ab September 2026
@@ -98,7 +103,7 @@ Job Title: Bundesfreiwilligendienst in der Feierwerk Zentrale
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/bundesfreiwilligendienst-empfangs-zentrale
 ---
-[Other]
+[Education, Pedagogical and Social]
 Job Title: Bundesfreiwilligendienst beim mobilen Vorlaufprojekt Feierwerk Boom (Freiham)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/bundesfreiwilligendienst-boom
@@ -113,7 +118,7 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Art, Artist Support and Event Management]
+[Communication, PR and Press]
 Job Title: Praktikum in der Fachstelle Pop
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
@@ -123,27 +128,22 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-[Other]
-Job Title: Mitarbeiter*innen Ausstellungssicherheit (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/mitarbeiter-innen-ausstellungssicherheit-w-m-d
----
-[Stage and Event Technology]
-Job Title: Haustechniker*in (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-kommunikation-2
----
-[Education, Pedagogical and Social]
+[Customer Service, Catering and Cash Register]
 Job Title: Werkstudent*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d
 ---
-[Education, Pedagogical, and Social]
+[Art, Artist Support and Event Management]
+Job Title: Werkstudent Espace /  Kunstvermittlung (m/ w/ d) | München​‌‌‌‌​‌​​‌​‌​‌‌‌‌‌​
+Employer: Louis Vuitton
+Link: https://jobs.louisvuitton.com/en/search-page/job/werkstudent-espace-kunstvermittlung-m-w-d-germany-munich-LVM33198
+---
+[Communication, PR and Press]
 Job Title: stellvertretende Leitung (w/ m/ d) der Abteilung „Deutsches Museum Digital“, Vollzeit | München​‌‌‌‌​‌​​​‌​​​‌‌​‌​
 Employer: Deutsches Museum
 Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2633_Stellv_Leitung_DMD_Online.pdf
 ---
-[Art, Artist Support and Event Management]
+[Stage and Event Technology]
 Job Title: Assistenz für die Intendanz (m/ w/ d), Vollzeit | München​‌‌‌‌​‌​​​​‌​‌​​‌‌​
 Employer: Bayerische Staatsoper
 Link: https://www.staatsoper.de/jobs/im-buero
@@ -153,25 +153,10 @@ Job Title: Leitung des Bereichs „Erwerbung und Inhaltserschließung“ (m/ w/ 
 Employer: Zentralinstitut für Kunstgeschichte (ZI)
 Link: https://www.zikg.eu/aktuelles/nachrichten/stellenausschreibung-bibliothek-leitung-erwerbung
 ---
-[Education, Pedagogical and Social]
-Job Title: Referent:innen für Bildungs- und Erinnerungsarbeit in Teilzeit (bis zu 10,00 Wochenstunden, Arbeit auf Abruf), unbefristet | München​‌‌‌‌​‌​​​​​‌​​‌‌‌​
-Employer: Stiftung Max Mannheimer Haus
-Link: https://www.bjr.de/ueber-uns/karriere/aktuelle-stellenangebote/referentinnen-fuer-bildungs-und-erinnerungsarbeit-1
----
-[Art, Artist Support and Event Management]
-Job Title: Mitarbeiter:in als Assistenz Musikalische Direktion & Organisatorische Leitung  Hermann-Levi-Akademie (m/ w/ d), Vollzeit | München​‌‌‌‌​​‌‌‌​‌‌​‌‌​​‌
-Employer: Bayerische Staatsoper
-Link: https://www.staatsoper.de/jobs/im-buero
----
 [Legal and Financial]
 Job Title: Sachbearbeiterin/ Sachbearbeiter Büro/ Verwaltung (m/ w/ d), Teilzeit 30 Std./ W., unbefristet | München​‌‌‌‌​​‌‌​‌‌‌​​​​​​
 Employer: Bund der Vertriebenen Vereinigte Landsmannschaften Landesverband Bayern e.V.
 Link: https://www.kultweet.de/jobs/BdV_Bayern_Verwaltung.pdf
----
-[Education, Pedagogical and Social]
-Job Title: wissenschaftliche*n Volontär*in für den Bereich Bildung und Vermittlung, Vollzeit, befristet | München​‌‌‌‌​​‌‌​‌‌​‌​​​‌​
-Employer: Städtische Galerie im Lenbachhaus / Herbert Schuchardt-Stiftung
-Link: https://www.kultweet.de/jobs/Lenbachhaus_Volontariat_Schuchardt_Stiftung.pdf
 ---
 [Communication, PR and Press]
 Job Title: Online Marketing Manager (m/ w/ d), Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​‌​
@@ -258,7 +243,7 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Education, Pedagogical and Social]
+[Art, Artist Support and Event Management]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -295,11 +280,6 @@ Link: https://www.residenztheater.de/jobs
 ---
 [Communication, PR and Press]
 Job Title: Praktikumsplatzin der Abteilung Kommunikation und Marketing
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Musicians and Singers]
-Job Title: PRAKTIKUMSPLATZim Bereich Komposition/Musikproduktion
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
