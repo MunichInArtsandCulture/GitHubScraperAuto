@@ -1,32 +1,22 @@
 [Customer Service, Catering and Cash Register]
-Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/chef-in-de-partie-postenchef-in-a-la-carte-m-w-d
----
-[Customer Service, Catering and Cash Register]
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als Servicekraft Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d
----
-[Customer Service, Catering, and Cash Register]
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als Barkeeper/ Barista für Gastronomie & Events (m/w/d)
+Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-m-w-d
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
+Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als   Servicekraft Gastronomie & Events (m/w/d)
 Employer: Bergson
-Link: https://bergson.com/jobs/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit
+Link: https://bergson.com/jobs/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Küchenchef:in (m/w/d) für Bankett / Eventcatering
 Employer: Bergson
-Link: https://bergson.com/jobs/kuechenchef-in-fuer-bankett-eventcatering-
+Link: https://bergson.com/jobs/kuechenchef-in-m-w-d-fuer-bankett-eventcatering
 ---
-[Communication, PR and Press]
-Job Title: Convention & Event Sales Coordinator (m/w/d)
+[Costume, Makeup and Fashion]
+Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
 Employer: Bergson
-Link: https://bergson.com/jobs/convention-event-sales-coordinator-m-w-d
+Link: https://bergson.com/jobs/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Casino Koch/Köchin bzw. (Demi) Chef de Partie (m/w/d)
@@ -38,32 +28,22 @@ Job Title: Restaurantmanager:in / Restaurantleiter:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.com/jobs/restaurantmanager-in-restaurantleiter-in-m-w-d
 ---
-[Stage and Event Technology]
-Job Title: Back-of-House-Manager (m/w/d)
+[Communication, PR and Press]
+Job Title: Convention & Event Sales Coordinator (m/w/d)
 Employer: Bergson
-Link: https://bergson.com/jobs/back-of-house-manager-m-w-d
+Link: https://bergson.com/jobs/convention-event-sales-coordinator-m-w-d
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Ausbildung zur Köchin bzw. zum Koch (m/w/d) ab September 2026
+Job Title: Ausbildung zur Köchin bzw. zum Koch
 Employer: Bergson
 Link: https://bergson.com/jobs/ausbildung-zur-koechin-bzw-zum-koch
----
-[Stage and Event Technology]
-Job Title: Freelancer in der Veranstaltungstechnik (m/w/d)
-Employer: Bergson
-Link: https://bergson.com/jobs/freelancer-in-der-veranstaltungstechnik-m-w-d
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter*in (w/m/d) Vermietungen (Konzerte & Partys) & partizipative Programmentwicklung
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-vermietungen-partizipative-programmentwicklung
 ---
 [Legal and Financial]
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
 ---
-[Stage and Event Technology]
+[Event Management]
 Job Title: Produktionsleitung (Schwerpunkt Partys)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
@@ -123,15 +103,30 @@ Job Title: Praktikum in der Fachstelle Pop
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
 ---
-[Communication, PR and Press]
+[Art, Artist Support and Event Management]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-[Customer Service, Catering and Cash Register]
+[Other]
 Job Title: Werkstudent*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d
+---
+[Education, Pedagogical and Social]
+Job Title: Stellvertretende*r Direktor*in des Münchner Stadtmuseums /  Sammlungsdirektor*in (w/ m/ d), Voll- oder Teilzeit, unbefristet | München​‌‌‌‌​‌​‌​​​​‌​​​‌​
+Employer: Landeshauptstadt München
+Link: https://karriere-muenchen.jobs.hr.cloud.sap/job/Stellvertretender-Direktorin-des-M%C3%BCnchner-Stadtmuseums-Sammlungsdirektorin-%28wmd%29/25090-de_DE
+---
+[Communication, PR and Press]
+Job Title: Pranktikant*in (m/ w/ d) Buchredaktion | München​‌‌‌‌​‌​​‌‌​‌‌​‌​​​
+Employer: Callwey GmbH
+Link: https://www.kultweet.de/jobs/Callwey_Praktikant_Buchredaktion.pdf
+---
+[Stage and Event Technology]
+Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​‌​​‌‌​‌​​‌‌‌‌
+Employer: Alegria Konzert GmbH
+Link: https://www.alegria.de/unternehmen/karriere/projektleiter-mwd-tournee-und-veranstaltungsmanagement
 ---
 [Art, Artist Support and Event Management]
 Job Title: Werkstudent Espace /  Kunstvermittlung (m/ w/ d) | München​‌‌‌‌​‌​​‌​‌​‌‌‌‌‌​
@@ -142,11 +137,6 @@ Link: https://jobs.louisvuitton.com/en/search-page/job/werkstudent-espace-kunstv
 Job Title: stellvertretende Leitung (w/ m/ d) der Abteilung „Deutsches Museum Digital“, Vollzeit | München​‌‌‌‌​‌​​​‌​​​‌‌​‌​
 Employer: Deutsches Museum
 Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2633_Stellv_Leitung_DMD_Online.pdf
----
-[Stage and Event Technology]
-Job Title: Assistenz für die Intendanz (m/ w/ d), Vollzeit | München​‌‌‌‌​‌​​​​‌​‌​​‌‌​
-Employer: Bayerische Staatsoper
-Link: https://www.staatsoper.de/jobs/im-buero
 ---
 [Education, Pedagogical and Social]
 Job Title: Leitung des Bereichs „Erwerbung und Inhaltserschließung“ (m/ w/ d) der Bibliothek des Zentralinstituts für Kunstgeschichte , Vollzeit | München​‌‌‌‌​‌​​​​​‌‌​‌​‌‌
@@ -168,15 +158,10 @@ Job Title: Junior Online Campaigns & Media Manager (m/ w/ d), Vollzeit, unbefris
 Employer: MünchenMusik GmbH & Co. KG
 Link: https://www.kultweet.de/jobs/MuenchenMusik_Junior_Manager_Marketing.pdf
 ---
-[Stage and Event Technology]
+[Art, Artist Support and Event Management]
 Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​​‌‌​​‌‌​​​​​​
 Employer: MünchenMusik GmbH & Co. KG
 Link: https://www.kultweet.de/jobs/MuenchenMusik_Alegria_Projektleiter_Tournee_Veranstaltungsmanagement.pdf
----
-[Art, Artist Support and Event Management]
-Job Title: Projektmanager (m/ w/ d) Künstler- und Tourneemanagement, Vollzeit | München​‌‌‌‌​​‌​‌​​​‌​​​‌​
-Employer: MünchenMusik GmbH & Co. KG
-Link: https://www.kultweet.de/jobs/MuenchenMusik_Projektmanagement_Tourneen.pdf
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
@@ -187,26 +172,6 @@ Link: https://www.kunsthalle-muc.de/stellenangebote/
 Job Title: Sachgebietsleitung Museums- und Ausstellungstechnik
 Employer: Museum Brandhorst
 Link: https://www.museum-brandhorst.de/stellenangebote/
----
-[Musicians and Singers]
-Job Title: Konzertmeister*in der 1. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-[Musicians and Singers]
-Job Title: STELLV. Konzertmeister*in der 1. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-[Musicians and Singers]
-Job Title: Stimmführer*in der 2. Violinen
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
----
-[Musicians and Singers]
-Job Title: Solo-Bratsche
-Employer: Münchner Philharmoniker
-Link: https://www.mphil.de/ueber-uns/offene-stellen
 ---
 [Other]
 Job Title: Sachbearbeiter/in Registratur und Beschaffung (m/w/d)
@@ -243,15 +208,10 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Art, Artist Support and Event Management]
+[Education, Pedagogical and Social]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d) für die Abteilung Videotechnikin Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
 ---
 [Stage and Event Technology]
 Job Title: Mitarbeiter (m/w/d) in der Beleuchtungin Vollzeit
@@ -265,11 +225,6 @@ Link: https://www.residenztheater.de/jobs
 ---
 [Stage and Event Technology]
 Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d)in der maschinentechnischen Abteilung
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -303,7 +258,7 @@ Job Title: Mitarbeiter (m/w/d) der Technischen Leitung der Tollwood Festivals (V
 Employer: Tollwood
 Link: https://www.tollwood.de/stellenangebote/#p
 ---
-[Customer Service, Catering and Cash Register]
+[Stage and Event Technology]
 Job Title: Runner / Ausgabeunterstützung
 Employer: BLITZ Club
 Link: https://www.blitz.club/jobs/
