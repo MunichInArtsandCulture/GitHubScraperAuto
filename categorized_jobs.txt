@@ -78,7 +78,7 @@ Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKID
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
 ---
-[Education, Pedagogical and Social]
+[Education, Pedagogical and Social.]
 Job Title: Studierende der Sozialen Arbeit (B.A.) (w/m/d) für unsere Einrichtungen der offenen Kinder- und Jugendarbeit (OKJA)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/duales-studium-soziale-arbeit
@@ -103,7 +103,7 @@ Job Title: Praktikum in der Fachstelle Pop
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
 ---
-[Other]
+[Communication, PR and Press]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
@@ -118,10 +118,50 @@ Job Title: Tournee-Manager*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/tournee-manager-in-w-m-d
 ---
-[Other]
-Job Title: Werkstudent*in (w/m/d)
+[Stage and Event Technology]
+Job Title: Medientechniker*in (w/m/d)
 Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/medientechniker-in-d-m-w
+---
+[Art, Artist Support and Event Management]
+Job Title: Künstlerische Co-Leitung rodeo Festival München (m/ w/ d), Honorarvertrag | München​‌‌‌‌​‌​‌​‌‌‌‌‌‌‌‌​
+Employer: Theater und Live Art München e.V.
+Link: https://rodeofestival.de/wp-content/uploads/2026/07/Ausschreibung_rodeo_Kuration.pdf
+---
+[Communication, PR and Press]
+Job Title: Mitarbeiter (m/ w/ d) für Booking und Marketing, Vollzeit, 39 Stunden/  | München​‌‌‌‌​‌​‌​‌​​‌‌‌​‌‌
+Employer: Euro-Trainings-Centre ETC gGmbH
+Link: https://www.etc-muenchen.de/karriere.html
+---
+[Art, Artist Support and Event Management]
+Job Title: Tournee-Manager*in (w/ m/ d) in Vollzeit | München​‌‌‌‌​‌​‌​​​‌‌​‌‌‌‌
+Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
+Link: https://www.kultweet.de/jobs/HausderKunst_Tournee_ManagerIn.pdf
+---
+[Communication, PR and Press]
+Job Title: Pressesprecher*in (w/ m/ d) in Vollzeit, unbefristet | München​‌‌‌‌​‌​‌​​​‌‌​‌‌‌​
+Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
+Link: https://www.kultweet.de/jobs/HausderKunst_PressesprecherIn.pdf
+---
+[Education, Pedagogical and Social]
+Job Title: Stellvertretende*r Direktor*in des Münchner Stadtmuseums /  Sammlungsdirektor*in (w/ m/ d), Voll- oder Teilzeit, unbefristet | München​‌‌‌‌​‌​‌​​​​‌​​​‌​
+Employer: Landeshauptstadt München
+Link: https://karriere-muenchen.jobs.hr.cloud.sap/job/Stellvertretender-Direktorin-des-M%C3%BCnchner-Stadtmuseums-Sammlungsdirektorin-%28wmd%29/25090-de_DE
+---
+[Communication, PR and Press]
+Job Title: Pranktikant*in (m/ w/ d) Buchredaktion | München​‌‌‌‌​‌​​‌‌​‌‌​‌​​​
+Employer: Callwey GmbH
+Link: https://www.kultweet.de/jobs/Callwey_Praktikant_Buchredaktion.pdf
+---
+[Art, Artist Support and Event Management]
+Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​‌​​‌‌​‌​​‌‌‌‌
+Employer: Alegria Konzert GmbH
+Link: https://www.alegria.de/unternehmen/karriere/projektleiter-mwd-tournee-und-veranstaltungsmanagement
+---
+[Art, Artist Support and Event Management]
+Job Title: Werkstudent Espace /  Kunstvermittlung (m/ w/ d) | München​‌‌‌‌​‌​​‌​‌​‌‌‌‌‌​
+Employer: Louis Vuitton
+Link: https://jobs.louisvuitton.com/en/search-page/job/werkstudent-espace-kunstvermittlung-m-w-d-germany-munich-LVM33198
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
@@ -153,7 +193,7 @@ Job Title: Solo-Bratsche
 Employer: Münchner Philharmoniker
 Link: https://www.mphil.de/ueber-uns/offene-stellen
 ---
-[Other]
+[Education, Pedagogical and Social]
 Job Title: Sachbearbeiter/in Registratur und Beschaffung (m/w/d)
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -188,10 +228,25 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Education, Pedagogical and Social]
+[Art, Artist Support and Event Management]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
+---
+[Stage and Event Technology]
+Job Title: Technischen Leiter (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Stage and Event Technology]
+Job Title: Leiter der Tontechnik (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Stage and Event Technology]
+Job Title: Mitarbeiter (m/w/d)für die Gebäude- und Anlagentechnik
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
 ---
 [Stage and Event Technology]
 Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
