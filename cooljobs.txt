@@ -6,6 +6,14 @@ job_scraper_bahnwaerterthiel.py
 --- 
 job_scraper_bergson.py 
 ---
+Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
+Employer: Bergson
+Link: https://bergson.comhttps://bewerber.bergson.com/job/view/46/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-?page_lang=de
+---
+Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen in der Veranstaltungstechnik
+Employer: Bergson
+Link: https://bergson.comhttps://bewerber.bergson.com/job/view/60/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-in-der-veranstaltungstechnik?page_lang=de
+---
 Job Title: Schülerpraktikum  (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/57/schuelerpraktikum-m-w-d?page_lang=de
@@ -17,10 +25,6 @@ Link: https://bergson.comhttps://bewerber.bergson.com/job/view/58/initiativbewer
 Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/56/chef-in-de-partie-postenchef-in-a-la-carte-m-w-d?page_lang=de
----
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/46/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-?page_lang=de
 ---
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als   Servicekraft Gastronomie & Events (m/w/d)
 Employer: Bergson
@@ -53,6 +57,10 @@ job_scraper_feierwerk.py
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
+---
+Job Title: Pädagogische*r Mitarbeiter*in (w/m/d) für das Familienzentrum der Feierwerk Funkstation
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-w/m/d-funkstation-familienzentrum
 ---
 Job Title: Pädagogische*r Mitarbeiter*in (w/m/d) für den Interim Jugendtreff
 Employer: Feierwerk
@@ -130,37 +138,17 @@ Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/medientechn
 --- 
 job_scraper_kultweet1.3.py 
 ---
-Job Title: Künstlerische Co-Leitung rodeo Festival München (m/ w/ d), Honorarvertrag | München​‌‌‌‌​‌​‌​‌‌‌‌‌‌‌‌​
-Employer: Theater und Live Art München e.V.
-Link: https://rodeofestival.de/wp-content/uploads/2026/07/Ausschreibung_rodeo_Kuration.pdf
+Job Title: Redakteur (w/ m/ d) für den Bereich Jazz in der Abteilung Musikwelten, befristet, 38,5h/ Woche | München​‌‌‌‌​‌​‌‌‌‌​‌​​​​‌
+Employer: Bayerischer Rundfunk
+Link: https://jobs.br.de/Vacancies/1260/Description/1
 ---
-Job Title: Mitarbeiter (m/ w/ d) für Booking und Marketing, Vollzeit, 39 Stunden/  | München​‌‌‌‌​‌​‌​‌​​‌‌‌​‌‌
-Employer: Euro-Trainings-Centre ETC gGmbH
-Link: https://www.etc-muenchen.de/karriere.html
+Job Title: Studentische Assistenz (m/ w/ d) in Teilzeit (49 %), befristet | München​‌‌‌‌​‌​‌‌‌​‌‌‌‌​​​
+Employer: Udo und Anette Brandhorst Stiftung München
+Link: https://www.museum-brandhorst.de/stellenangebote/#
 ---
-Job Title: Tournee-Manager*in (w/ m/ d) in Vollzeit | München​‌‌‌‌​‌​‌​​​‌‌​‌‌‌‌
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.kultweet.de/jobs/HausderKunst_Tournee_ManagerIn.pdf
----
-Job Title: Pressesprecher*in (w/ m/ d) in Vollzeit, unbefristet | München​‌‌‌‌​‌​‌​​​‌‌​‌‌‌​
-Employer: Stiftung Haus der Kunst München, gemeinnützige Betriebsgesellschaft mbH
-Link: https://www.kultweet.de/jobs/HausderKunst_PressesprecherIn.pdf
----
-Job Title: Stellvertretende*r Direktor*in des Münchner Stadtmuseums /  Sammlungsdirektor*in (w/ m/ d), Voll- oder Teilzeit, unbefristet | München​‌‌‌‌​‌​‌​​​​‌​​​‌​
-Employer: Landeshauptstadt München
-Link: https://karriere-muenchen.jobs.hr.cloud.sap/job/Stellvertretender-Direktorin-des-M%C3%BCnchner-Stadtmuseums-Sammlungsdirektorin-%28wmd%29/25090-de_DE
----
-Job Title: Pranktikant*in (m/ w/ d) Buchredaktion | München​‌‌‌‌​‌​​‌‌​‌‌​‌​​​
-Employer: Callwey GmbH
-Link: https://www.kultweet.de/jobs/Callwey_Praktikant_Buchredaktion.pdf
----
-Job Title: Projektleiter (m/ w/ d) Tournee- und Veranstaltungsmanagement, Vollzeit, unbefristet | München​‌‌‌‌​‌​​‌‌​‌​​‌‌‌‌
-Employer: Alegria Konzert GmbH
-Link: https://www.alegria.de/unternehmen/karriere/projektleiter-mwd-tournee-und-veranstaltungsmanagement
----
-Job Title: Werkstudent Espace /  Kunstvermittlung (m/ w/ d) | München​‌‌‌‌​‌​​‌​‌​‌‌‌‌‌​
-Employer: Louis Vuitton
-Link: https://jobs.louisvuitton.com/en/search-page/job/werkstudent-espace-kunstvermittlung-m-w-d-germany-munich-LVM33198
+Job Title: Digital Marketing Manager:in (m/ w/ d) in Vollzeit (75–100 %), befristet | München​‌‌‌‌​‌​‌‌‌​‌‌‌​‌‌‌
+Employer: Udo und Anette Brandhorst Stiftung München
+Link: https://www.museum-brandhorst.de/stellenangebote/#
 ---
 
 --- 
@@ -177,6 +165,14 @@ Link: https://www.kunsthalle-muc.de/stellenangebote/
 
 --- 
 job_scraper_museum-brandhorst.py 
+---
+Job Title: Studentische Assistenz (m/w/d)
+Employer: Museum Brandhorst
+Link: https://www.museum-brandhorst.de/stellenangebote/
+---
+Job Title: Digital Marketing Manager:in (m/w/d)
+Employer: Museum Brandhorst
+Link: https://www.museum-brandhorst.de/stellenangebote/
 ---
 
 --- 
@@ -211,22 +207,6 @@ Link: https://www.mphil.de/ueber-uns/offene-stellen
 
 --- 
 job_scraper_pinakothek.py 
----
-Job Title: Sachbearbeiter/in Registratur und Beschaffung (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Sachgebietsleitung Museums- und Ausstellungstechnik Museum Brandhorst (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Museums- und Ausstellungstechniker/in (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
----
-Job Title: Mitarbeiter/in für die Bibliothek (m/w/d)
-Employer: --not determinable-- 
-Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
 Job Title: Abteilung Presse und Kommunikation der Bayerischen Staatsgemäldesammlungen
 Employer: --not determinable-- 
@@ -332,17 +312,9 @@ Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_PO
 --- 
 job_scraper_tollwood_jobs.py 
 ---
-Job Title: Mitarbeiter (m/w/d) der Technischen Leitung der Tollwood Festivals (Vollzeit | unbefristet)
-Employer: Tollwood
-Link: https://www.tollwood.de/stellenangebote/#v
----
 
 --- 
 job_scraper_tollwood_praktikum.py 
----
-Job Title: Mitarbeiter (m/w/d) der Technischen Leitung der Tollwood Festivals (Vollzeit | unbefristet)
-Employer: Tollwood
-Link: https://www.tollwood.de/stellenangebote/#p
 ---
 
 --- 
@@ -359,363 +331,213 @@ job_scraper_arbeitsagentur_teil3.py
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc62b <unknown>
-#4 0x55afc2261661 <unknown>
-#5 0x55afc226055d <unknown>
-#6 0x55afc220b3ff <unknown>
-#7 0x55afc220c261 <unknown>
-#8 0x55afc27afcc7 <unknown>
-#9 0x55afc27ae4a8 <unknown>
-#10 0x55afc2799196 <unknown>
-#11 0x55afc27af06a <unknown>
-#12 0x55afc2781020 <unknown>
-#13 0x55afc27d5b98 <unknown>
-#14 0x55afc27d5d35 <unknown>
-#15 0x55afc27e8ffe <unknown>
-#16 0x7f80f889caa4 <unknown>
-#17 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962762b <unknown>
+#4 0x5609a96bc661 <unknown>
+#5 0x5609a96bb55d <unknown>
+#6 0x5609a96663ff <unknown>
+#7 0x5609a9667261 <unknown>
+#8 0x5609a9c0acc7 <unknown>
+#9 0x5609a9c094a8 <unknown>
+#10 0x5609a9bf4196 <unknown>
+#11 0x5609a9c0a06a <unknown>
+#12 0x5609a9bdc020 <unknown>
+#13 0x5609a9c30b98 <unknown>
+#14 0x5609a9c30d35 <unknown>
+#15 0x5609a9c43ffe <unknown>
+#16 0x7eff3b69caa4 <unknown>
+#17 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
 Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
   (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
 Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
+#0 0x5609a9c4544a <unknown>
+#1 0x5609a961d8c9 <unknown>
+#2 0x5609a9624937 <unknown>
+#3 0x5609a962732b <unknown>
+#4 0x5609a96273d3 <unknown>
+#5 0x5609a967292b <unknown>
+#6 0x5609a9673181 <unknown>
+#7 0x5609a9667df6 <unknown>
+#8 0x5609a9667cd7 <unknown>
+#9 0x5609a96bb55d <unknown>
+#10 0x5609a96663ff <unknown>
+#11 0x5609a9667261 <unknown>
+#12 0x5609a9c0acc7 <unknown>
+#13 0x5609a9c094a8 <unknown>
+#14 0x5609a9bf4196 <unknown>
+#15 0x5609a9c0a06a <unknown>
+#16 0x5609a9bdc020 <unknown>
+#17 0x5609a9c30b98 <unknown>
+#18 0x5609a9c30d35 <unknown>
+#19 0x5609a9c43ffe <unknown>
+#20 0x7eff3b69caa4 <unknown>
+#21 0x7eff3b729c6c <unknown>
 
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
-Fehler beim Verarbeiten eines Eintrags: Message: stale element reference: stale element not found in the current frame
-  (Session info: chrome=150.0.7871.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
-Stacktrace:
-#0 0x55afc27ea44a <unknown>
-#1 0x55afc21c28c9 <unknown>
-#2 0x55afc21c9937 <unknown>
-#3 0x55afc21cc32b <unknown>
-#4 0x55afc21cc3d3 <unknown>
-#5 0x55afc221792b <unknown>
-#6 0x55afc2218181 <unknown>
-#7 0x55afc220cdf6 <unknown>
-#8 0x55afc220ccd7 <unknown>
-#9 0x55afc226055d <unknown>
-#10 0x55afc220b3ff <unknown>
-#11 0x55afc220c261 <unknown>
-#12 0x55afc27afcc7 <unknown>
-#13 0x55afc27ae4a8 <unknown>
-#14 0x55afc2799196 <unknown>
-#15 0x55afc27af06a <unknown>
-#16 0x55afc2781020 <unknown>
-#17 0x55afc27d5b98 <unknown>
-#18 0x55afc27d5d35 <unknown>
-#19 0x55afc27e8ffe <unknown>
-#20 0x7f80f889caa4 <unknown>
-#21 0x7f80f8929c6c <unknown>
-
+Kein 'bei' im Titel gefunden!
+Kein 'bei' im Titel gefunden!
+Kein 'bei' im Titel gefunden!
+Kein 'bei' im Titel gefunden!
+Kein 'bei' im Titel gefunden!
+Kein 'bei' im Titel gefunden!
 Kein 'bei' im Titel gefunden!
 Kein 'bei' im Titel gefunden!
 Kein 'bei' im Titel gefunden!
