@@ -1,3 +1,8 @@
+[Art, Artist Support and Event Management]
+Job Title: Mitarbeitende:n (m/w/d) im Bereich Ausstellungsmanagement der BERGSON GALLERY
+Employer: Bergson
+Link: https://bergson.comhttps://bewerber.bergson.com/job/view/62/mitarbeitende-n-m-w-d-im-bereich-ausstellungsmanagement-der-bergson-gallery?page_lang=de
+---
 [Customer Service, Catering and Cash Register]
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
 Employer: Bergson
@@ -29,11 +34,6 @@ Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/47/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d?page_lang=de
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Küchenchef:in (m/w/d) für Bankett / Eventcatering
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/48/kuechenchef-in-m-w-d-fuer-bankett-eventcatering?page_lang=de
----
-[Customer Service, Catering and Cash Register]
 Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/49/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit?page_lang=de
@@ -62,6 +62,16 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-w/m/d-funk
 Job Title: Pädagogische*r Mitarbeiter*in (w/m/d) für den Interim Jugendtreff
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogischer-mitarbeiterin-w/m/d-interim-jugendtreff
+---
+[Stage and Event Technology]
+Job Title: Produktionsleitung (Schwerpunkt Partys)
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
+---
+[Education, Pedagogical and Social]
+Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
+Employer: Feierwerk
+Link: https://www.feierwerk.de/ueber-uns/jobs/schlagzeuglehrerin-w/m/d-im-trafixx
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Barpersonal (w/m/d) für das Gastro-Team
@@ -98,7 +108,7 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Art, Artist Support and Event Management]
+[Education, Pedagogical and Social]
 Job Title: Praktikum in der Fachstelle Pop
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
@@ -109,29 +119,59 @@ Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
 [Communication, PR and Press]
+Job Title: Werkstudent*in (w/m/d) Abteilung Kommunikation
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d-kommunikation
+---
+[Facility and Property Management]
+Job Title: Leitung Gebäudemanagement, Bau und IT (w/m/d)
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/leitung-gebaeudemanagement-bau-und-it-w-m-d
+---
+[Communication, PR and Press]
 Job Title: Pressesprecher*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-kommunikation-2
 ---
-[Art, Artist Support and Event Management]
+[Stage and Event Technology]
 Job Title: Tournee-Manager*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/tournee-manager-in-w-m-d
 ---
-[Communication, PR and Press]
-Job Title: Redakteur (w/ m/ d) für den Bereich Jazz in der Abteilung Musikwelten, befristet, 38,5h/ Woche | München​‌‌‌‌​‌​‌‌‌‌​‌​​​​‌
-Employer: Bayerischer Rundfunk
-Link: https://jobs.br.de/Vacancies/1260/Description/1
+[Stage and Event Technology]
+Job Title: Medientechniker*in (w/m/d)
+Employer: Haus der Kunst
+Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/medientechniker-in-d-m-w
 ---
 [Education, Pedagogical and Social]
-Job Title: Studentische Assistenz (m/ w/ d) in Teilzeit (49 %), befristet | München​‌‌‌‌​‌​‌‌‌​‌‌‌‌​​​
-Employer: Udo und Anette Brandhorst Stiftung München
-Link: https://www.museum-brandhorst.de/stellenangebote/#
+Job Title: wissenschaftlichen Mitarbeiter (w/ m/ d) für den Bereich „Archivierung“ , Postdoc, befristet | München​‌‌‌‌​‌‌​​​‌‌‌‌​‌‌​
+Employer: Deutsches Museum
+Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2639_WiMi_Archivierung_Online.pdf
 ---
-[Communication, PR and Press]
-Job Title: Digital Marketing Manager:in (m/ w/ d) in Vollzeit (75–100 %), befristet | München​‌‌‌‌​‌​‌‌‌​‌‌‌​‌‌‌
-Employer: Udo und Anette Brandhorst Stiftung München
-Link: https://www.museum-brandhorst.de/stellenangebote/#
+[Education, Pedagogical and Social]
+Job Title: wissenschaftlichen Mitarbeiter (w/ m/ d) für den Bereich „Geschichte des Autonomen Fahrens“, Postdoc, befristet | München​‌‌‌‌​‌‌​​​‌‌‌‌​‌​‌
+Employer: Deutsches Museum
+Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2640_WiMi_Autonomes_Fahren_Online.pdf
+---
+[Education, Pedagogical and Social]
+Job Title: wissenschaftlichen Mitarbeiter (w/ m/ d) für den Bereich „Geschichte der Künstlichen Neuronalen Netze“, 80%, befristet | München​‌‌‌‌​‌‌​​​‌‌‌‌​‌​​
+Employer: Deutsches Museum
+Link: https://www.deutsches-museum.de/assets/Museum/Download/Stellenausschreibungen/2026/2641_WiMi_K%C3%BCnstliche_Neuronale_Netzwerke_Online.pdf
+---
+[Education, Pedagogical and Social]
+Job Title: Koordinator:in Sonderförderfonds Zivilgesellschaft (m/ w/ d), Vollzeit, befristet | München​‌‌‌‌​‌‌​​​‌‌‌‌​​‌‌
+Employer: Nemetschek Stiftung
+Link: https://www.stiftungen.org/jobs/stellenanzeige/koordinatorin-sonderfoerderfonds-zivilgesellschaft-m-w-d-16444.html
+---
+[Education, Pedagogical and Social]
+Job Title: Referent*in (m/ w/ d) im Projekt „kulturweit“, 19,5h/ Woche, befristet | München​‌‌‌‌​‌‌​​​‌‌​​‌​​‌
+Employer: Goethe-Institut e.V.
+Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9355
+---
+[Art, Artist Support and Event Management]
+Job Title: Referatsleitung (m/ w/ d) in der Museumsabteilung, Vollzeit, unbefristet | München​‌‌‌‌​‌‌​​​‌‌​​​‌​​
+Employer: Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen
+Link: https://www.schloesser.bayern.de/deutsch/aktuell/stellen/index.htm
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
@@ -143,7 +183,7 @@ Job Title: Praktikum im AusstellungsbüroMitarbeit in allen Bereichen des Ausste
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
-[Customer Service, Catering and Cash Register]
+[Education, Pedagogical and Social]
 Job Title: Studentische Assistenz (m/w/d)
 Employer: Museum Brandhorst
 Link: https://www.museum-brandhorst.de/stellenangebote/
@@ -188,7 +228,7 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Other]
+[Art, Artist Support and Event Management]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -268,7 +308,7 @@ Job Title: Assistenz Presse- & Öffentlichkeitsarbeitbeim FestivalFreischwimmen 
 Employer: HochX Theater
 Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf
 ---
-[Customer Service, Catering and Cash Register.]
+[Customer Service, Catering and Cash Register]
 Job Title: Runner / Ausgabeunterstützung
 Employer: BLITZ Club
 Link: https://www.blitz.club/jobs/
