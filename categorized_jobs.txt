@@ -113,12 +113,7 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Art, Artist Support and Event Management]
-Job Title: Praktikum in der Fachstelle Pop
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/praktikantin-w/m/d-in-der-feierwerk-fachstelle-pop
----
-[Communication, PR and Press]
+[Education, Pedagogical and Social]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
@@ -133,15 +128,15 @@ Job Title: Leitung Gebäudemanagement, Bau und IT (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/leitung-gebaeudemanagement-bau-und-it-w-m-d
 ---
-[Stage and Event Technology]
+[Art, Artist Support and Event Management]
 Job Title: Tournee-Manager*in (w/m/d)
 Employer: Haus der Kunst
 Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/tournee-manager-in-w-m-d
 ---
-[Education, Pedagogical and Social]
-Job Title: Projektleitung /  Tanzpädagog*in (m/ w/ d) in Elternzeitvertretung für das künstlerische Erinnerungsprojekt Always Remember. Never Forget, 15h/ Woche | München​‌‌‌‌​‌‌​‌​​​​‌​‌​​
-Employer: CultureClouds e.V.
-Link: https://www.kultweet.de/jobs/CultureClouds_Projektleitung.pdf
+[Art, Artist Support and Event Management]
+Job Title: Koordinator*in (m/ w/ d) Musik, Vollzeit, unbefristet | München​‌‌‌‌​‌‌​‌‌​‌‌‌‌​​‌
+Employer: Goethe-Institut e.V.
+Link: https://www.goethe.de/de/kar/ovr/jpd.cfm?job_id=9238
 ---
 [Art, Artist Support and Event Management]
 Job Title: Praktikum im AusstellungsbüroMitarbeit in allen Bereichen des AusstellungsbürosBeantwortung unterschiedlicher Anfragen von Besucher:innenOrganisation von Führungen und VeranstaltungenAllgemeine VerwaltungstätigkeitenEinblicke in die praktische Realisierung einer AusstellungUnterstützung des kuratorischen Teams bei der Konzeption und Planung neuer ProjekteAssistieren beim AusstellungswechselEinblicke in weitere Abteilungen der Kunsthalle, wie zum Beispiel die Presse- und Öffentlichkeitsarbeit oder die technische AbteilungStudium der Kunstgeschichte oder eines vergleichbaren StudiengangsErste Praxiserfahrungen wünschenswertSicherer Umgang mit den gängigen PC-Programmen (insbesondere Microsoft-Office)Deutsch auf Muttersprachniveau sowie sehr gute Englischkenntnisse in Wort und SchriftTeamfähigkeit, Offenheit, Freundlichkeit und BelastbarkeitDie Praktikumsdauer beträgt in der Regel mindestens 2 Monate und maximal drei Monate, um Studierenden einen möglichst guten Einblick in den Alltagsbetrieb eines Ausstellungshauses geben zu könnenDas Praktikum wird in Vollzeit absolviert. Die Arbeitszeit ist von Montag bis Freitag 9–17 Uhr oder flexibel nach Absprache einteilbarDie Vergütung beträgt € 603/Monat
@@ -198,7 +193,7 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Education, Pedagogical and Social]
+[Art, Artist Support and Event Management]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
