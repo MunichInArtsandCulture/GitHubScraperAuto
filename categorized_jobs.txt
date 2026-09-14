@@ -3,7 +3,7 @@ Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/67/mitarbeiter-in-stewarding-spueler-in-steward-m-w-d?page_lang=de
 ---
-[Other]
+[Stage and Event Technology]
 Job Title: Mitarbeiter:in HKLS / Gebäudetechniker:in / Hausmeister:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/66/mitarbeiter-in-hkls-gebaeudetechniker-in-hausmeister-in-m-w-d?page_lang=de
@@ -63,7 +63,7 @@ Job Title: Betriebsleitung (w/m/d) für die AMP Plug & Play Proberäume
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/betriebsleitung-fuer-die-amp-plug-play-proberaeume
 ---
-[Legal and Financial]
+[Legal and Financial.]
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
@@ -78,7 +78,7 @@ Job Title: Pädagogische*r Mitarbeiter*in (w/m/d) für den Interim Jugendtreff
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogischer-mitarbeiterin-w/m/d-interim-jugendtreff
 ---
-[Art, Artist Support and Event Management]
+[Event Management]
 Job Title: Produktionsleitung (Schwerpunkt Partys)
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
@@ -93,7 +93,7 @@ Job Title: Barpersonal (w/m/d) für das Gastro-Team
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/barpersonal-wmd
 ---
-[Education, Pedagogical and Social.]
+[Education, Pedagogical and Social]
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
@@ -123,25 +123,20 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Communication, PR and Press]
+[Customer Service, Catering and Cash Register]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-[Communication, PR and Press]
-Job Title: Werkstudent*in (w/m/d) Abteilung Kommunikation
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/werkstudent-in-w-m-d-kommunikation
----
-[Other]
-Job Title: Leitung Gebäudemanagement, Bau und IT (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/leitung-gebaeudemanagement-bau-und-it-w-m-d
+[Art, Artist Support and Event Management]
+Job Title: Referent/ in für Italienische Malerei bis Ende des 18. Jahrhunderts (m/ w/ d), Vollzeit, unbefristet | München​‌‌‌‌​‌‌‌​‌‌​‌​‌‌‌‌
+Employer: Neu Staatliche Museumsagentur Bayern
+Link: https://interamt.de/koop/app/stelle?id=1490958
 ---
 [Art, Artist Support and Event Management]
-Job Title: Tournee-Manager*in (w/m/d)
-Employer: Haus der Kunst
-Link: https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/tournee-manager-in-w-m-d
+Job Title: Werkstudent:in Kunstgeschichte, Hauptabteilung Kunst, 8h/ Woche, befristet | München​‌‌‌‌​‌‌‌​‌​‌​‌‌​‌​
+Employer: Erzbistum München und Freising
+Link: https://karriere.erzbistum-muenchen.de/job/Werkstudentin-Kunstgeschichte%2C-Hauptabteilung-Kunst/11943-de_DE/
 ---
 [Art, Artist Support and Event Management]
 Job Title: Praktikum im AusstellungsbüroMitarbeit in allen Bereichen des AusstellungsbürosBeantwortung unterschiedlicher Anfragen von Besucher:innenOrganisation von Führungen und VeranstaltungenAllgemeine VerwaltungstätigkeitenEinblicke in die praktische Realisierung einer AusstellungUnterstützung des kuratorischen Teams bei der Konzeption und Planung neuer ProjekteAssistieren beim AusstellungswechselEinblicke in weitere Abteilungen der Kunsthalle, wie zum Beispiel die Presse- und Öffentlichkeitsarbeit oder die technische AbteilungStudium der Kunstgeschichte oder eines vergleichbaren StudiengangsErste Praxiserfahrungen wünschenswertSicherer Umgang mit den gängigen PC-Programmen (insbesondere Microsoft-Office)Deutsch auf Muttersprachniveau sowie sehr gute Englischkenntnisse in Wort und SchriftTeamfähigkeit, Offenheit, Freundlichkeit und BelastbarkeitDie Praktikumsdauer beträgt in der Regel mindestens 2 Monate und maximal drei Monate, um Studierenden einen möglichst guten Einblick in den Alltagsbetrieb eines Ausstellungshauses geben zu könnenDas Praktikum wird in Vollzeit absolviert. Die Arbeitszeit ist von Montag bis Freitag 9–17 Uhr oder flexibel nach Absprache einteilbarDie Vergütung beträgt € 603/Monat
@@ -149,7 +144,7 @@ Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Mitarbeit im Museumsshop muse-storeFreundliche und kompetente Beratung unserer nationalen und internationalen Besucher:innenVerkauf von Souvenirs, Büchern, Postkarten, Kunsthandwerk und DesignartikelnKassiertätigkeit und KassenabschlussAnsprechende Präsentation und Pflege der Verkaufsflächen sowie Dekoration im ShopLeichte LagertätigkeitenUnterstützung bei Sonderaktionen und VeranstaltungenAnsprechpartner:in für allgemeine Besucheranfragen im ShopbereichIdealerweise eine abgeschlossene Ausbildung als Einzelhändler:in oder BerufserfahrungKassenerfahrungHohe Kundenorientierung, Freundlichkeit und KommunikationsstärkeInteresse an Kunst, Kultur und Design – idealerweise Erfahrung im KulturbereichSpaß am VerkaufGute Deutschkenntnisse, weitere Fremdsprachenkenntnisse (v. a. Englisch) von VorteilBereitschaft zu regelmäßiger Wochenend-/FeiertagsarbeitEinen inspirierenden Arbeitsplatz in einem der führenden Ausstellungshäusern DeutschlandsKollegiale Arbeitsatmosphäre in einem kleinen, motivierten TeamPersonalrabatt im ShopBeteiligung am Job TicketEinbindung in kulturelle Veranstaltungen
+Job Title: Mitarbeit im Museumsshop muse-storeFreundliche und kompetente Beratung unserer nationalen und internationalen Besucher:innenVerkauf von Souvenirs, Büchern, Postkarten, Kunsthandwerk und DesignartikelnKassiertätigkeit und KassenabschlussAnsprechende Präsentation und Pflege der Verkaufsflächen sowie Dekoration im ShopLeichte LagertätigkeitenUnterstützung bei Sonderaktionen und VeranstaltungenAnsprechpartner:in für allgemeine Besucheranfragen im ShopbereichIdealerweise eine abgeschlossene Ausbildung als Einzelhändler:in oder BerufserfahrungKassenerfahrungHohe Kundenorientierung, Freundlichkeit und KommunikationsstärkeInteresse an Kunst, Kultur und Design – idealerweise Erfahrung im KulturbereichSpaß am VerkaufGute Deutschkenntnisse, weitere Fremdsprachenkenntnisse (v. a. Englisch) von VorteilBereitschaft zu regelmäßiger Wochenend-/FeiertagsarbeitEinen inspirierenden Arbeitsplatz in einem der führenden Ausstellungshäusern DeutschlandsKollegiale Arbeitsatmosphäre in einem kleinen, motivierten TeamPersonalrabatt im ShopBeteiligung am Job-TicketEinbindung in kulturelle Veranstaltungen
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
@@ -158,7 +153,7 @@ Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
-[Education, Pedagogical and Social]
+[Other]
 Job Title: Studentische Assistenz (m/w/d)
 Employer: Museum Brandhorst
 Link: https://www.museum-brandhorst.de/stellenangebote/
@@ -167,6 +162,26 @@ Link: https://www.museum-brandhorst.de/stellenangebote/
 Job Title: Digital Marketing Manager:in (m/w/d)
 Employer: Museum Brandhorst
 Link: https://www.museum-brandhorst.de/stellenangebote/
+---
+[Musicians and Singers]
+Job Title: Konzertmeister*in der 1. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
+---
+[Musicians and Singers]
+Job Title: STELLV. Konzertmeister*in der 1. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
+---
+[Musicians and Singers]
+Job Title: Stimmführer*in der 2. Violinen
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
+---
+[Musicians and Singers]
+Job Title: Solo-Bratsche
+Employer: Münchner Philharmoniker
+Link: https://www.mphil.de/ueber-uns/offene-stellen
 ---
 [Communication, PR and Press]
 Job Title: Abteilung Presse und Kommunikation der Bayerischen Staatsgemäldesammlungen
@@ -183,7 +198,7 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Education, Pedagogical and Social.]
+[Art, Artist Support and Event Management]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
@@ -243,7 +258,7 @@ Job Title: CALLCENTER: WERKSTUDIERENDE GESUCHT
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Customer Service, Catering and Cash Register]
+[Customer Service, Catering, and Cash Register]
 Job Title: Einlassdienst
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
