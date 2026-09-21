@@ -1,9 +1,14 @@
+[Stage and Event Technology]
+Job Title: Leitung Gebäudetechnik (m/w/d)
+Employer: Bergson
+Link: https://bergson.comhttps://bewerber.bergson.com/job/view/72/leitung-gebaeudetechnik-m-w-d?page_lang=de
+---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/67/mitarbeiter-in-stewarding-spueler-in-steward-m-w-d?page_lang=de
 ---
-[Stage and Event Technology]
+[Other]
 Job Title: Mitarbeiter:in HKLS / Gebäudetechniker:in / Hausmeister:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/66/mitarbeiter-in-hkls-gebaeudetechniker-in-hausmeister-in-m-w-d?page_lang=de
@@ -63,7 +68,7 @@ Job Title: Betriebsleitung (w/m/d) für die AMP Plug & Play Proberäume
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/betriebsleitung-fuer-die-amp-plug-play-proberaeume
 ---
-[Legal and Financial.]
+[Legal and Financial]
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
@@ -77,11 +82,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-w/m/d-funk
 Job Title: Pädagogische*r Mitarbeiter*in (w/m/d) für den Interim Jugendtreff
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogischer-mitarbeiterin-w/m/d-interim-jugendtreff
----
-[Event Management]
-Job Title: Produktionsleitung (Schwerpunkt Partys)
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/produktionsleitung-schwerpunkt-partyveranstaltungen
 ---
 [Education, Pedagogical and Social]
 Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
@@ -123,20 +123,10 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Customer Service, Catering and Cash Register]
+[Communication, PR and Press]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
----
-[Art, Artist Support and Event Management]
-Job Title: Referent/ in für Italienische Malerei bis Ende des 18. Jahrhunderts (m/ w/ d), Vollzeit, unbefristet | München​‌‌‌‌​‌‌‌​‌‌​‌​‌‌‌‌
-Employer: Neu Staatliche Museumsagentur Bayern
-Link: https://interamt.de/koop/app/stelle?id=1490958
----
-[Art, Artist Support and Event Management]
-Job Title: Werkstudent:in Kunstgeschichte, Hauptabteilung Kunst, 8h/ Woche, befristet | München​‌‌‌‌​‌‌‌​‌​‌​‌‌​‌​
-Employer: Erzbistum München und Freising
-Link: https://karriere.erzbistum-muenchen.de/job/Werkstudentin-Kunstgeschichte%2C-Hauptabteilung-Kunst/11943-de_DE/
 ---
 [Art, Artist Support and Event Management]
 Job Title: Praktikum im AusstellungsbüroMitarbeit in allen Bereichen des AusstellungsbürosBeantwortung unterschiedlicher Anfragen von Besucher:innenOrganisation von Führungen und VeranstaltungenAllgemeine VerwaltungstätigkeitenEinblicke in die praktische Realisierung einer AusstellungUnterstützung des kuratorischen Teams bei der Konzeption und Planung neuer ProjekteAssistieren beim AusstellungswechselEinblicke in weitere Abteilungen der Kunsthalle, wie zum Beispiel die Presse- und Öffentlichkeitsarbeit oder die technische AbteilungStudium der Kunstgeschichte oder eines vergleichbaren StudiengangsErste Praxiserfahrungen wünschenswertSicherer Umgang mit den gängigen PC-Programmen (insbesondere Microsoft-Office)Deutsch auf Muttersprachniveau sowie sehr gute Englischkenntnisse in Wort und SchriftTeamfähigkeit, Offenheit, Freundlichkeit und BelastbarkeitDie Praktikumsdauer beträgt in der Regel mindestens 2 Monate und maximal drei Monate, um Studierenden einen möglichst guten Einblick in den Alltagsbetrieb eines Ausstellungshauses geben zu könnenDas Praktikum wird in Vollzeit absolviert. Die Arbeitszeit ist von Montag bis Freitag 9–17 Uhr oder flexibel nach Absprache einteilbarDie Vergütung beträgt € 603/Monat
@@ -153,7 +143,7 @@ Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
 ---
-[Other]
+[Education, Pedagogical and Social]
 Job Title: Studentische Assistenz (m/w/d)
 Employer: Museum Brandhorst
 Link: https://www.museum-brandhorst.de/stellenangebote/
@@ -198,43 +188,13 @@ Job Title: Abteilung Bildung und Vermittlung | Information und Service
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
-[Art, Artist Support and Event Management]
+[Other]
 Job Title: Sammlungsreferate
 Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
 [Stage and Event Technology]
-Job Title: Technischen Leiter (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Leiter der Tontechnik (m/w/d)in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d)für die Gebäude- und Anlagentechnik
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Elektriker (m/w/d)in Vollzeit (38,5 Std./Woche)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Acting, Theater and Directing]
-Job Title: Soufflage (m/w/d)in Teilzeit (50 %)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d) für die Abteilung Videotechnikin Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Mitarbeiter (m/w/d) in der Beleuchtungin Vollzeit
+Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -243,22 +203,12 @@ Job Title: Meister (m/w/d) für Veranstaltungstechnikin Teilzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Stage and Event Technology]
-Job Title: Meister*in für Veranstaltungstechnik (m/w/d)in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
+[Costume, Makeup and Fashion]
+Job Title: Gewandmeister (m/w/d)für die Herrenschneiderwerkstatt in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: CALLCENTER: WERKSTUDIERENDE GESUCHT
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Customer Service, Catering, and Cash Register]
 Job Title: Einlassdienst
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -277,18 +227,3 @@ Link: https://www.residenztheater.de/jobs
 Job Title: Assistenz Presse- & Öffentlichkeitsarbeitbeim FestivalFreischwimmen meets Rodeo
 Employer: HochX Theater
 Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf
----
-[Customer Service, Catering and Cash Register]
-Job Title: Runner / Ausgabeunterstützung
-Employer: BLITZ Club
-Link: https://www.blitz.club/jobs/
----
-[Costume, Makeup and Fashion]
-Job Title: Garderobe
-Employer: BLITZ Club
-Link: https://www.blitz.club/jobs/
----
-[Customer Service, Catering and Cash Register]
-Job Title: Kasse
-Employer: BLITZ Club
-Link: https://www.blitz.club/jobs/
