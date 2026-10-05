@@ -6,10 +6,6 @@ job_scraper_bahnwaerterthiel.py
 --- 
 job_scraper_bergson.py 
 ---
-Job Title: Leitung Gebäudetechnik (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/72/leitung-gebaeudetechnik-m-w-d?page_lang=de
----
 Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/67/mitarbeiter-in-stewarding-spueler-in-steward-m-w-d?page_lang=de
@@ -21,10 +17,6 @@ Link: https://bergson.comhttps://bewerber.bergson.com/job/view/66/mitarbeiter-in
 Job Title: Back-of-House-Manager (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/65/back-of-house-manager-m-w-d?page_lang=de
----
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/46/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-?page_lang=de
 ---
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen in der Veranstaltungstechnik
 Employer: Bergson
@@ -41,10 +33,6 @@ Link: https://bergson.comhttps://bewerber.bergson.com/job/view/58/initiativbewer
 Job Title: Chef:in de Partie / Postenchef:in à la carte (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/56/chef-in-de-partie-postenchef-in-a-la-carte-m-w-d?page_lang=de
----
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als   Servicekraft Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/47/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d?page_lang=de
 ---
 Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
 Employer: Bergson
@@ -66,10 +54,6 @@ job_scraper_buehnenjobs1.2.py
 --- 
 job_scraper_feierwerk.py 
 ---
-Job Title: Betriebsleitung (w/m/d) für die AMP Plug & Play Proberäume
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/betriebsleitung-fuer-die-amp-plug-play-proberaeume
----
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung
@@ -86,10 +70,6 @@ Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/schlagzeuglehrerin-w/m/d-im-trafixx
 ---
-Job Title: Barpersonal (w/m/d) für das Gastro-Team
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/barpersonal-wmd
----
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
@@ -97,10 +77,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
 Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKIDball im Feierwerk Trafixx
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
----
-Job Title: Studierende der Sozialen Arbeit (B.A.) (w/m/d) für unsere Einrichtungen der offenen Kinder- und Jugendarbeit (OKJA)
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/duales-studium-soziale-arbeit
 ---
 Job Title: Bundesfreiwilligendienst in der Feierwerk Zentrale
 Employer: Feierwerk
@@ -118,7 +94,7 @@ Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
 ---
-Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=47197): Read timed out. (read timeout=120)
+Error executing job_scraper_gaertnerplatztheater1.2.py: HTTPConnectionPool(host='localhost', port=45729): Read timed out. (read timeout=120)
 
 --- 
 job_scraper_glockenbachwerkstatt.py 
@@ -130,10 +106,6 @@ job_scraper_HDK1.6.py
 
 --- 
 job_scraper_kultweet1.3.py 
----
-Job Title: Trainee Wissenschaftlicher Dokumentar im Musikservice (w/ m/ d) | München​‌‌‌‌​‌‌‌‌‌‌​‌‌​‌​​
-Employer: Neu Bayerischer Rundfunk
-Link: https://jobs.br.de/Vacancies/1387/Description/1
 ---
 
 --- 
@@ -147,14 +119,8 @@ Link: https://www.kunsthalle-muc.de/stellenangebote/
 --- 
 job_scraper_museum-brandhorst.py 
 ---
-Job Title: Studentische Assistenz (m/w/d)
-Employer: Museum Brandhorst
-Link: https://www.museum-brandhorst.de/stellenangebote/
----
-Job Title: Digital Marketing Manager:in (m/w/d)
-Employer: Museum Brandhorst
-Link: https://www.museum-brandhorst.de/stellenangebote/
----
+Error occurred: Message: 
+
 
 --- 
 job_scraper_museum-fuenf-kontinente.py 
@@ -208,6 +174,14 @@ Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 
 --- 
 job_scraper_residenztheater1.2.py 
+---
+Job Title: Berufskraftfahrer (m/w/d)mit Führerscheinklasse CE in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+Job Title: Hausmeister (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
 ---
 Job Title: Technischer Leiter (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater

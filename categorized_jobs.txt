@@ -1,8 +1,3 @@
-[Stage and Event Technology]
-Job Title: Leitung Gebäudetechnik (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/72/leitung-gebaeudetechnik-m-w-d?page_lang=de
----
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)
 Employer: Bergson
@@ -17,11 +12,6 @@ Link: https://bergson.comhttps://bewerber.bergson.com/job/view/66/mitarbeiter-in
 Job Title: Back-of-House-Manager (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/65/back-of-house-manager-m-w-d?page_lang=de
----
-[Customer Service, Catering and Cash Register]
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als  Barkeeper/ Barista für Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/46/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-barkeeper-barista-fuer-gastronomie-events-?page_lang=de
 ---
 [Stage and Event Technology]
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen in der Veranstaltungstechnik
@@ -44,11 +34,6 @@ Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/56/chef-in-de-partie-postenchef-in-a-la-carte-m-w-d?page_lang=de
 ---
 [Customer Service, Catering and Cash Register]
-Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen als   Servicekraft Gastronomie & Events (m/w/d)
-Employer: Bergson
-Link: https://bergson.comhttps://bewerber.bergson.com/job/view/47/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-als-servicekraft-gastronomie-events-m-w-d?page_lang=de
----
-[Customer Service, Catering and Cash Register]
 Job Title: Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/49/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit?page_lang=de
@@ -62,11 +47,6 @@ Link: https://bergson.comhttps://bewerber.bergson.com/job/view/50/casino-koch-ko
 Job Title: Restaurantmanager:in / Restaurantleiter:in (m/w/d)
 Employer: Bergson
 Link: https://bergson.comhttps://bewerber.bergson.com/job/view/41/restaurantmanager-in-restaurantleiter-in-m-w-d?page_lang=de
----
-[Education, Pedagogical and Social]
-Job Title: Betriebsleitung (w/m/d) für die AMP Plug & Play Proberäume
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/betriebsleitung-fuer-die-amp-plug-play-proberaeume
 ---
 [Legal and Financial]
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
@@ -88,11 +68,6 @@ Job Title: Schlagzeuglehrer*in im Feierwerk Trafixx
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/schlagzeuglehrerin-w/m/d-im-trafixx
 ---
-[Customer Service, Catering and Cash Register]
-Job Title: Barpersonal (w/m/d) für das Gastro-Team
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/barpersonal-wmd
----
 [Education, Pedagogical and Social]
 Job Title: Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz
 Employer: Feierwerk
@@ -102,11 +77,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
 Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKIDball im Feierwerk Trafixx
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
----
-[Education, Pedagogical and Social]
-Job Title: Studierende der Sozialen Arbeit (B.A.) (w/m/d) für unsere Einrichtungen der offenen Kinder- und Jugendarbeit (OKJA)
-Employer: Feierwerk
-Link: https://www.feierwerk.de/ueber-uns/jobs/duales-studium-soziale-arbeit
 ---
 [Education, Pedagogical and Social]
 Job Title: Bundesfreiwilligendienst in der Feierwerk Zentrale
@@ -123,30 +93,15 @@ Job Title: Praktikum bei Radio Feierwerk
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/praktikum-radio-feierwerk
 ---
-[Communication, PR and Press]
+[Art, Artist Support and Event Management]
 Job Title: Jobs
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/
----
-[Communication, PR and Press]
-Job Title: Trainee Wissenschaftlicher Dokumentar im Musikservice (w/ m/ d) | München​‌‌‌‌​‌‌‌‌‌‌​‌‌​‌​​
-Employer: Neu Bayerischer Rundfunk
-Link: https://jobs.br.de/Vacancies/1387/Description/1
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
 Employer: Kunsthalle München
 Link: https://www.kunsthalle-muc.de/stellenangebote/
----
-[Art, Artist Support and Event Management]
-Job Title: Studentische Assistenz (m/w/d)
-Employer: Museum Brandhorst
-Link: https://www.museum-brandhorst.de/stellenangebote/
----
-[Communication, PR and Press]
-Job Title: Digital Marketing Manager:in (m/w/d)
-Employer: Museum Brandhorst
-Link: https://www.museum-brandhorst.de/stellenangebote/
 ---
 [Musicians and Singers]
 Job Title: Konzertmeister*in der 1. Violinen
@@ -189,6 +144,16 @@ Employer: --not determinable--
 Link: https://www.pinakothek.de/de/museum/team/stellenangebote
 ---
 [Stage and Event Technology]
+Job Title: Berufskraftfahrer (m/w/d)mit Führerscheinklasse CE in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Other]
+Job Title: Hausmeister (m/w/d)in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Stage and Event Technology]
 Job Title: Technischer Leiter (m/w/d)für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
@@ -198,7 +163,7 @@ Job Title: Meister*in für Veranstaltungstechnik (m/w/d)für die Spielstätte Cu
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Other]
+[Costume, Makeup and Fashion]
 Job Title: Mitarbeiter (m/w/d) als Aushilfe in der Wäschereiin Teilzeit (15 Wochenarbeitsstunden)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
