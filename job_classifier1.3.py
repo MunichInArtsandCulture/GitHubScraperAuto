@@ -2,7 +2,7 @@ import re
 import openai
 
 # OpenAI API-Key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Kategorien mit Beispielen
 categories_with_examples = {
