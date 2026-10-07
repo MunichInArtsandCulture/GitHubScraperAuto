@@ -94,10 +94,46 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
     Strips noise, boilerplate (nav, footer, ads, scripts), converts links to absolute URLs,
     and returns dense Markdown to minimize LLM token count.
     """
-    if not html:
-        return ""
+    # 0. Check if page is an XML/RSS feed directly
+    if html.strip().startswith("<?xml") or "<rss" in html[:400].lower() or "<channel" in html[:400].lower():
+        rss_soup = BeautifulSoup(html, "html.parser")
+        items = rss_soup.find_all("item")
+        if items:
+            md_lines = ["# Offene Stellen (Feed)\n"]
+            for it in items:
+                title = it.find("title").get_text(strip=True) if it.find("title") else ""
+                # Clean location tags in title like "(München, DE, München)"
+                title = re.sub(r'\s*\([^\)]*München[^\)]*\)\s*$', '', title, flags=re.I).strip()
+
+                # Get link from link, guid, or raw xml regex
+                link = ""
+                guid_tag = it.find("guid")
+                if guid_tag and guid_tag.get_text(strip=True).startswith("http"):
+                    link = guid_tag.get_text(strip=True)
+                if not link:
+                    link_m = re.search(r'<link>([^<]+)</link>', str(it))
+                    if link_m:
+                        link = link_m.group(1).strip()
+                if not link and it.find("link"):
+                    link = it.find("link").get_text(strip=True)
+                
+                # Strip RSS tracking query params
+                link = re.sub(r'\?feedId=.*$', '', link)
+
+                desc = it.find("description").get_text(strip=True) if it.find("description") else ""
+                clean_desc = BeautifulSoup(desc, "html.parser").get_text(separator=" ", strip=True)[:400]
+                md_lines.append(f"## [{title}]({link})\n{clean_desc}\n")
+            return "\n".join(md_lines)
 
     soup = BeautifulSoup(html, "html.parser")
+
+    # Check if this is a dynamic portal with an embedded RSS alternate feed (e.g. SAP SuccessFactors)
+    rss_link = soup.find("link", type=re.compile(r"rss\+xml", re.I))
+    if rss_link and rss_link.get("href") and "jobs.hr.cloud.sap" in base_url:
+        feed_url = urljoin(base_url, rss_link["href"])
+        feed_content = fetch_url(feed_url)
+        if feed_content and ("<item" in feed_content):
+            return clean_html_to_dense_markdown(feed_content, base_url)
 
     # 1. Remove non-content tags (keep forms as some sites use application/checkbox forms for job listings)
     for tag in soup(["script", "style", "nav", "footer", "header", "aside", "svg", "noscript", "iframe"]):
