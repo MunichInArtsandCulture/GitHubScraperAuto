@@ -1,9 +1,13 @@
 import os
 from aiogram import Bot
 import asyncio
+from dotenv import load_dotenv
 
-# Telegram-Bot-Token
-bot_token = "blank"
+load_dotenv()
+
+bot_token = os.getenv("BOT_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
+if not bot_token:
+    raise ValueError("Error: BOT_TOKEN / TELEGRAM_BOT_TOKEN is not set in environment or .env file!")
 bot = Bot(token=bot_token)
 
 # Kategorien und zugehörige Thread-IDs
@@ -23,7 +27,7 @@ category_thread_ids = {
 
 # Die Funktion, die die Nachrichten sendet
 async def send_job_to_telegram(category, job_title, employer, job_link):
-    chat_id = -1002417180355  # Chat-ID
+    chat_id = int(os.getenv("TELEGRAM_CHAT_ID", "-1002417180355"))
     thread_id = category_thread_ids.get(category)  # Hole die passende Thread-ID basierend auf der Kategorie
 
     if thread_id:

@@ -1,9 +1,17 @@
+import os
 import requests
 import datetime
 from pytz import timezone
+from dotenv import load_dotenv
 
-# Replace with your actual bot token
-BOT_TOKEN = "7088435202:AAEiMKtFxJQvA3Shdcv8sQP6vGxyOKt7Ktw"
+# Load variables from .env file
+load_dotenv()
+
+# Get bot token from environment or GitHub secret
+BOT_TOKEN = os.getenv("BOT_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
+
+if not BOT_TOKEN:
+    raise ValueError("Error: BOT_TOKEN / TELEGRAM_BOT_TOKEN environment variable is not set!")
 
 # Define group chat IDs
 CHAT_IDS = ["-1002417180355", "-1002339250618"]

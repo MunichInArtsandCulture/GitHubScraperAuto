@@ -51,8 +51,9 @@ function addFormatting(text, cell) {  // Parameter für die Zelle hinzufügen
 }
 
 function postToTelegram(message) {
-  var botToken = '7088435202:AAEiMKtFxJQvA3Shdcv8sQP6vGxyOKt7Ktw';  // Ersetze mit deinem Telegram Bot Token
-  var chatId = '-1002339250618';  // Ersetze mit der Chat-ID deiner Gruppe
+  // Hinterlege deinen Bot Token und Chat ID sicher oder setze sie hier als Platzhalter ein
+  var botToken = 'YOUR_BOT_TOKEN_HERE';  // Ersetze mit deinem Telegram Bot Token
+  var chatId = 'YOUR_CHAT_ID_HERE';      // Ersetze mit der Chat-ID deiner Gruppe
   var url = 'https://api.telegram.org/bot' + botToken + '/sendMessage';
   var payload = {
     'chat_id': chatId,

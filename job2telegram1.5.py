@@ -7,9 +7,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Hier deinen API-Token einfügen (wird aus .env geladen)
-API_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
-CHAT_ID = int(os.getenv('TELEGRAM_CHAT_ID'))
+# Load API token and chat ID from environment / .env
+API_TOKEN = os.getenv('BOT_TOKEN') or os.getenv('TELEGRAM_BOT_TOKEN')
+CHAT_ID = int(os.getenv('TELEGRAM_CHAT_ID', '-1002417180355'))
+
+if not API_TOKEN:
+    raise ValueError("Error: BOT_TOKEN / TELEGRAM_BOT_TOKEN environment variable is not set!")
 CATEGORY_THREAD_IDS = {
     'Art, Artist Support and Event Management': 2,
     'Musicians and Singers': 5,
