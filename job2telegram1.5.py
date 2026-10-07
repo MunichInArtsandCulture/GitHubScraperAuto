@@ -2,11 +2,14 @@ import asyncio
 from aiogram import Bot
 from aiogram.types import Message
 from aiogram import exceptions
-import time
+import os
+from dotenv import load_dotenv
 
-# Hier deinen API-Token einfügen
-API_TOKEN = '7088435202:AAEiMKtFxJQvA3Shdcv8sQP6vGxyOKt7Ktw'
-CHAT_ID = -1002417180355  # Die Chat-ID, in den die Nachrichten gesendet werden
+load_dotenv()
+
+# Hier deinen API-Token einfügen (wird aus .env geladen)
+API_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '7088435202:AAEiMKtFxJQvA3Shdcv8sQP6vGxyOKt7Ktw')
+CHAT_ID = int(os.getenv('TELEGRAM_CHAT_ID', '-1002417180355'))
 CATEGORY_THREAD_IDS = {
     'Art, Artist Support and Event Management': 2,
     'Musicians and Singers': 5,

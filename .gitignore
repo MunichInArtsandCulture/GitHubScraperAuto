@@ -1,0 +1,7 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+scraped_history.json
+categorized_jobs.txt
+jobs.json

@@ -1,8 +1,12 @@
 import re
-import openai
+import os
+from dotenv import load_dotenv
 
-# OpenAI API-Key
-openai.api_key = ""
+load_dotenv()
+
+# OpenAI API-Key from environment
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
 
 # Kategorien mit Beispielen
 categories_with_examples = {
