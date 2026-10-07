@@ -1,18 +1,14 @@
-import asyncio
-from aiogram import Bot
-from aiogram.types import Message
-from aiogram import exceptions
 import os
+import time
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 
 # Load API token and chat ID from environment / .env
 API_TOKEN = os.getenv('BOT_TOKEN') or os.getenv('TELEGRAM_BOT_TOKEN')
-CHAT_ID = int(os.getenv('TELEGRAM_CHAT_ID', '-1002417180355'))
+CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '-1002417180355')
 
-if not API_TOKEN:
-    raise ValueError("Error: BOT_TOKEN / TELEGRAM_BOT_TOKEN environment variable is not set!")
 CATEGORY_THREAD_IDS = {
     'Art, Artist Support and Event Management': 2,
     'Musicians and Singers': 5,
@@ -27,65 +23,71 @@ CATEGORY_THREAD_IDS = {
     'Other': 29,
 }
 
-bot = Bot(token=API_TOKEN)
 
-async def send_job_to_telegram(category, job_title, employer, job_link):
-    thread_id = CATEGORY_THREAD_IDS.get(category, 2)  # Standardmäßig Kategorie 2 (Art, Artist Support and Event Management)
+def send_job_to_telegram(category: str, job_title: str, employer: str, job_link: str):
+    if not API_TOKEN:
+        print("⚠️  [Telegram] Kein BOT_TOKEN / TELEGRAM_BOT_TOKEN gesetzt. Nachricht übersprungen.")
+        return
 
-    # Escape asterisks for Markdown formatting
-    job_title = job_title.replace("*", "\\*")
+    thread_id = CATEGORY_THREAD_IDS.get(category, 2)
+    message = f"<b>{job_title}</b>\n\n<b>Employer:</b> {employer}\n<b>Link:</b> <a href='{job_link}'>{job_link}</a>"
 
-    # Nachricht mit Absatz nach der Jobbezeichnung
-    message = f"{job_title}\n\nEmployer: {employer}\nLink: {job_link}"
+    print(f"📤 Sende Job an Telegram (Topic {thread_id} - {category}):\n{job_title} ({employer})\n")
 
-    # Logge die Nachricht, die gesendet werden soll
-    print(f"Nachricht, die gesendet werden soll:\n{message}\n")
+    url = f"https://api.telegram.org/bot{API_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "message_thread_id": thread_id,
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False
+    }
 
-    # Sende Nachricht an Telegram
     try:
-        response = await bot.send_message(
-            chat_id=CHAT_ID,
-            text=message,
-            reply_to_message_id=thread_id,
-            parse_mode="Markdown"  # Statt ParseMode.MARKDOWN, einfach "Markdown" als String
-        )
-        # Logge die erfolgreiche Antwort von Telegram
-        print(f"Nachricht erfolgreich gesendet: {response.text}\n")
-    except exceptions.TelegramAPIError as e:
-        # Logge den Fehler, wenn eine Nachricht nicht gesendet werden kann
-        print(f"Fehler beim Senden der Nachricht: {e}\n")
+        resp = requests.post(url, json=payload, timeout=15)
+        if resp.status_code == 200:
+            print("✅ Nachricht erfolgreich an Telegram gesendet.\n")
+        else:
+            print(f"⚠️  [Telegram API Error] HTTP {resp.status_code}: {resp.text}\n")
+    except Exception as e:
+        print(f"❌ [Telegram Error]: {e}\n")
 
-    # Pausiere nach dem Senden der Nachricht
-    await asyncio.sleep(4)  # Pause von 4 Sekunden
+    time.sleep(3)
 
-async def process_file(file_path):
+
+def process_file(file_path: str):
+    if not os.path.exists(file_path):
+        print(f"⚠️  Datei '{file_path}' nicht gefunden.")
+        return
+
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read().splitlines()
 
     datapoints = []
     datapoint = []
 
-    # Gehe durch jede Zeile und bilde die einzelnen Datapoints
     for line in content:
         if line.strip() == "---":
-            if datapoint:  # Falls das Datapoint nicht leer ist
+            if datapoint:
                 datapoints.append(datapoint)
-                datapoint = []  # Leere das Datapoint für den nächsten Abschnitt
+                datapoint = []
         else:
             datapoint.append(line)
 
-    if datapoint:  # Füge das letzte Datapoint hinzu
+    if datapoint:
         datapoints.append(datapoint)
 
-    # Gehe jedes Datapoint durch und sende die Nachrichten an Telegram
+    print(f"📋 Verarbeite {len(datapoints)} Jobs für den Telegram-Versand...")
+
     for datapoint in datapoints:
+        if not datapoint:
+            continue
         category_line = datapoint[0]
-        category = category_line.strip("[]")  # Entferne die Klammern
+        category = category_line.strip("[]")
         job_title = ""
         employer = ""
         job_link = ""
 
-        # Verarbeite jede Zeile im Datapoint
         for line in datapoint:
             if line.startswith("Job Title: "):
                 job_title = line.replace("Job Title: ", "").strip()
@@ -94,12 +96,16 @@ async def process_file(file_path):
             elif line.startswith("Link: "):
                 job_link = line.replace("Link: ", "").strip()
 
-        # Sende die Nachricht an Telegram
         if job_title and employer and job_link:
-            await send_job_to_telegram(category, job_title, employer, job_link)
+            send_job_to_telegram(category, job_title, employer, job_link)
 
-async def main():
-    await process_file("categorized_jobs.txt")
+
+def main():
+    if not API_TOKEN:
+        print("⚠️  [Telegram Dispatcher] Kein BOT_TOKEN in Umgebungsvariablen gefunden. Überspringe Telegram-Versand.")
+        return
+    process_file("categorized_jobs.txt")
+
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()

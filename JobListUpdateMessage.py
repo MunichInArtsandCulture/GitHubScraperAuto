@@ -11,7 +11,8 @@ load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
 
 if not BOT_TOKEN:
-    raise ValueError("Error: BOT_TOKEN / TELEGRAM_BOT_TOKEN environment variable is not set!")
+    print("⚠️  [Telegram Update] Kein BOT_TOKEN / TELEGRAM_BOT_TOKEN gesetzt. Überspringe Abschlussnachricht.")
+    exit(0)
 
 # Define group chat IDs
 CHAT_IDS = ["-1002417180355", "-1002339250618"]
@@ -33,6 +34,9 @@ url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
 # Send request to each group
 for chat_id in CHAT_IDS:
-    data = {"chat_id": chat_id, "text": message, "parse_mode": "HTML"}
-    response = requests.post(url, data=data)
-    print(response.json())  # Print response (optional)
+    try:
+        data = {"chat_id": chat_id, "text": message, "parse_mode": "HTML"}
+        response = requests.post(url, data=data, timeout=15)
+        print(f"📢 Update an Chat {chat_id} gesendet: {response.json()}")
+    except Exception as e:
+        print(f"❌ Fehler beim Senden des Updates an Chat {chat_id}: {e}")
