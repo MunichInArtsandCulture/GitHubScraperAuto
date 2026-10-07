@@ -53,7 +53,7 @@ Job Title: Veranstaltungstechniker:in FR Ton (m/w/d)
 Employer: Niedersächsische Staatstheater Hannover GmbH
 Link: https://buehnenjobs.de/de/jobboerse/veranstaltungstechnikerin-fr-ton-mwd/4608
 ---
-[Stage and Event Technology]
+[Other]
 Job Title: Technischen Direktor (m/w/d)
 Employer: Städtische Bühnen Frankfurt am Main GmbH Oper Frankfurt / Schauspiel Frankfurt
 Link: https://buehnenjobs.de/de/jobboerse/technischen-direktor-mwd/4607
@@ -127,21 +127,6 @@ Link: https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz
 Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKIDball im Feierwerk Trafixx
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
----
-[Musicians and Singers]
-Job Title: Vorspieler 1. Violine (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/seiten/jobs.html#ORCH
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfen für die Theatergastronomie (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/seiten/jobs.html#Gastro
----
-[Customer Service, Catering and Cash Register]
-Job Title: Personal für die Theaterkantine (m/w/d)
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/seiten/jobs.html#Kantine
 ---
 [Education, Pedagogical and Social]
 Job Title: Pädagogische Hilfskräfte / auch Werkstudenten m/w/d
@@ -218,100 +203,10 @@ Job Title: Hausmeister (m/w/d)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Costume, Makeup and Fashion]
-Job Title: Herrenschneider:in (m/w/d)
-Employer: Bayerische Staatsoper (Bühne)
-Link: https://www.staatsoper.de/jobs/hinter-der-buehne
----
-[Costume, Makeup and Fashion]
-Job Title: Maskenbildner:innen (m/w/d)
-Employer: Bayerische Staatsoper (Bühne)
-Link: https://www.staatsoper.de/jobs/hinter-der-buehne
----
-[Other]
-Job Title: Facility Manager (m/w/d)
-Employer: Bayerische Staatsoper (Bühne)
-Link: https://www.staatsoper.de/jobs/hinter-der-buehne
----
-[Legal and Financial]
-Job Title: Rechtsreferendar:in für die Geschäftsführende Direktion
-Employer: Bayerische Staatsoper (Büro)
-Link: https://www.staatsoper.de/jobs/im-buero
----
-[Legal and Financial]
-Job Title: Personalsachbearbeiter:in (m/w/d)
-Employer: Bayerische Staatsoper (Büro)
-Link: https://www.staatsoper.de/jobs/im-buero
----
-[Education, Pedagogical and Social]
-Job Title: Praktikant:innen für die Abteilungen Opernstudio und Community / Kind & Co
-Employer: Bayerische Staatsoper (Praktika/Ausbildung)
-Link: https://www.staatsoper.de/praktika-ausbildung
----
-[Communication, PR and Press]
-Job Title: Praktikant:in Pressebüro (100%)
-Employer: Bayerische Staatsoper (Praktika/Ausbildung)
-Link: https://www.staatsoper.de/media/user_upload/2026/05/26_05_06_Ausschreibung_Praktikum_Presse.pdf
----
-[Communication, PR and Press]
-Job Title: Praktikant:innen in der Abteilung Marketing und Besucher:innenkommunikation
-Employer: Bayerische Staatsoper (Praktika/Ausbildung)
-Link: https://www.staatsoper.de/praktika-ausbildung
----
 [Communication, PR and Press]
 Job Title: Assistenz Presse- & Öffentlichkeitsarbeit beim Festival Freischwimmen meets Rodeo
 Employer: HochX Theater
 Link: https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf
----
-[Stage and Event Technology]
-Job Title: Stellvertretung (m/w/d) der Technischen Leitung der Tollwood Festivals
-Employer: Tollwood (Jobs)
-Link: https://www.tollwood.de/stellenangebote/#V4
----
-[Art, Artist Support and Event Management]
-Job Title: Praktikum (m/w/d) im Event- und Kulturmanagement
-Employer: Tollwood (Jobs)
-Link: https://www.tollwood.de/stellenangebote/#P4
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfe (m/w/d) für die Unterstützung der Gastronomieleitung
-Employer: Tollwood (Jobs)
-Link: https://www.tollwood.de/stellenangebote/#P19
----
-[Customer Service, Catering and Cash Register]
-Job Title: Studentische Aushilfen (m/w/d) für Infopoint
-Employer: Tollwood (Jobs)
-Link: https://www.tollwood.de/stellenangebote/#P14
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfe (m/w/d) für das Handling der Stoffservietten
-Employer: Tollwood (Jobs)
-Link: https://www.tollwood.de/stellenangebote/#P21
----
-[Stage and Event Technology]
-Job Title: Stellvertretung (m/w/d) der Technischen Leitung der Tollwood Festivals
-Employer: Tollwood (Praktika)
-Link: https://www.tollwood.de/stellenangebote/#V4
----
-[Art, Artist Support and Event Management]
-Job Title: Praktikum (m/w/d) im Event- und Kulturmanagement
-Employer: Tollwood (Praktika)
-Link: https://www.tollwood.de/stellenangebote/#P4
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfe (m/w/d) für die Unterstützung der Gastronomieleitung
-Employer: Tollwood (Praktika)
-Link: https://www.tollwood.de/stellenangebote/#P19
----
-[Customer Service, Catering and Cash Register]
-Job Title: Studentische Aushilfen (m/w/d) für Infopoint
-Employer: Tollwood (Praktika)
-Link: https://www.tollwood.de/stellenangebote/#P14
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfe (m/w/d) für das Handling der Stoffservietten
-Employer: Tollwood (Praktika)
-Link: https://www.tollwood.de/stellenangebote/#P21
 ---
 [Communication, PR and Press]
 Job Title: Volontariat Marketing & Museumsbetrieb (m/w/d) - 12 Monate (danach Option auf Festanstellung)
