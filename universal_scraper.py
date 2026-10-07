@@ -409,17 +409,22 @@ def run_pipeline(
 
 
 if __name__ == "__main__":
+    script_dir = get_script_dir()
+    default_sources = os.path.join(script_dir, "sources.json")
+
     parser = argparse.ArgumentParser(description="Universal Art & Culture Job Scraper")
-    parser.add_argument("--sources", default="scraper_repo/sources.json", help="Path to sources JSON file")
+    parser.add_argument("--sources", default=default_sources, help="Path to sources JSON file")
     parser.add_argument("--url", default=None, help="Scrape a single URL instead of full list")
     parser.add_argument("--model", default="gpt-4o-mini", help="LLM model (default: gpt-4o-mini)")
     parser.add_argument("--no-dedup", action="store_true", help="Disable deduplication")
     args = parser.parse_args()
 
-    # Locate sources.json automatically if relative path is given
     sources_path = args.sources
-    if not os.path.exists(sources_path) and os.path.exists(os.path.join("scraper_repo", "sources.json")):
-        sources_path = os.path.join("scraper_repo", "sources.json")
+    if not os.path.exists(sources_path):
+        if os.path.exists("sources.json"):
+            sources_path = "sources.json"
+        elif os.path.exists("scraper_repo/sources.json"):
+            sources_path = "scraper_repo/sources.json"
 
     run_pipeline(
         sources_file=sources_path,
@@ -427,3 +432,4 @@ if __name__ == "__main__":
         model=args.model,
         deduplicate=not args.no_dedup
     )
+
