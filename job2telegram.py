@@ -3,7 +3,7 @@ from aiogram import Bot
 import asyncio
 
 # Telegram-Bot-Token
-bot_token = "7088435202:AAEiMKtFxJQvA3Shdcv8sQP6vGxyOKt7Ktw"
+bot_token = "blank"
 bot = Bot(token=bot_token)
 
 # Kategorien und zugehörige Thread-IDs
