@@ -150,7 +150,7 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
         level = h.name[1]
         h.replace_with(f"\n{'#' * int(level)} {h.get_text(strip=True)}\n")
     for li in soup.find_all("li"):
-        li.replace_with(f"\n- {li.get_text(strip=True)}")
+        li.replace_with(f"\n- {li.get_text(separator=' ', strip=True)}")
 
     # 4. Normalize all links to absolute URLs
     for a in soup.find_all("a", href=True):
@@ -231,15 +231,16 @@ Available Categories (select the most accurate one):
 {cat_list}
 
 RULES:
-1. Extract all actual job openings, internships, apprenticeships, open calls, and positions listed in headings, text, application forms or checkboxes.
+1. Extract all actual job openings, department internships (e.g. 'Praktikum Presse und Kommunikation', 'Praktikum Bildung und Vermittlung', 'Praktikum Sammlungsreferate'), apprenticeships, open calls, and positions listed in headings, text, application forms or checkboxes.
    Examples include: orchestra & musical roles (e.g. 'Vorspieler 1. Violine', Probespiel calls), opera studio programs ('Opernstudio'), theater gastronomy & service ('Pausengastronomie', 'Kantinenkoch', 'Küchenhilfe', 'Garderobenkraft', 'Barkraft'), technical roles ('VA-Techniker', 'Bühnentechniker'), administration, and curators.
-2. If there are NO open positions, return an empty array: []
-3. Always resolve the link: use the exact job link from markdown if present; otherwise use the source URL '{source_url}'.
-4. Default Employer: '{source_name}' (unless a specific institution or service partner like 'Hänsel & Gretel GmbH' is explicitly named).
-5. Output format must be strictly valid JSON matching this schema:
+2. EXCLUSION RULE: Strictly IGNORE and EXCLUDE Volontariate ('wissenschaftliches Volontariat') and Freiwilligendienste ('Bundesfreiwilligendienst', 'BFD', 'FSJ Kultur'). DO NOT extract Volontariate or Freiwilligendienst entries.
+3. If there are NO open positions (other than excluded ones), return an empty array: []
+4. Always resolve the link: use the exact job link from markdown if present; otherwise use the source URL '{source_url}'.
+5. Default Employer: '{source_name}' (unless a specific institution or service partner like 'Bayerische Staatsgemäldesammlungen' or 'Hänsel & Gretel GmbH' is explicitly named).
+6. Output format must be strictly valid JSON matching this schema:
 [
   {{
-    "title": "Job Title (e.g. Vorspieler 1. Violine (m/w/d), Kantinenkoch (m/w/d))",
+    "title": "Job Title (e.g. Praktikum Presse und Kommunikation (m/w/d), Vorspieler 1. Violine (m/w/d))",
     "employer": "Institution Name",
     "link": "Full URL to apply or view details",
     "category": "Exact Category Name from the list above"
