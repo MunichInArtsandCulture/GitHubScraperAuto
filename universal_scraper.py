@@ -99,14 +99,14 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
 
     soup = BeautifulSoup(html, "html.parser")
 
-    # 1. Remove non-content tags
-    for tag in soup(["script", "style", "nav", "footer", "header", "aside", "svg", "noscript", "iframe", "form"]):
+    # 1. Remove non-content tags (keep forms as some sites use application/checkbox forms for job listings)
+    for tag in soup(["script", "style", "nav", "footer", "header", "aside", "svg", "noscript", "iframe"]):
         tag.decompose()
 
     # 2. Remove common cookie / modal / banner elements
-    for element in soup.find_all(attrs={"class": re.compile(r"(cookie|banner|modal|popup|consent|overlay|menu|navbar)", re.I)}):
+    for element in soup.find_all(attrs={"class": re.compile(r"(cookie|cookie-banner|modal|popup|consent|privacy-notice|site-header|site-footer)", re.I)}):
         element.decompose()
-    for element in soup.find_all(attrs={"id": re.compile(r"(cookie|banner|modal|popup|consent|overlay|menu|navbar)", re.I)}):
+    for element in soup.find_all(attrs={"id": re.compile(r"(cookie|cookie-banner|modal|popup|consent|privacy-notice|site-header|site-footer)", re.I)}):
         element.decompose()
 
     # 3. Normalize all links to absolute URLs
@@ -183,7 +183,7 @@ Available Categories (select the most accurate one):
 {cat_list}
 
 RULES:
-1. Extract ONLY actual job openings, internships, apprenticeships, or open calls mentioned in the text.
+1. Extract all actual job openings, internships, apprenticeships, open calls, and positions listed in application forms or checkboxes (e.g. 'Garderobenkraft', 'Barkraft', 'Runner', 'VA-Techniker', 'Elektriker', 'Türsteher/Security').
 2. If there are NO open positions, return an empty array: []
 3. Always resolve the link: use the exact job link from markdown if present; otherwise use the source URL '{source_url}'.
 4. Default Employer: '{source_name}' (unless a specific institution is explicitly named).
