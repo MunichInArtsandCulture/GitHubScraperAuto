@@ -24,9 +24,9 @@ jobs:
       - name: 📦 Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 trafilatura python-dotenv openai aiogram curl_cffi
+          pip install requests beautifulsoup4 trafilatura python-dotenv openai aiogram curl_cffi pytz
 
-      - name: 🚀 Run Universal Job Scraper
+      - name: 🚀 Run Universal Job Scraper & Telegram Dispatcher
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
@@ -34,6 +34,8 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python universal_scraper.py
+          python job2telegram1.5.py
+          python JobListUpdateMessage.py
 
       - name: 💾 Commit and Push updated files
         run: |
@@ -42,4 +44,5 @@ jobs:
           git add categorized_jobs.txt jobs.json scraped_history.json || true
           git commit -m "📄 Update job list (automated)" || echo "No changes to commit"
           git push
+
 
