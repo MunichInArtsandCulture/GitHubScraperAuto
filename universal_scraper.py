@@ -109,27 +109,39 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
     for element in soup.find_all(attrs={"id": re.compile(r"(cookie|cookie-banner|modal|popup|consent|privacy-notice|site-header|site-footer)", re.I)}):
         element.decompose()
 
-    # 3. Normalize all links to absolute URLs
+    # 3. Format headings and lists for clear structure
+    for h in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
+        level = h.name[1]
+        h.replace_with(f"\n{'#' * int(level)} {h.get_text(strip=True)}\n")
+    for li in soup.find_all("li"):
+        li.replace_with(f"\n- {li.get_text(strip=True)}")
+
+    # 4. Normalize all links to absolute URLs
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
-        if href.startswith(("javascript:", "mailto:", "tel:", "#")):
+        if href.startswith(("javascript:", "mailto:", "tel:")):
             a.replace_with(a.get_text(strip=True))
             continue
-        abs_url = urljoin(base_url, href)
+        if href.startswith("#"):
+            abs_url = f"{base_url.split('#')[0]}{href}"
+        else:
+            abs_url = urljoin(base_url, href)
+            # Fix duplicate path segments like /seiten/seiten/ or /pages/pages/
+            abs_url = re.sub(r'/(seiten|pages|de|en)/\1/', r'/\1/', abs_url)
         text = a.get_text(strip=True)
         if text:
             a.replace_with(f" [{text}]({abs_url}) ")
         else:
             a.decompose()
 
-    # 4. Extract main content container if available
+    # 5. Extract main content container if available
     main_container = soup.find("main") or soup.find("article") or soup.find(id=re.compile(r"(content|main|jobs|stellen)", re.I)) or soup.body
     if not main_container:
         main_container = soup
 
     raw_text = main_container.get_text(separator="\n")
 
-    # 5. Hybrid with trafilatura if text is very large
+    # 6. Hybrid with trafilatura if text is very large
     trafilatura_text = trafilatura.extract(
         html,
         url=base_url,
@@ -140,7 +152,7 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
 
     selected_text = raw_text if (raw_text and len(raw_text) < 25000) else (trafilatura_text or raw_text)
 
-    # 6. Compress whitespace & blank lines
+    # 7. Compress whitespace & blank lines
     lines = [line.strip() for line in selected_text.splitlines() if line.strip()]
     dense_text = "\n".join(lines)
     dense_text = re.sub(r'\n{3,}', '\n\n', dense_text)
@@ -183,14 +195,15 @@ Available Categories (select the most accurate one):
 {cat_list}
 
 RULES:
-1. Extract all actual job openings, internships, apprenticeships, open calls, and positions listed in application forms or checkboxes (e.g. 'Garderobenkraft', 'Barkraft', 'Runner', 'VA-Techniker', 'Elektriker', 'Türsteher/Security').
+1. Extract all actual job openings, internships, apprenticeships, open calls, and positions listed in headings, text, application forms or checkboxes.
+   Examples include: orchestra & musical roles (e.g. 'Vorspieler 1. Violine', Probespiel calls), opera studio programs ('Opernstudio'), theater gastronomy & service ('Pausengastronomie', 'Kantinenkoch', 'Küchenhilfe', 'Garderobenkraft', 'Barkraft'), technical roles ('VA-Techniker', 'Bühnentechniker'), administration, and curators.
 2. If there are NO open positions, return an empty array: []
 3. Always resolve the link: use the exact job link from markdown if present; otherwise use the source URL '{source_url}'.
-4. Default Employer: '{source_name}' (unless a specific institution is explicitly named).
+4. Default Employer: '{source_name}' (unless a specific institution or service partner like 'Hänsel & Gretel GmbH' is explicitly named).
 5. Output format must be strictly valid JSON matching this schema:
 [
   {{
-    "title": "Job Title (e.g. Kurator:in, Bühnentechniker:in)",
+    "title": "Job Title (e.g. Vorspieler 1. Violine (m/w/d), Kantinenkoch (m/w/d))",
     "employer": "Institution Name",
     "link": "Full URL to apply or view details",
     "category": "Exact Category Name from the list above"
