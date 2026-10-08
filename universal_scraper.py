@@ -193,9 +193,9 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
     dense_text = "\n".join(lines)
     dense_text = re.sub(r'\n{3,}', '\n\n', dense_text)
 
-    # Cap to max 8,000 characters (~1,800 tokens) per site to keep costs ultra-low
-    if len(dense_text) > 8000:
-        dense_text = dense_text[:8000] + "\n\n...[content truncated]..."
+    # Cap to max 35,000 characters (~7,000 tokens) per site to keep costs minimal while never truncating large career pages
+    if len(dense_text) > 35000:
+        dense_text = dense_text[:35000] + "\n\n...[content truncated]..."
 
     return dense_text
 
