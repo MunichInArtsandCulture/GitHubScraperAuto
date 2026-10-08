@@ -145,18 +145,11 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
     for element in soup.find_all(attrs={"id": re.compile(r"(cookie|cookie-banner|modal|popup|consent|privacy-notice|site-header|site-footer)", re.I)}):
         element.decompose()
 
-    # 3. Format headings and lists for clear structure
-    for h in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
-        level = h.name[1]
-        h.replace_with(f"\n{'#' * int(level)} {h.get_text(strip=True)}\n")
-    for li in soup.find_all("li"):
-        li.replace_with(f"\n- {li.get_text(separator=' ', strip=True)}")
-
-    # 4. Normalize all links to absolute URLs
+    # 3. Normalize all links to absolute URLs FIRST (before formatting lists or headings so inner links are preserved)
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if href.startswith(("javascript:", "mailto:", "tel:")):
-            a.replace_with(a.get_text(strip=True))
+            a.replace_with(a.get_text(separator=' ', strip=True))
             continue
         if href.startswith("#"):
             abs_url = f"{base_url.split('#')[0]}{href}"
@@ -164,32 +157,28 @@ def clean_html_to_dense_markdown(html: str, base_url: str) -> str:
             abs_url = urljoin(base_url, href)
             # Fix duplicate path segments like /seiten/seiten/ or /pages/pages/
             abs_url = re.sub(r'/(seiten|pages|de|en)/\1/', r'/\1/', abs_url)
-        text = a.get_text(strip=True)
+        text = a.get_text(separator=' ', strip=True)
         if text:
             a.replace_with(f" [{text}]({abs_url}) ")
         else:
             a.decompose()
 
+    # 4. Format headings and lists for clear structure
+    for h in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
+        level = int(h.name[1])
+        h.replace_with(f"\n{'#' * level} {h.get_text(separator=' ', strip=True)}\n")
+    for li in soup.find_all("li"):
+        li.replace_with(f"\n- {li.get_text(separator=' ', strip=True)}")
+
     # 5. Extract main content container if available
-    main_container = soup.find("main") or soup.find("article") or soup.find(id=re.compile(r"(content|main|jobs|stellen)", re.I)) or soup.body
+    main_container = soup.find("main") or soup.find("article") or soup.find(id=re.compile(r"^(content|main-content|main|page-content|wrapper)$", re.I)) or soup.find(attrs={"role": "main"}) or soup.body or soup
     if not main_container:
         main_container = soup
 
     raw_text = main_container.get_text(separator="\n")
 
-    # 6. Hybrid with trafilatura if text is very large
-    trafilatura_text = trafilatura.extract(
-        html,
-        url=base_url,
-        include_links=True,
-        include_formatting=True,
-        output_format="txt"
-    )
-
-    selected_text = raw_text if (raw_text and len(raw_text) < 25000) else (trafilatura_text or raw_text)
-
-    # 7. Compress whitespace & blank lines
-    lines = [line.strip() for line in selected_text.splitlines() if line.strip()]
+    # 6. Compress whitespace & blank lines
+    lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
     dense_text = "\n".join(lines)
     dense_text = re.sub(r'\n{3,}', '\n\n', dense_text)
 
