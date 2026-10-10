@@ -1,5 +1,89 @@
 [
   {
+    "title": "Garderobenkraft (m/w/d)",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Barkraft (m/w/d) für den Weihnachtsmarkt",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Runner*in (m/w/d) für den Weihnachtsmarkt",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "gelernte VA-Techniker*in (m/w/d)",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Elektriker*in (m/w/d)",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Türsteher*in/Security (m/w/d)",
+    "employer": "Bahnwärter Thiel",
+    "link": "https://www.bahnwaerterthiel.de/jobs/",
+    "category": "Other"
+  },
+  {
+    "title": "Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/67/mitarbeiter-in-stewarding-spueler-in-steward-m-w-d?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Mitarbeiter:in HKLS / Gebäudetechniker:in / Hausmeister:in (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/66/mitarbeiter-in-hkls-gebaeudetechniker-in-hausmeister-in-m-w-d?page_lang=de",
+    "category": "Other"
+  },
+  {
+    "title": "Back-of-House-Manager (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/65/back-of-house-manager-m-w-d?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Werkstudent:innen oder Aushilfen bzw. Minijobber:innen in der Veranstaltungstechnik",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/60/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-in-der-veranstaltungstechnik?page_lang=de",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Chef:in de Partie / Postenchef:in à la carte im Restaurant Zeitlang (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/56/chef-in-de-partie-postenchef-in-a-la-carte-im-restaurant-zeitlang-m-w-d?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Commis de Cuisine (m/w/d) / Jungkoch / Jungköchin / Koch / Köchin in Vollzeit",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/49/commis-de-cuisine-m-w-d-jungkoch-jungkoechin-koch-koechin-in-vollzeit?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Casino Koch/Köchin bzw. (Demi) Chef de Partie (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/50/casino-koch-koechin-bzw-demi-chef-de-partie-m-w-d?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Restaurantmanager:in / Restaurantleiter:in (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/41/restaurantmanager-in-restaurantleiter-in-m-w-d?page_lang=de",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
     "title": "Maskenbildner:in Oper (m/w/d)",
     "employer": "Niedersächsische Staatstheater Hannover GmbH",
     "link": "https://buehnenjobs.de/de/jobboerse/maskenbildnerin-oper-mwd/4655",
@@ -60,6 +144,72 @@
     "category": "Acting, Theater and Directing"
   },
   {
+    "title": "Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-mwd-im-bereich-buchhaltungverwaltung",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Pädagogische*r Mitarbeiter*in (w/m/d) für den Interim Jugendtreff",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/paedagogischer-mitarbeiterin-w/m/d-interim-jugendtreff",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Schlagzeuglehrer*in im Feierwerk Trafixx",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/schlagzeuglehrerin-w/m/d-im-trafixx",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "Mitarbeiter*in (w/m/d) für pädagogische Betreuung im Feierwerk Tatz",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/paedagogische-betreuung-tatz",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKIDball im Feierwerk Trafixx",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Opernstudio 2027/2028",
+    "employer": "Gärtnerplatztheater",
+    "link": "https://www.gaertnerplatztheater.de/de/seiten/bewerbungsformular.html",
+    "category": "Other"
+  },
+  {
+    "title": "Vorspieler 1. Violine (m/w/d)",
+    "employer": "Gärtnerplatztheater",
+    "link": "http://www.muvac.com",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "Aushilfen für die Theatergastronomie (m/w/d)",
+    "employer": "Hänsel & Gretel GmbH",
+    "link": "https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Gastro",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Personal für die Theaterkantine (m/w/d)",
+    "employer": "Hänsel & Gretel GmbH",
+    "link": "https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Kantinenkoch (m/w/d)",
+    "employer": "Hänsel & Gretel GmbH",
+    "link": "https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Küchenhilfe (m/w/d)",
+    "employer": "Hänsel & Gretel GmbH",
+    "link": "https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
     "title": "Kulturbeauftragte:n (m/ w/ d), Teilzeit in Festanstellung oder Honorar",
     "employer": "Stadt Trossingen",
     "link": "https://www.kultweet.de/jobs/Stadt_Trossingen_Kulturbeauftragte_r.pdf",
@@ -87,7 +237,7 @@
     "title": "Direktor (m/ w/ d) Heimvolkshochschule, Vollzeit",
     "employer": "DGS-Service GmbH",
     "link": "https://diakoniestiftung-sachsen.de/path/app/?rq_AppGuid=C6099B9640F8855AD692222664AA8CF65B259DF7&rq_TargetPageGuid=59C40CEE346F5004864A6F1162BA93F919DAA5F6&qs_STRID=4A966435DA13F7EBC6121728E4C81B8432F65B39&qs_link=92EED6392A4CF27146EC486BB20631F71719468C&qs_mode=existing&qs_page=59C40CEE346F5004864A6F1162BA93F919DAA5F6&qs_reload=59C40CEE346F5004864A6F1162BA93F919DAA5F6",
-    "category": "Other"
+    "category": "Legal and Financial"
   },
   {
     "title": "Referent:in der Künstlerischen Leitung & Künstlerische Produktionsleitung (w/ m/ d), Teilzeit",
@@ -123,7 +273,7 @@
     "title": "Leitung der Geschäftsstelle in Vollzeit (m/ w/ d), Vollzeit",
     "employer": "Kunstverein München e.V.",
     "link": "https://kunstvereine.de/sites/default/files/2026-09/Ausschreibung%20Leitung%20der%20Gescha%CC%88ftsstelle%20in%20Vollzeit.pdf",
-    "category": "Art, Artist Support and Event Management"
+    "category": "Legal and Financial"
   },
   {
     "title": "Projektmanager/ -in Marketing (m/ w/ d), unbefristet",
@@ -134,8 +284,14 @@
   {
     "title": "Lehrtätigkeit Elementare Musikpädagogik (m/ w/ d), Teilzeit, befristet",
     "employer": "Landkreis Rhön-Grabfeld",
-    "link": "https://www.rhoen-grabfeld.de/fileadmin/user_upload/LKR/Jobs/2026_Lehrtätigkeit_Elementare_Musikpädagogik_KMS_Kön.pdf",
+    "link": "https://www.rhoen-grabfeld.de/fileadmin/user_upload/LKR/Jobs/2026_Lehrt%C3%A4tigkeit_Elementare_Musikp%C3%A4dagogik_KMS_K%C3%B6n.pdf",
     "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Leitung für den Fachbereich Kultur und Bildung (m/ w/ d), Vollzeit",
+    "employer": "Stadt Bad Homburg v. d. Höhe",
+    "link": "https://interamt.de/koop/app/stelle?id=1499736",
+    "category": "Legal and Financial"
   },
   {
     "title": "Sachbearbeiter:in im Bereich Ausstellung, Dialog und Kultur, Vollzeit, befristet",
@@ -144,10 +300,160 @@
     "category": "Art, Artist Support and Event Management"
   },
   {
+    "title": "Projektleitung Bundesjugendchor (m/ w/ d), Teilzeit, befristet",
+    "employer": "Deutscher Musikrat gGmbH",
+    "link": "https://www.kultweet.de/jobs/DMR_PL_BundesJugendchor.pdf",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Sachbearbeitung Förderprogramm (m/ w/ d) als Elternzeitvertretung in Vollzeit (39 Stunden), befristet",
+    "employer": "Stiftung Kunstfonds",
+    "link": "https://www.kunstfonds.de/aktuelles/details/in-eigener-sache-stiftung-kunstfonds-sucht-sachbearbeitung-foerderprogramm-in-elternzeitvertretung?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaczLo1mRJmV9giS9lgXp8yx2GHSd0IUrN3VmpSha7Iz59Mi48uIQcVi0z_A0g_aem_0UH-LpTYyk8lF55X00a4Eg",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8",
+    "employer": "Kunsthalle München",
+    "link": "https://www.kunsthalle-muc.de/stellenangebote/#mitarbeit-im-cafe-restaurant-kunsthalle-theatiner",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Ausbildung zur/m Fachangestellten für Medien- und Informationsdienste Bibliothek (w/m/d)",
+    "employer": "Stadt München (Kulturreferat)",
+    "link": "https://karriere-muenchen.jobs.hr.cloud.sap/job/M%C3%BCnchen-Ausbildung-zurm-Fachangestellten-f%C3%BCr-Medien-und-Informationsdienste-Bibliothek-%28wmd%29-M%C3%BCnchen/1443228033/",
+    "category": "Other"
+  },
+  {
+    "title": "Mitarbeitende/n für das Ausstellungssekretariat (m/w/d)",
+    "employer": "Museum Fünf Kontinente",
+    "link": "https://www.museum-fuenf-kontinente.de/museum/service/stellenangebote/ausstellungssekretariat",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Mitarbeiter/in Buchhaltung (m/w/d)",
+    "employer": "Pasinger Fabrik",
+    "link": "https://pasinger-fabrik.de/die-fabrik/stellenausschreibungen/",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Konzertmeister*in der 1. Violinen",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "STELLV. Konzertmeister*in der 1. Violinen",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "1. VIOLINE TUTTI",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "Stimmführer*in der 2. Violinen",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "Solo-Bratsche",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "BRATSCHE TUTTI",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "SOLO-KONTRABASS",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "FLÖTE",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "VIOLONCELLO",
+    "employer": "Münchner Philharmoniker",
+    "link": "https://www.mphil.de/ueber-uns/offene-stellen",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "CHEFDISPONENT (m/w/d)",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Other"
+  },
+  {
+    "title": "Mitarbeiter (m/w/d) im Künstlerischen Betriebsbüro",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Other"
+  },
+  {
+    "title": "Berufskraftfahrer (m/w/d) mit Führerscheinklasse CE in Vollzeit",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Other"
+  },
+  {
+    "title": "Hausmeister (m/w/d) in Vollzeit",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Other"
+  },
+  {
+    "title": "Technischer Leiter (m/w/d) für die Spielstätte Cuvilliéstheater in Vollzeit",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Meister*in für Veranstaltungstechnik (m/w/d) für die Spielstätte Cuvilliéstheater in Vollzeit",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Mitarbeiter (m/w/d) als Aushilfe in der Wäscherei in Teilzeit (15 Wochenarbeitsstunden)",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Other"
+  },
+  {
+    "title": "Sachbearbeiter Controlling (m/w/d) in Teilzeit mit bis zu 28 Wochenstunden",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Legal and Financial"
+  },
+  {
     "title": "Bühnentechniker (m/w/d) in Vollzeit",
     "employer": "Residenztheater",
     "link": "https://www.residenztheater.de/jobs",
     "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Assistenz Presse- & Öffentlichkeitsarbeit beim Festival Freischwimmen meets Rodeo",
+    "employer": "HochX Theater",
+    "link": "https://theater-hochx.de/wp-content/uploads/2022/06/HochX_Ausschreibung_POe.pdf",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "WerkstudentInnen für Empfangs- und Aufsichtspersonal ab sofort",
+    "employer": "WOW Museum",
+    "link": "https://www.wow-museum.de/jobs/werkstudentinnen-fur-empfangs--und-aufsichtspersonal-ab-sofort",
+    "category": "Customer Service, Catering and Cash Register"
   },
   {
     "title": "Beleuchtungsmeister (m/w/d)",
@@ -162,39 +468,255 @@
     "category": "Customer Service, Catering and Cash Register"
   },
   {
+    "title": "Hostess/Empfangsmitarbeiter (m/w/d)",
+    "employer": "Rauschenberger Catering & Restaurants München GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-NBC2BX-9FV-S",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Chefdisponent (m/w/d)",
+    "employer": "Bayerisches Staatsschauspiel Land Bayern",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003820451-S",
+    "category": "Other"
+  },
+  {
+    "title": "Audio Visual Techniker (m/w/d)",
+    "employer": "INFINITY Hotel & Conference Resort Munich",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1L6KTC-BXM-S",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Bankettlogistiker (m/w/d)",
+    "employer": "INFINITY Hotel & Conference Resort Munich",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-ED7-S",
+    "category": "Other"
+  },
+  {
+    "title": "Junior Eventmanager (w/m/d) Feinkost Catering",
+    "employer": "Feinkost Käfer",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-R2MHKC-G12-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Eventmanager im Bereich Eventcatering (m/w/d)",
+    "employer": "Rauschenberger Catering & Restaurants München GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-7X5-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)",
+    "employer": "Hotel Bayerischer Hof",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-4AY-S",
+    "category": "Other"
+  },
+  {
+    "title": "Host/ Hostess für das Trader Vic´s (m/w/d)",
+    "employer": "Hotel Bayerischer Hof",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XGYPVD-SZM-S",
+    "category": "Customer Service, Catering and Cash Register"
+  },
+  {
+    "title": "Veranstaltungskoordinator Conference & Restaurant (m/w/d)",
+    "employer": "Rauschenberger Catering & Restaurants München GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-3TCJPO-MLZ-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Managerin/Manager für Messen und Veranstaltungen (m/w/d)",
+    "employer": "BG BAU BG der Bauwirtschaft",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003776229-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Referent/in für Italienische Malerei bis Ende des 18. Jahrhunderts (m/w/d)",
+    "employer": "Staatliche Museumsagentur Bayern",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01490958-S",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "LED-Techniker (m/w/d),Berlin,Dresden,Leipzig,München",
+    "employer": "Neumann&Müller Veranstaltungstechnik",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2340841-S",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Projektleitung (m/w/d) Event Catering Olympiapark",
+    "employer": "DO & CO Deutschland Holding",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-4d09cbb9-cc47-48ba--S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Junior Eventmanager (w/m/d), Stammhaus",
+    "employer": "Feinkost Käfer GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2337420-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Referent*in Veranstaltungsmanagement (w/m/d)",
+    "employer": "Gasteig München GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003693849-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)",
+    "employer": "MHP Hotel AG",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17189-zjs4ux1cp7-S",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Meister*in/ Techniker*in Elektrotechnik als Teamleitung und VEFK (w/m/d)",
+    "employer": "Münchner Kammerspiele",
+    "link": "https://karriere-muenchen.jobs.hr.cloud.sap/job/MeisterinTechnikerin-Elektrotechnik-als-Teamleitung-und-VEFK-%28wmd%29/41233-de_DE/",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Gastdramaturg*in (m/w/d) für eine Produktion",
+    "employer": "Münchner Volkstheater",
+    "link": "https://www.muenchner-volkstheater.de/service/jobs-praktika/gast-dramaturgie",
+    "category": "Acting, Theater and Directing"
+  },
+  {
+    "title": "Personalsachbearbeiter*in (m/w/d)",
+    "employer": "Münchner Volkstheater",
+    "link": "https://www.muenchner-volkstheater.de/service/jobs-praktika/personalbuchhaltung",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Mitarbeiter*in im Bereich Rechnungswesen (m/w/d) in Teilzeit",
+    "employer": "Münchner Volkstheater",
+    "link": "https://www.muenchner-volkstheater.de/service/jobs-praktika/rechnungswesen",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Maskenbildner*in (m/w/d)",
+    "employer": "Münchner Volkstheater",
+    "link": "https://www.muenchner-volkstheater.de/service/jobs-praktika/maskenbild",
+    "category": "Costume, Makeup and Fashion"
+  },
+  {
+    "title": "Maskenbildner*in (w/m/d) für Elternzeitvertretung",
+    "employer": "Münchner Volkstheater",
+    "link": "https://www.muenchner-volkstheater.de/service/jobs-praktika/maskenbild-elternzeitvertretung",
+    "category": "Costume, Makeup and Fashion"
+  },
+  {
+    "title": "Mitarbeiter*in Vertrieb / Ticketing (m/w/d)",
+    "employer": "Deutsches Theater",
+    "link": "https://www.deutsches-theater.de/wp-content/uploads/Job_Anzeige_Vertrieb_Ticketing_2026.pdf",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Auszubildende*n im Bereich Fachkraft für Veranstaltungstechnik (m/w/d)",
+    "employer": "Deutsches Theater",
+    "link": "https://www.deutsches-theater.de/wp-content/uploads/Job_Anzeige_MitarbeiterIn_Azubi_Technik_2027.pdf",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Referent*in Veranstaltungsmanagement (w/m/d) in Teilzeit - 32h/Woche",
+    "employer": "Gasteig",
+    "link": "https://gasteig.mana-jobs.de/13613-referent_in_veranstaltungsmanagement_w_m_d_in_teilzeit_32h_woche",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
     "title": "Veranstaltungs-Support / Teamassistenz (w/m/d) in Teilzeit - 30h/Woche",
     "employer": "Gasteig",
     "link": "https://gasteig.mana-jobs.de/13689-veranstaltungs_support_teamassistenz_w_m_d_in_teilzeit_30h_woche",
     "category": "Art, Artist Support and Event Management"
   },
   {
+    "title": "Berater:in Kommunikation",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/berater-kommunikation-mwd/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Art Director (m/w/d)",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/junior-design-mwd/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Junior Office Manager (m/w/d)",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/office-manager-mwd/",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Trainee (m/w/d)",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/trainee-communications/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Praktikant:in",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/praktikum-kommunikation/",
+    "category": "Communication, PR and Press"
+  },
+  {
     "title": "Ausbildung zur Kauffrau / zum Kaufmann für Büromanagement (m/w/d)",
-    "employer": "Max-Planck-Gesellschaft",
+    "employer": "Max-Planck-Institut für ausländisches öffentliches Recht und Völkerrecht",
     "link": "https://www.mpg.de/27025195/ausbildung-zur-kauffrau-zum-kaufmann-fuer-bueromanagement-m-w-d",
     "category": "Legal and Financial"
   },
   {
     "title": "Physiotherapeut*in (m/w/d)",
-    "employer": "Max-Planck-Gesellschaft",
+    "employer": "Max-Planck-Institut für Psychiatrie",
     "link": "https://www.mpg.de/27022955/physiotherapeut-in-m-w-d",
     "category": "Other"
   },
   {
     "title": "Ergotherapeut*in (m/w/d) für unsere Tagklinik für Psychiatrie und Psychotherapie",
-    "employer": "Max-Planck-Gesellschaft",
+    "employer": "Max-Planck-Institut für Psychiatrie",
     "link": "https://www.mpg.de/27022784/ergotherapeut-in-m-w-d-fuer-unsere-tagklinik-fuer-psychiatrie-und-psychotherapie3",
     "category": "Other"
   },
   {
     "title": "Ausbildung Fachinformatiker*in (m/w/d) für Systemintegration",
-    "employer": "Max-Planck-Gesellschaft",
+    "employer": "Max-Planck-Institut für Psychiatrie",
     "link": "https://www.mpg.de/27018772/ausbildung-fachinformatiker-in-m-w-d-fuer-systemintegration",
     "category": "IT and Digital"
   },
   {
-    "title": "Ausbildung 2027 - Fachinformatiker*in für Systemintegration",
-    "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/job-58a22ada55ce29790f482d55911aa163",
+    "title": "Ausbildung 2027 - Kauffrau/Kaufmann für Büromanagement (m/w/d)",
+    "employer": "Max-Planck-Institut für Plasmaphysik (Garching)",
+    "link": "https://www.mpg.de/job-2a1d7e4a26b6ddeb90385ed29605346e",
+    "category": "Legal and Financial"
+  },
+  {
+    "title": "Frontend & Design Engineer (m/w/d) Next.js",
+    "employer": "&why Agency",
+    "link": "https://www.why.de/de/careers/frontend-engineer",
     "category": "IT and Digital"
+  },
+  {
+    "title": "Werkstudent*in Frontend & Design Engineering (m/w/d) Next.js",
+    "employer": "&why Agency",
+    "link": "https://www.why.de/de/careers/werkstudent-frontend-design-engineering",
+    "category": "IT and Digital"
+  },
+  {
+    "title": "Product & Interaction Designer (m/w/d)",
+    "employer": "&why Agency",
+    "link": "https://www.why.de/de/careers/product-interaction-designer",
+    "category": "Other"
+  },
+  {
+    "title": "AI Freelance AI Artist (m/w/d)",
+    "employer": "Martin et Karczinski",
+    "link": "https://martin-et-karczinski-gmbh.jobs.personio.de/job/2758315",
+    "category": "Other"
+  },
+  {
+    "title": "Freelancer - Initiativbewerbung (m/w/d)",
+    "employer": "Martin et Karczinski",
+    "link": "https://martin-et-karczinski-gmbh.jobs.personio.de/job/1986375",
+    "category": "Other"
+  },
+  {
+    "title": "Initiativbewerbung (m/w/d)",
+    "employer": "Martin et Karczinski",
+    "link": "https://martin-et-karczinski-gmbh.jobs.personio.de/job/1953604",
+    "category": "Other"
   }
 ]
