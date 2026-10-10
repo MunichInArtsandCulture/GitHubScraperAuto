@@ -386,10 +386,12 @@ def run_pipeline(
     sources_file: Optional[str] = None,
     single_url: Optional[str] = None,
     model: str = "gpt-4o-mini",
-    deduplicate: bool = True
+    deduplicate: bool = False
 ):
     """
     Runs the full scraping and extraction pipeline.
+    By default, scrapes all active jobs and completely refreshes categorized_jobs.txt,
+    jobs.json, and Google Sheets.
     """
     script_dir = get_script_dir()
     if not sources_file:
@@ -407,7 +409,7 @@ def run_pipeline(
     seen_jobs = load_history() if deduplicate else set()
     new_seen_keys = set(seen_jobs)
 
-    print(f"🚀 Starting Universal Job Scraper for {len(sources)} sources...\n")
+    print(f"🚀 Starting Universal Job Scraper for {len(sources)} sources (Full Refresh: {not deduplicate})...\n")
     all_extracted_jobs = []
 
     for idx, src in enumerate(sources, 1):
@@ -439,7 +441,7 @@ def run_pipeline(
             added_jobs.append(job)
             new_seen_keys.add(job_key)
 
-        print(f"    ↳ Found {len(jobs)} active listings ({len(added_jobs)} new)")
+        print(f"    ↳ Found {len(jobs)} active listings ({len(added_jobs)} to export)")
         all_extracted_jobs.extend(added_jobs)
 
     save_results(all_extracted_jobs)
@@ -455,7 +457,8 @@ if __name__ == "__main__":
     parser.add_argument("--sources", default=default_sources, help="Path to sources JSON file")
     parser.add_argument("--url", default=None, help="Scrape a single URL instead of full list")
     parser.add_argument("--model", default="gpt-4o-mini", help="LLM model (default: gpt-4o-mini)")
-    parser.add_argument("--no-dedup", action="store_true", help="Disable deduplication")
+    parser.add_argument("--dedup", action="store_true", help="Enable incremental delta deduplication")
+    parser.add_argument("--no-dedup", action="store_true", help="Explicitly disable deduplication (default)")
     args = parser.parse_args()
 
     sources_path = args.sources
@@ -465,10 +468,13 @@ if __name__ == "__main__":
         elif os.path.exists("scraper_repo/sources.json"):
             sources_path = "scraper_repo/sources.json"
 
+    # Default is full refresh (deduplicate = False), unless --dedup is explicitly passed
+    enable_dedup = args.dedup and not args.no_dedup
+
     run_pipeline(
         sources_file=sources_path,
         single_url=args.url,
         model=args.model,
-        deduplicate=not args.no_dedup
+        deduplicate=enable_dedup
     )
 

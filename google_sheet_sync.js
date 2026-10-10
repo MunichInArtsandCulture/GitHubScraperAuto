@@ -30,22 +30,12 @@ function doPost(e) {
     var payload = JSON.parse(e.postData.contents);
     var jobs = Array.isArray(payload) ? payload : (payload.jobs || []);
     
-    // Get existing links from Column D to prevent duplicates in the sheet
-    var lastRow = sheet.getLastRow();
-    var existingLinks = {};
+    // Clear old entries and rewrite header to ensure backend is fully refreshed
+    sheet.clearContents();
+    sheet.getRange(1, 1, 1, 4).setValues([["Category", "Job Title", "Employer", "Link"]]);
     
-    if (lastRow > 1) {
-      var linksRange = sheet.getRange(2, 4, lastRow - 1, 1).getValues();
-      for (var r = 0; r < linksRange.length; r++) {
-        var linkVal = String(linksRange[r][0]).trim();
-        if (linkVal) {
-          existingLinks[linkVal] = true;
-        }
-      }
-    }
-    
-    var addedCount = 0;
-    var rowsToAppend = [];
+    var rowsToInsert = [];
+    var seenLinks = {};
     
     for (var i = 0; i < jobs.length; i++) {
       var job = jobs[i];
@@ -54,29 +44,27 @@ function doPost(e) {
       var employer = job.employer || "";
       var link = (job.link || "").trim();
       
-      // Duplicate check based on link (or title + employer if link is generic)
-      if (link && existingLinks[link]) {
+      // Prevent internal duplicates in the same batch
+      var dedupeKey = link ? link : (title + "||" + employer);
+      if (seenLinks[dedupeKey]) {
         continue;
       }
+      seenLinks[dedupeKey] = true;
       
       if (title) {
-        rowsToAppend.push([category, title, employer, link]);
-        if (link) {
-          existingLinks[link] = true;
-        }
-        addedCount++;
+        rowsToInsert.push([category, title, employer, link]);
       }
     }
     
-    // Bulk write new rows
-    if (rowsToAppend.length > 0) {
-      sheet.getRange(lastRow + 1, 1, rowsToAppend.length, 4).setValues(rowsToAppend);
+    // Bulk write all current active rows
+    if (rowsToInsert.length > 0) {
+      sheet.getRange(2, 1, rowsToInsert.length, 4).setValues(rowsToInsert);
     }
     
     return ContentService
       .createTextOutput(JSON.stringify({
         status: "success",
-        added: addedCount,
+        written: rowsToInsert.length,
         total_submitted: jobs.length,
         total_rows_now: sheet.getLastRow()
       }))
