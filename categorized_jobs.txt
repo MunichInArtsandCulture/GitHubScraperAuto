@@ -28,6 +28,11 @@ Job Title: Türsteher*in/Security (m/w/d)
 Employer: Bahnwärter Thiel
 Link: https://www.bahnwaerterthiel.de/jobs/
 ---
+[Art, Artist Support and Event Management]
+Job Title: Praktikum Convention & Event (m/w/d)
+Employer: Bergson Kunstkraftwerk
+Link: https://bewerber.bergson.com/job/view/74/praktikum-convention-event-m-w-d-eventmanagement-ab-18-jahren?page_lang=de
+---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)
 Employer: Bergson Kunstkraftwerk
@@ -38,7 +43,7 @@ Job Title: Mitarbeiter:in HKLS / Gebäudetechniker:in / Hausmeister:in (m/w/d)
 Employer: Bergson Kunstkraftwerk
 Link: https://bewerber.bergson.com/job/view/66/mitarbeiter-in-hkls-gebaeudetechniker-in-hausmeister-in-m-w-d?page_lang=de
 ---
-[Customer Service, Catering and Cash Register]
+[Other]
 Job Title: Back-of-House-Manager (m/w/d)
 Employer: Bergson Kunstkraftwerk
 Link: https://bewerber.bergson.com/job/view/65/back-of-house-manager-m-w-d?page_lang=de
@@ -47,6 +52,16 @@ Link: https://bewerber.bergson.com/job/view/65/back-of-house-manager-m-w-d?page_
 Job Title: Werkstudent:innen oder Aushilfen bzw. Minijobber:innen in der Veranstaltungstechnik
 Employer: Bergson Kunstkraftwerk
 Link: https://bewerber.bergson.com/job/view/60/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-in-der-veranstaltungstechnik?page_lang=de
+---
+[Stage and Event Technology]
+Job Title: Praktikum Veranstaltungstechnik (m/w/d)
+Employer: Bergson Kunstkraftwerk
+Link: https://bewerber.bergson.com/job/view/57/praktikum-veranstaltungstechnik-m-w-d-ab-16-jahren?page_lang=de
+---
+[Other]
+Job Title: Initiativbewerbung (m/w/d)
+Employer: Bergson Kunstkraftwerk
+Link: https://bewerber.bergson.com/job/view/58/initiativbewerbung-m-w-d?page_lang=de
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Chef:in de Partie / Postenchef:in à la carte im Restaurant Zeitlang (m/w/d)
@@ -68,55 +83,55 @@ Job Title: Restaurantmanager:in / Restaurantleiter:in (m/w/d)
 Employer: Bergson Kunstkraftwerk
 Link: https://bewerber.bergson.com/job/view/41/restaurantmanager-in-restaurantleiter-in-m-w-d?page_lang=de
 ---
-[Costume, Makeup and Fashion]
-Job Title: Maskenbildner:in Oper (m/w/d)
-Employer: Niedersächsische Staatstheater Hannover GmbH
-Link: https://buehnenjobs.de/de/jobboerse/maskenbildnerin-oper-mwd/4655
+[Stage and Event Technology]
+Job Title: Mitarbeiter*in in der Tonabteilung / Radioraum (w/m/d)
+Employer: Schmidts Tivoli GmbH
+Link: https://buehnenjobs.de/de/jobboerse/mitarbeiterin-in-der-tonabteilung-radioraum-wmd/4670
 ---
 [Stage and Event Technology]
-Job Title: eine Fachkraft für Veranstaltungstechnik, Tischler, Schlosser, Maler oder vergleichbar in der Funktion als Theaterwerker/Bühnenhandwerker/Bühnentechniker (m/w/d)
-Employer: Thalia Theater GmbH
-Link: https://buehnenjobs.de/de/jobboerse/eine-fachkraft-fur-veranstaltungstechnik-tischler-schlosser-maler-oder-vergleichbar-in-der-funktion-als-theaterwerkerbuhnenhandwerkerbuhnentechniker-mwd/4656
+Job Title: Veranstaltungstechniker*in mit dem Schwerpunkt Bühnentechnik/Kraftfahrer*in (m/w/d)
+Employer: Brandenburgische Kulturstiftung Cottbus-Frankfurt (Oder)
+Link: https://buehnenjobs.de/de/jobboerse/veranstaltungstechnikerin-mit-dem-schwerpunkt-buhnentechnikkraftfahrerin-mwd/4667
 ---
-[Legal and Financial]
-Job Title: Mitarbeiter:in Controlling (m/w/d)
-Employer: Niedersächsische Staatstheater Hannover GmbH
-Link: https://buehnenjobs.de/de/jobboerse/mitarbeiterin-controlling-mwd/4654
+[Stage and Event Technology]
+Job Title: Leitung der Abteilung Ton (m/w/d)
+Employer: Theater Trier
+Link: https://buehnenjobs.de/de/jobboerse/leitung-der-abteilung-ton-mwd/4665
+---
+[Stage and Event Technology]
+Job Title: FACHKRAFT FÜR VERANSTALTUNGSTECHNIK - Schwerpunkt Beleuchtung (w/m/d)
+Employer: Luisenburg Festspiele
+Link: https://buehnenjobs.de/de/jobboerse/fachkraft-fur-veranstaltungstechnik-schwerpunkt-beleuchtung-wmd/4658
+---
+[Stage and Event Technology]
+Job Title: BELEUCHTUNGSMEISTER*IN (w/m/d)
+Employer: Luisenburg Festspiele
+Link: https://buehnenjobs.de/de/jobboerse/beleuchtungsmeisterin-wmd/498
 ---
 [Other]
-Job Title: eine*n Tapezierer*in / Polster*er/in /Raumausstatter*in
-Employer: Theater Kiel Anstalt des öffentlichen Rechts (AöR)
-Link: https://buehnenjobs.de/de/jobboerse/einen-tapeziererin-polstererin-raumausstatterin/4653
+Job Title: Bühnenmaler:in (m/w/d)
+Employer: Neue Schauspiel GmbH - Düsseldorfer Schauspielhaus
+Link: https://buehnenjobs.de/de/jobboerse/buhnenmalerin-mwd/4657
 ---
 [Costume, Makeup and Fashion]
-Job Title: Maskenbildner (m/w/d) in Teilzeit (50%)
-Employer: Deutsches SchauSpielHaus Hamburg -  Neue Schauspielhaus GmbH
-Link: https://buehnenjobs.de/de/jobboerse/maskenbildner-mwd-in-teilzeit-50/4652
+Job Title: eine/n Ankleider:in und Schneider:in (m/w/d)
+Employer: Städtische Bühnen Frankfurt am Main GmbH Oper Frankfurt / Schauspiel Frankfurt
+Link: https://buehnenjobs.de/de/jobboerse/einen-ankleiderin-und-schneiderin-mwd/4660
 ---
 [Stage and Event Technology]
-Job Title: Beleuchtungsmeister (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://buehnenjobs.de/de/jobboerse/beleuchtungsmeister-mwd/4648
----
-[IT and Digital]
-Job Title: Werkstudent*in (m/w/d) im Bereich IT-Support
-Employer: Thalia Theater GmbH
-Link: https://buehnenjobs.de/de/jobboerse/werkstudentin-mwd-im-bereich-it-support/4646
+Job Title: LEITER*IN DER TONABTEILUNG (w/m/d)
+Employer: Luisenburg Festspiele
+Link: https://buehnenjobs.de/de/jobboerse/leiterin-der-tonabteilung-wmd/4659
 ---
 [Stage and Event Technology]
-Job Title: Bühnentechniker:in (w/m/d) in Vollzeit im Kleinen Haus
-Employer: Badisches Staatstheater Karlsruhe
-Link: https://buehnenjobs.de/de/jobboerse/buhnentechnikerin-wmd-in-vollzeit-im-kleinen-haus/4644
+Job Title: TONTECHNIKER*IN (w/m/d)
+Employer: Luisenburg Festspiele
+Link: https://buehnenjobs.de/de/jobboerse/tontechnikerin-wmd/496
 ---
 [Stage and Event Technology]
-Job Title: Meister für Veranstaltungstechnik Fachrichtung Beleuchtung (m/w/d)
-Employer: Theater Waidspeicher e.V.
-Link: https://buehnenjobs.de/de/jobboerse/meister-fur-veranstaltungstechnik-fachrichtung-beleuchtung-mwd/3372
----
-[Acting, Theater and Directing]
-Job Title: Schauspieler (männliches Rollenprofil)
-Employer: Theater im Marienbad - Freiburger Kinder- und Jugendtheater e.V.
-Link: https://buehnenjobs.de/de/jobboerse/schauspieler-mannliches-rollenprofil/4642
+Job Title: Meister (m/w/d) für Veranstaltungstechnik in Vollzeit
+Employer: Residenztheater - Bayerisches Staatsschauspiel
+Link: https://buehnenjobs.de/de/jobboerse/meister-mwd-fur-veranstaltungstechnik-in-vollzeit/4662
 ---
 [Legal and Financial]
 Job Title: Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung
@@ -143,36 +158,6 @@ Job Title: Basketballtrainer*in (w/m/d) für das deutschlandweite Projekt BasKID
 Employer: Feierwerk
 Link: https://www.feierwerk.de/ueber-uns/jobs/basketballtrainerin-w/m/d-baskidball-im-trafixx
 ---
-[Other]
-Job Title: Opernstudio 2027/2028
-Employer: Gärtnerplatztheater
-Link: https://www.gaertnerplatztheater.de/de/seiten/bewerbungsformular.html
----
-[Musicians and Singers]
-Job Title: Vorspieler 1. Violine (m/w/d)
-Employer: Gärtnerplatztheater
-Link: http://www.muvac.com
----
-[Customer Service, Catering and Cash Register]
-Job Title: Aushilfen für die Theatergastronomie (m/w/d)
-Employer: Hänsel & Gretel GmbH
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Gastro
----
-[Customer Service, Catering and Cash Register]
-Job Title: Personal für die Theaterkantine (m/w/d)
-Employer: Hänsel & Gretel GmbH
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine
----
-[Customer Service, Catering and Cash Register]
-Job Title: Kantinenkoch (m/w/d)
-Employer: Hänsel & Gretel GmbH
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine
----
-[Customer Service, Catering and Cash Register]
-Job Title: Küchenhilfe (m/w/d)
-Employer: Hänsel & Gretel GmbH
-Link: https://www.gaertnerplatztheater.de/de/seiten/jobs.html#Kantine
----
 [Art, Artist Support and Event Management]
 Job Title: Kulturbeauftragte:n (m/ w/ d), Teilzeit in Festanstellung oder Honorar
 Employer: Stadt Trossingen
@@ -192,6 +177,51 @@ Link: https://www.kultweet.de/jobs/Deutsche_Kinemathek_Abteilungsleitung_Digital
 Job Title: Redakteur:in online und print (m/ w/ d), Vollzeit, befristet
 Employer: Internationale Beethovenfeste Bonn gGmbH
 Link: https://www.kultweet.de/jobs/Beethovenfest_Redaktion_online_print.pdf
+---
+[Art, Artist Support and Event Management]
+Job Title: Unterstützung für die Betreuung von Künstler:innen, Kooperationspartner:innen und Social Media, Honorarbasis
+Employer: KVOST Kunstverein Ost e.V.
+Link: https://kunstgeschichte.org/wp-content/uploads/2026/10/KVOST_Ausschreibung.pdf
+---
+[Communication, PR and Press]
+Job Title: Werkstudent/ in (w/ m/ d), mind. 16h/ Woche, befristet
+Employer: Bundesstiftung Baukultur
+Link: https://www.bundesstiftung-baukultur.de/stiftung/stellenangebote
+---
+[Legal and Financial]
+Job Title: Person für die Geschäftsführung in Co-Leitung (60%)
+Employer: thurgaukultur.ch – die digitale Kulturplattform für den Thurgau
+Link: https://www.thurgaukultur.ch/data/Stellenausschreibung%20Gesch%C3%A4ftsf%C3%BChrung%20tgk.pdf
+---
+[Costume, Makeup and Fashion]
+Job Title: Leitung Restaurierung (m/ w/ d), Vollzeit, unbefristet
+Employer: Kunstmuseum Stuttgart
+Link: https://kunstmuseum-stuttgart.jobs.personio.de/job/2823852
+---
+[Education, Pedagogical and Social]
+Job Title: Kulturkoordinator Volkshochschule und Gemeindebücherei (m/ w/ d), 30h/ Woche, unbefristet
+Employer: Gemeinde Heddesheim
+Link: https://stellen.heddesheim.de/jobposting/2fc8b5a7c681ae96ab2e887f7f1018ed34c8c96e0
+---
+[Stage and Event Technology]
+Job Title: Veranstaltungsmanager:in (m/ w/ d), Teilzeit, befristet
+Employer: Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg
+Link: https://ifsh.jobs.personio.de/job/2812226
+---
+[Other]
+Job Title: Studentische Mitarbeiter*in (m/ w/ d/ k) im Bereich Protokoll und Partnerschaften im Intendanz Büro
+Employer: KBB - Kulturveranstaltungen des Bundes in Berlin GmbH
+Link: https://kbbjobs.softgarden.io/job/67954672/Studentische-Mitarbeiter-in-m-w-d-k-im-Bereich-Protokoll-und-Partnerschaften-im-Intendanz-B%C3%BCro?jobDbPVId=287035542&l=de
+---
+[Education, Pedagogical and Social]
+Job Title: Mitarbeiter:in für das Fachlektorat (m/ w/ d), 20h/ Woche, befristet
+Employer: Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO)
+Link: https://www.leibniz-gwzo.de/sites/default/files/dateien/Stellenausschreibung%20MA%20Lektorat_Stand%2008.09.pdf
+---
+[Legal and Financial]
+Job Title: Co-Geschäftsführung mit dem Schwerpunkt Kultur- & Bildungspolitik, 32h/ Woche, unbefristet
+Employer: W3_Werkstatt für internationale Kultur und Politik e.V.
+Link: https://w3-hamburg.de/wp-content/uploads/W3_Ausschreibung_Co-GF-kultur-bildungspolitische-Leitung_2026_final.pdf
 ---
 [Legal and Financial]
 Job Title: Direktor (m/ w/ d) Heimvolkshochschule, Vollzeit
@@ -233,30 +263,35 @@ Job Title: Projektmanager/ -in Marketing (m/ w/ d), unbefristet
 Employer: Gewandhaus zu Leipzig
 Link: https://karriere.leipzig.de/stellenangebote/Projektmanager-in-Marketing-mwd-de-j2364.html
 ---
+[Other]
+Job Title: wissenschaftliches Volontariat für das Kuratieren von Ausstellungen (m/ w/ d) insb. für zeitgenössische bildende Kunst
+Employer: Bundeskunsthalle | Kunst- und Ausstellungshalle der Bundesrepublik Deutschland gGmbH
+Link: https://www.bundeskunsthalle.de/fileadmin/user_upload/Bundeskunsthalle_intern/Jobs/2026/Stellenausschreibung_Volontariat_2027.pdf
+---
+[Musicians and Singers]
+Job Title: (Kinder-)Chorlehrkräfte (m/ w/ d) auf Honorarbasis
+Employer: Rundfunkchor Berlin
+Link: https://www.rundfunkchor-berlin.de/chorlehrkraefte-gesucht-m-w-d/
+---
+[Costume, Makeup and Fashion]
+Job Title: Leitung Restaurierung (m/ w/ d), Vollzeit, unbefristet
+Employer: Stiftung Kunstmuseum Stuttgart gGmbH
+Link: https://kunstmuseum-stuttgart.jobs.personio.de/job/2823852
+---
+[Costume, Makeup and Fashion]
+Job Title: Restaurator*in (m/ w/ d) für das StiftsMuseum Xanten, 19,5h/ Woche, befristet
+Employer: Kath. Propsteigemeinde St. Viktor
+Link: https://www.sankt-viktor-xanten.de/fileadmin/user_upload/10_Aktuelles_Veranstaltungen/00_Aktuelle_Nachrichten/2026/Stellenausschreibung_RestauratorIn_StiftsMuseumXanten.pdf
+---
 [Education, Pedagogical and Social]
-Job Title: Lehrtätigkeit Elementare Musikpädagogik (m/ w/ d), Teilzeit, befristet
-Employer: Landkreis Rhön-Grabfeld
-Link: https://www.rhoen-grabfeld.de/fileadmin/user_upload/LKR/Jobs/2026_Lehrt%C3%A4tigkeit_Elementare_Musikp%C3%A4dagogik_KMS_K%C3%B6n.pdf
+Job Title: wissenschaftliche*n Mitarbeiter*in für das Volkskunstmuseum (m/ w/ d), Vollzeit
+Employer: Tiroler Landesmuseen-Betriebsgesellschaft m.b.H.
+Link: https://www.tiroler-landesmuseen.at/stellenangebote/
 ---
-[Legal and Financial]
-Job Title: Leitung für den Fachbereich Kultur und Bildung (m/ w/ d), Vollzeit
-Employer: Stadt Bad Homburg v. d. Höhe
-Link: https://interamt.de/koop/app/stelle?id=1499736
----
-[Art, Artist Support and Event Management]
-Job Title: Sachbearbeiter:in im Bereich Ausstellung, Dialog und Kultur, Vollzeit, befristet
-Employer: Zukunftszentrum für Deutsche Einheit und Europäische Transformation gGmbH
-Link: https://jobs.zukunftszentrum.info/jobposting/ebf34116f3ea7a070b1a5e0b9023fc27bd1f8e970?ref=homepage
----
-[Art, Artist Support and Event Management]
-Job Title: Projektleitung Bundesjugendchor (m/ w/ d), Teilzeit, befristet
-Employer: Deutscher Musikrat gGmbH
-Link: https://www.kultweet.de/jobs/DMR_PL_BundesJugendchor.pdf
----
-[Legal and Financial]
-Job Title: Sachbearbeitung Förderprogramm (m/ w/ d) als Elternzeitvertretung in Vollzeit (39 Stunden), befristet
-Employer: Stiftung Kunstfonds
-Link: https://www.kunstfonds.de/aktuelles/details/in-eigener-sache-stiftung-kunstfonds-sucht-sachbearbeitung-foerderprogramm-in-elternzeitvertretung?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaczLo1mRJmV9giS9lgXp8yx2GHSd0IUrN3VmpSha7Iz59Mi48uIQcVi0z_A0g_aem_0UH-LpTYyk8lF55X00a4Eg
+[Education, Pedagogical and Social]
+Job Title: Projektmitarbeiter*in Ferdinandeum Neu (m/ w/ d), Vollzeit, befristet
+Employer: Tiroler Landesmuseen-Betriebsgesellschaft m.b.H.
+Link: https://www.tiroler-landesmuseen.at/stellenangebote/
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Mitarbeit im Café-Restaurant Kunsthalle Theatiner 8
@@ -324,12 +359,42 @@ Employer: Münchner Philharmoniker
 Link: https://www.mphil.de/ueber-uns/offene-stellen
 ---
 [Other]
+Job Title: Betriebsingenieurin/ Betriebsingenieur (m/w/d)
+Employer: Pinakotheken
+Link: https://www.interamt.de/koop/app/stelle?id=1492525
+---
+[Other]
+Job Title: Leitende Betriebsingenieurin/ Leitenden Betriebsingenieur (m/w/d)
+Employer: Pinakotheken
+Link: https://www.interamt.de/koop/app/stelle?id=1498760
+---
+[Other]
+Job Title: Assistenz Unterabteilung Sicherheit (m/w/d)
+Employer: Pinakotheken
+Link: https://www.interamt.de/koop/app/stelle?id=1498692
+---
+[Other]
+Job Title: Hausmeister/in (m/w/d)
+Employer: Pinakotheken
+Link: https://www.interamt.de/koop/app/stelle?id=1498665
+---
+[Other]
 Job Title: CHEFDISPONENT (m/w/d)
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
 [Other]
 Job Title: Mitarbeiter (m/w/d) im Künstlerischen Betriebsbüro
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Stage and Event Technology]
+Job Title: Meister (m/w/d) für Veranstaltungstechnik in Vollzeit
+Employer: Residenztheater
+Link: https://www.residenztheater.de/jobs
+---
+[Stage and Event Technology]
+Job Title: Meister (m/w/d) für Veranstaltungstechnik in Teilzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -343,28 +408,8 @@ Job Title: Hausmeister (m/w/d) in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
-[Stage and Event Technology]
-Job Title: Technischer Leiter (m/w/d) für die Spielstätte Cuvilliéstheater in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Meister*in für Veranstaltungstechnik (m/w/d) für die Spielstätte Cuvilliéstheater in Vollzeit
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
 [Other]
-Job Title: Mitarbeiter (m/w/d) als Aushilfe in der Wäscherei in Teilzeit (15 Wochenarbeitsstunden)
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Legal and Financial]
-Job Title: Sachbearbeiter Controlling (m/w/d) in Teilzeit mit bis zu 28 Wochenstunden
-Employer: Residenztheater
-Link: https://www.residenztheater.de/jobs
----
-[Stage and Event Technology]
-Job Title: Bühnentechniker (m/w/d) in Vollzeit
+Job Title: Technischer Leiter (m/w/d) für die Spielstätte Cuvilliéstheater in Vollzeit
 Employer: Residenztheater
 Link: https://www.residenztheater.de/jobs
 ---
@@ -378,15 +423,15 @@ Job Title: WerkstudentInnen für Empfangs- und Aufsichtspersonal ab sofort
 Employer: WOW Museum
 Link: https://www.wow-museum.de/jobs/werkstudentinnen-fur-empfangs--und-aufsichtspersonal-ab-sofort
 ---
-[Stage and Event Technology]
-Job Title: Beleuchtungsmeister (m/w/d)
-Employer: Staatstheater am Gärtnerplatz
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003833582-S
----
 [Customer Service, Catering and Cash Register]
 Job Title: Aushilfe (m/w/d) für unsere Garderobe
 Employer: Hotel Bayerischer Hof
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1I70D2-ING-S
+---
+[Stage and Event Technology]
+Job Title: Beleuchtungsmeister (m/w/d)
+Employer: Staatstheater am Gärtnerplatz
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003833582-S
 ---
 [Customer Service, Catering and Cash Register]
 Job Title: Hostess/Empfangsmitarbeiter (m/w/d)
@@ -414,9 +459,19 @@ Employer: Feinkost Käfer
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-R2MHKC-G12-S
 ---
 [Art, Artist Support and Event Management]
+Job Title: Junior Eventmanager (w/m/d) Feinkost Catering, Stammhaus
+Employer: Feinkost Käfer GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2349189-S
+---
+[Art, Artist Support and Event Management]
 Job Title: Eventmanager im Bereich Eventcatering (m/w/d)
 Employer: Rauschenberger Catering & Restaurants München GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-7X5-S
+---
+[Art, Artist Support and Event Management]
+Job Title: Junior Eventmanager (w/m/d)
+Employer: Feinkost Käfer
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Q6LZTC-D15-S
 ---
 [Other]
 Job Title: Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)
@@ -438,15 +493,20 @@ Job Title: Managerin/Manager für Messen und Veranstaltungen (m/w/d)
 Employer: BG BAU BG der Bauwirtschaft
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003776229-S
 ---
-[Education, Pedagogical and Social]
-Job Title: Referent/in für Italienische Malerei bis Ende des 18. Jahrhunderts (m/w/d)
-Employer: Staatliche Museumsagentur Bayern
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01490958-S
+[Art, Artist Support and Event Management]
+Job Title: Manager Delegate Services (m/w/d)
+Employer: INTERPLAN Congress, Meeting & Event Management AG
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-064338935-S
 ---
 [Stage and Event Technology]
 Job Title: LED-Techniker (m/w/d),Berlin,Dresden,Leipzig,München
 Employer: Neumann&Müller Veranstaltungstechnik
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2340841-S
+---
+[Other]
+Job Title: Studio Host & Events München (Oktober - Dezember) | befristete Anstellung 30-40h/Woche
+Employer: Next Level Coffee GmbH
+Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-beb27f48_JB5251295-S
 ---
 [Art, Artist Support and Event Management]
 Job Title: Projektleitung (m/w/d) Event Catering Olympiapark
@@ -457,11 +517,6 @@ Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-4d09cbb9-cc47-48ba-
 Job Title: Junior Eventmanager (w/m/d), Stammhaus
 Employer: Feinkost Käfer GmbH
 Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2337420-S
----
-[Art, Artist Support and Event Management]
-Job Title: Referent*in Veranstaltungsmanagement (w/m/d)
-Employer: Gasteig München GmbH
-Link: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003693849-S
 ---
 [Art, Artist Support and Event Management]
 Job Title: Koordinator (d/w/m) im Veranstaltungsverkauf (MICE)
@@ -538,35 +593,30 @@ Job Title: Trainee (m/w/d)
 Employer: LHLK
 Link: https://lhlk.de/jobs/trainee-communications/
 ---
-[Communication, PR and Press]
-Job Title: Praktikant:in
-Employer: LHLK
-Link: https://lhlk.de/jobs/praktikum-kommunikation/
+[Other]
+Job Title: Wissenschaftliche*r Mitarbeiter*in / PostDoc zur Quantifizierung von Permafrost Treibhausgas-Emissionen mittels atmosphärischer inverser Modellierung (m/w/d)
+Employer: Max-Planck-Gesellschaft
+Link: https://www.mpg.de/27027824/wissenschaftliche-r-mitarbeiter-in-postdoc-zur-quantifizierung-von-permafrost-treibhausgas-emissionen-mittels-atmosphaerischer-inverser-modellierung-m-w-d
 ---
 [Legal and Financial]
 Job Title: Ausbildung zur Kauffrau / zum Kaufmann für Büromanagement (m/w/d)
-Employer: Max-Planck-Institut für ausländisches öffentliches Recht und Völkerrecht
+Employer: Max-Planck-Gesellschaft
 Link: https://www.mpg.de/27025195/ausbildung-zur-kauffrau-zum-kaufmann-fuer-bueromanagement-m-w-d
 ---
 [Other]
 Job Title: Physiotherapeut*in (m/w/d)
-Employer: Max-Planck-Institut für Psychiatrie
+Employer: Max-Planck-Gesellschaft
 Link: https://www.mpg.de/27022955/physiotherapeut-in-m-w-d
 ---
 [Other]
 Job Title: Ergotherapeut*in (m/w/d) für unsere Tagklinik für Psychiatrie und Psychotherapie
-Employer: Max-Planck-Institut für Psychiatrie
+Employer: Max-Planck-Gesellschaft
 Link: https://www.mpg.de/27022784/ergotherapeut-in-m-w-d-fuer-unsere-tagklinik-fuer-psychiatrie-und-psychotherapie3
 ---
 [IT and Digital]
 Job Title: Ausbildung Fachinformatiker*in (m/w/d) für Systemintegration
-Employer: Max-Planck-Institut für Psychiatrie
+Employer: Max-Planck-Gesellschaft
 Link: https://www.mpg.de/27018772/ausbildung-fachinformatiker-in-m-w-d-fuer-systemintegration
----
-[Legal and Financial]
-Job Title: Ausbildung 2027 - Kauffrau/Kaufmann für Büromanagement (m/w/d)
-Employer: Max-Planck-Institut für Plasmaphysik (Garching)
-Link: https://www.mpg.de/job-2a1d7e4a26b6ddeb90385ed29605346e
 ---
 [IT and Digital]
 Job Title: Frontend & Design Engineer (m/w/d) Next.js
@@ -578,7 +628,7 @@ Job Title: Werkstudent*in Frontend & Design Engineering (m/w/d) Next.js
 Employer: &why Agency
 Link: https://www.why.de/de/careers/werkstudent-frontend-design-engineering
 ---
-[Other]
+[IT and Digital]
 Job Title: Product & Interaction Designer (m/w/d)
 Employer: &why Agency
 Link: https://www.why.de/de/careers/product-interaction-designer
