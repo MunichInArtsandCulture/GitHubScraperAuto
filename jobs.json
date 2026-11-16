@@ -1,5 +1,11 @@
 [
   {
+    "title": "Praktikant*in (w/m/d) Kuratorische Abteilung",
+    "employer": "Haus der Kunst",
+    "link": "https://www.hausderkunst.de/ueber-uns/stellenangebote-praktika/praktikant-in-w-m-d-echoes",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
     "title": "Runner*in (m/w/d) für den Weihnachtsmarkt",
     "employer": "Bahnwärter Thiel",
     "link": "https://www.bahnwaerterthiel.de/jobs/",
@@ -24,12 +30,6 @@
     "category": "Other"
   },
   {
-    "title": "Head of Marketing (m/w/d)",
-    "employer": "Bergson Kunstkraftwerk",
-    "link": "https://bewerber.bergson.com/job/view/78/head-of-marketing-m-w-d?page_lang=de",
-    "category": "Communication, PR and Press"
-  },
-  {
     "title": "Mitarbeiter:in Stewarding / Spüler:in / Steward (m/w/d)",
     "employer": "Bergson Kunstkraftwerk",
     "link": "https://bewerber.bergson.com/job/view/67/mitarbeiter-in-stewarding-spueler-in-steward-m-w-d?page_lang=de",
@@ -40,6 +40,12 @@
     "employer": "Bergson Kunstkraftwerk",
     "link": "https://bewerber.bergson.com/job/view/60/werkstudent-innen-oder-aushilfen-bzw-minijobber-innen-in-der-veranstaltungstechnik?page_lang=de",
     "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Initiativbewerbung (m/w/d)",
+    "employer": "Bergson Kunstkraftwerk",
+    "link": "https://bewerber.bergson.com/job/view/58/initiativbewerbung-m-w-d?page_lang=de",
+    "category": "Other"
   },
   {
     "title": "Chef:in de Partie / Postenchef:in à la carte im Restaurant Zeitlang (m/w/d)",
@@ -66,64 +72,76 @@
     "category": "Customer Service, Catering and Cash Register"
   },
   {
-    "title": "Meister für Veranstaltungstechnik mit dem Schwerpunkt Bühne (w/m/d)",
-    "employer": "Theater Konstanz",
-    "link": "https://buehnenjobs.de/de/jobboerse/meister-fur-veranstaltungstechnik-mit-dem-schwerpunkt-buhne-wmd/4921",
-    "category": "Stage and Event Technology"
-  },
-  {
-    "title": "Mitarbeiter (m/w/d) im Kostümbüro",
-    "employer": "Staatstheater am Gärtnerplatz",
-    "link": "https://buehnenjobs.de/de/jobboerse/mitarbeiter-mwd-im-kostumburo/4919",
+    "title": "Ausstattungshospitant*in (m/w/d) für die Musical-Produktion »Anatevka (Fiddler on the Roof)«",
+    "employer": "Landestheater Detmold GmbH",
+    "link": "https://buehnenjobs.de/de/jobboerse/ausstattungshospitantin-mwd-fur-die-musical-produktion-anatevka-fiddler-on-the-roof/5090",
     "category": "Costume, Makeup and Fashion"
   },
   {
-    "title": "Opernchorsängerin 2. Alt in Teilzeit (50%) - befristet bis 15.08.2028 -",
-    "employer": "Hessisches Staatstheater Wiesbaden",
-    "link": "https://buehnenjobs.de/de/jobboerse/opernchorsangerin-2-alt-in-teilzeit-50-befristet-bis-15082028/4912",
-    "category": "Musicians and Singers"
-  },
-  {
-    "title": "Veranstaltungstechniker/-in  Inspizient/-in  Orchesterwart/-in (m/w/d)",
-    "employer": "GEWANDHAUS ZU LEIPZIG Eigenbetrieb der Stadt Leipzig",
-    "link": "https://buehnenjobs.de/de/jobboerse/veranstaltungstechniker-in-inspizient-in-orchesterwart-in-mwd/4886",
-    "category": "Stage and Event Technology"
-  },
-  {
-    "title": "Damengewandmeister_in (m/w/d)",
-    "employer": "Erzgebirgische Theater- und Orchester GmbH",
-    "link": "https://buehnenjobs.de/de/jobboerse/damengewandmeister_in-mwd/4911",
+    "title": "Ausbildungsplätze als Maßschneider:in (m/w/d) Fachrichtung Damen",
+    "employer": "Stiftung Staatstheater Augsburg",
+    "link": "https://buehnenjobs.de/de/jobboerse/ausbildungsplatze-als-maschneiderin-mwd-fachrichtung-damen/5084",
     "category": "Costume, Makeup and Fashion"
   },
   {
-    "title": "Dramaturgin / Dramaturg (m/w/d)",
-    "employer": "Eigenbetrieb Puppentheater der Stadt Magdeburg",
-    "link": "https://buehnenjobs.de/de/jobboerse/dramaturgin-dramaturg-mwd/4913",
+    "title": "Dramaturg:in (m/w/d) Schwerpunkt Musiktheater und Ballett",
+    "employer": "Stiftung Staatstheater Augsburg",
+    "link": "https://buehnenjobs.de/de/jobboerse/dramaturgin-mwd-schwerpunkt-musiktheater-und-ballett/5082",
     "category": "Acting, Theater and Directing"
   },
   {
-    "title": "Bühnenmeister:in (m/w/d)",
-    "employer": "Stadttheater und Musikdirektion Aachen",
-    "link": "https://buehnenjobs.de/de/jobboerse/buhnenmeisterin-mwd/4910",
+    "title": "Maßschneider/-in, Fachrichtung Herren (w/m/d)",
+    "employer": "OPER LEIPZIG Eigenbetrieb der Stadt Leipzig",
+    "link": "https://buehnenjobs.de/de/jobboerse/maschneider-in-fachrichtung-herren-wmd/5079",
+    "category": "Costume, Makeup and Fashion"
+  },
+  {
+    "title": "Elektromeister:in (m/w/d)",
+    "employer": "Stiftung Staatstheater Augsburg",
+    "link": "https://buehnenjobs.de/de/jobboerse/elektromeisterin-mwd/5077",
     "category": "Stage and Event Technology"
   },
   {
-    "title": "Disponent / KBB (m/w/d)",
-    "employer": "Theater der Altmark - Landestheater Sachsen-Anhalt Nord",
-    "link": "https://buehnenjobs.de/de/jobboerse/disponent-kbb-mwd/4920",
+    "title": "Beleuchter_in als Krankheitsvertretung, befristet bis zum 30.06.2027",
+    "employer": "Schaubühne - Gemeinnützige Theaterbetriebs GmbH",
+    "link": "https://buehnenjobs.de/de/jobboerse/beleuchter_in-als-krankheitsvertretung-befristet-bis-zum-30062027/5081",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Mitarbeiter/in für das Künstlerische Betriebsbüro und Leitung Statisterie (m/w/d) in Teilzeit (20 Wochenstunden)",
+    "employer": "Wuppertaler Bühnen und Sinfonieorchester GmbH",
+    "link": "https://buehnenjobs.de/de/jobboerse/mitarbeiterin-fur-das-kunstlerische-betriebsburo-und-leitung-statisterie-mwd-in-teilzeit-20-wochenstunden/5078",
     "category": "Other"
   },
   {
-    "title": "Servicekraft (m/w/d) im Besucherservice",
-    "employer": "Württembergische Staatstheater Stuttgart",
-    "link": "https://buehnenjobs.de/de/jobboerse/servicekraft-mwd-im-besucherservice/4916",
-    "category": "Customer Service, Catering and Cash Register"
+    "title": "Mitarbeiter*in für die Finanzbuchhaltung/ Finanzbuchhalter*in (m/w/d) in Vollzeit",
+    "employer": "Theater Krefeld und Mönchengladbach gGmbH",
+    "link": "https://buehnenjobs.de/de/jobboerse/mitarbeiterin-fur-die-finanzbuchhaltung-finanzbuchhalterin-mwd-in-vollzeit/5076",
+    "category": "Legal and Financial"
   },
   {
-    "title": "Regieassistenz (m/w/d)",
-    "employer": "Vorarlberger Landestheater",
-    "link": "https://buehnenjobs.de/de/jobboerse/regieassistenz-mwd/4914",
-    "category": "Art, Artist Support and Event Management"
+    "title": "Ankleider/in (m/w/d)",
+    "employer": "Harztheater gGmbH",
+    "link": "https://buehnenjobs.de/de/jobboerse/ankleiderin-mwd/221",
+    "category": "Costume, Makeup and Fashion"
+  },
+  {
+    "title": "IT-Systemadministratorin / IT-Koordinatorin (m/w/d)",
+    "employer": "Anhaltisches Theater Dessau",
+    "link": "https://buehnenjobs.de/de/jobboerse/it-systemadministratorin-it-koordinatorin-mwd/5086",
+    "category": "IT and Digital"
+  },
+  {
+    "title": "Teamassistenz (w/m/d) Veranstaltungsabteilung",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/teamassistenz-w/m/d-veranstaltungsabteilung",
+    "category": "Other"
+  },
+  {
+    "title": "Sozial-/ Kultur-/Medien-/Sportpädagog*in (w/m/d) für das Feierwerk Sendlixx",
+    "employer": "Feierwerk",
+    "link": "https://www.feierwerk.de/ueber-uns/jobs/sozial-/kultur-/medien-/sportpaedagogin-w/m/d-sendlixx",
+    "category": "Education, Pedagogical and Social"
   },
   {
     "title": "Mitarbeiter*in (w/m/d) im Bereich Buchhaltung/Verwaltung",
@@ -135,7 +153,7 @@
     "title": "Mitarbeiter*in (w/m/d) für das Feierwerk AMP Proberaumzentrum",
     "employer": "Feierwerk",
     "link": "https://www.feierwerk.de/ueber-uns/jobs/mitarbeiterin-w/m/d-fuer-das-amp-proberaumzentrum",
-    "category": "Customer Service, Catering and Cash Register"
+    "category": "Other"
   },
   {
     "title": "Pädagogische*r Mitarbeiter*in (w/m/d) für das Feierwerk Sendlixx",
@@ -162,130 +180,76 @@
     "category": "Education, Pedagogical and Social"
   },
   {
-    "title": "Redakteur*in für Musikpädagogik, Vollzeit, unbefristet",
+    "title": "Dramaturg:in (m/ w/ d) Schwerpunkt Musiktheater & Ballett",
+    "employer": "Stiftung Staatstheater Augsburg",
+    "link": "https://staatstheater-augsburg.de/stellenangebote",
+    "category": "Acting, Theater and Directing"
+  },
+  {
+    "title": "Mitarbeiter:in in der Konzertplanung",
+    "employer": "Freiburger Barockorchester GbR",
+    "link": "https://barockorchester.de/jobs/",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Lehrkraft (m/ w/ d) für Violine",
+    "employer": "Stadt Regensburg",
+    "link": "https://karriere.regensburg.de/11050-lehrkraft-m-w-d-fuer-violine/de/job.html",
+    "category": "Musicians and Singers"
+  },
+  {
+    "title": "Theaterpädagog*in und Mitarbeit Junges Theater Konstanz (m/ w/ d)",
+    "employer": "Theater Konstanz",
+    "link": "https://theaterkonstanz.de/site/Theater/get/documents_E-29268685/theaterkonstanz/Medien-Bibiliothek/08%20Stellenangebote/Jobs_Theaterpädagogik_Mitarbeit%20Junges%20Theater_09.2027.pdf",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Projektleiter*in Familienmusicals",
+    "employer": "Balzer Event GmbH",
+    "link": "https://www.bybalzer.ch/fileadmin/user_upload/Bilder/Jobs/Ausschreibung_Projektleiterin.pdf",
+    "category": "Art, Artist Support and Event Management"
+  },
+  {
+    "title": "Mitarbeiter (m/ w/ d) mit Schwerpunkt Museumspädagogik",
+    "employer": "Zweckverband kelten römer museum manching",
+    "link": "https://www.mein-check-in.de/manching/position-541611",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Kulturreferentin:in in der Kulturabteilung (m/ w/ d)",
+    "employer": "Botschaft des Staates Israel in Berlin",
+    "link": "https://www.instagram.com/p/Dfy--Ihsy79/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Mitarbeiter/ in (w/ m/ d) für Denkmalinformationen und -vermittlung",
+    "employer": "Niedersächsisches Landesamt für Denkmalpflege",
+    "link": "https://denkmalpflege.niedersachsen.de/aktuelles/stellenausschreibungen/mitarbeiter-in-w-m-d-fur-denkmalinformationen-und-vermittlung-254953.html",
+    "category": "Education, Pedagogical and Social"
+  },
+  {
+    "title": "Redakteur*in für Musikpädagogik",
     "employer": "Lugert Verlag GmbH & Co. KG",
     "link": "https://www.lugert-verlag.de/redaktion",
-    "category": "Other"
-  },
-  {
-    "title": "Direktor*in Musikschule, unbefrist, Vollzeit",
-    "employer": "Hansestadt Lüneburg",
-    "link": "https://karriere.stadt.lueneburg.de/jobdetails/900001298",
     "category": "Education, Pedagogical and Social"
   },
   {
-    "title": "Dramaturg*in in Vollzeit",
-    "employer": "Stadttheater Ingolstadt",
-    "link": "https://theater.ingolstadt.de/service/jobs/dramaturgin-w/m/d.html",
-    "category": "Acting, Theater and Directing"
-  },
-  {
-    "title": "Leitung Kommunikation, Marketing und Presse (w/ m/ d)",
-    "employer": "Theater & Orchester Heidelberg",
-    "link": "https://www.theaterheidelberg.de/de/22978-jobs",
+    "title": "Sachbearbeiter*in für das Projektmanagement und die Kommunikation Neue Künste Ruhr (m/ w/ d)",
+    "employer": "Regionalverband Ruhr (RVR)",
+    "link": "https://recruitingapp-5172.de.umantis.com/Vacancies/987/Description/1",
     "category": "Communication, PR and Press"
   },
   {
-    "title": "kuratorische assistenz, 50%, befristet",
-    "employer": "basis e.V.",
-    "link": "https://basis-frankfurt.de/de/page/stellenausschreibung-kuratorische-assistenz",
-    "category": "Art, Artist Support and Event Management"
-  },
-  {
-    "title": "Mitarbeiter/ -in für die Stabsstelle Öffentlichkeitsarbeit und Regionalkultur (w/ m/ d) in Teilzeit, befristet",
-    "employer": "Landeshauptstadt Wiesbaden",
-    "link": "https://karriere.wiesbaden.de/Mitarbeiter-in-fuer-die-Stabsstelle-oeffentlichkeitsarbeit-de-j7455.html?sid=bbeb636cd75238da74506ed7effd3cc1",
-    "category": "Communication, PR and Press"
-  },
-  {
-    "title": "Co-Geschäftsführung (inhaltlicher Schwerpunkt) (w/ m/ d), 35h/ Woche",
-    "employer": "Second Attempt e.V.",
-    "link": "https://www.jobs-oberlausitz.de/stelle/detail/48459-Co-Geschaeftsfuehrung-inhaltlicher-Schwerpunkt-w-m-d",
+    "title": "Leitung Jüdisches Museum München (w/m/d)",
+    "employer": "Stadt München (Kulturreferat)",
+    "link": "https://karriere-muenchen.jobs.hr.cloud.sap/job/Sankt-Jakobs-Platz-16%2C-80331-M-Leitung-J%C3%BCdisches-Museum-M%C3%BCnchen-%28wmd%29-Sankt-Jako/1454540833/",
     "category": "Other"
-  },
-  {
-    "title": "Referent*in für Teilhabe, Vernetzung und Fundraising (m/ w/ d) in Vollzeit, befristet",
-    "employer": "Badische Landesbühne e.V.",
-    "link": "https://www.badische-landesbuehne.de/de/seiten/karriere.html",
-    "category": "Other"
-  },
-  {
-    "title": "Produktionsleitung und Referent:in der Intendanz (w/ m/ d), Vollzeit, befristet",
-    "employer": "Theater Bremen GmbH",
-    "link": "https://theaterbremen.jobs.personio.de/job/2845638?language=de",
-    "category": "Other"
-  },
-  {
-    "title": "Dramaturg:in (m/ w/ d), 30h/ Woche",
-    "employer": "Landeshauptstadt Magdeburg",
-    "link": "https://www.magdeburg.de/Wirtschaft-Arbeit/Karriereportal/",
-    "category": "Acting, Theater and Directing"
-  },
-  {
-    "title": "2 Dramaturg:innen im Musiktheater (w/ m/ d), Vollzeit",
-    "employer": "Landeshauptstadt Magdeburg",
-    "link": "https://www.magdeburg.de/Wirtschaft-Arbeit/Karriereportal/",
-    "category": "Acting, Theater and Directing"
-  },
-  {
-    "title": "Marketingmanager:in (w/ d/ m), 39 h / Teilzeit möglich, unbefristet",
-    "employer": "Stiftung Preußischer Kulturbesitz",
-    "link": "https://karriere.preussischer-kulturbesitz.de/jobposting/041561d31ac5ba7801b1a3114e357a06347964860?ref=homepage",
-    "category": "Communication, PR and Press"
-  },
-  {
-    "title": "Freie:r Mitarbeiter:in \"Kulturmanagement Frankreich\" (m/ w/ d), 30h/ Monat",
-    "employer": "Arolsen Archives – International Center on Nazi Persecution",
-    "link": "https://arolsen-archives.org/ueber-uns/jobs/",
-    "category": "Other"
-  },
-  {
-    "title": "Theaterpädagog:in (Karenzvertretung m/ w/ d, max. 30 Stunden)",
-    "employer": "Burgtheater GmbH",
-    "link": "https://www.burgtheater.at/stellenangebote",
-    "category": "Education, Pedagogical and Social"
-  },
-  {
-    "title": "Referent*in Kommunikation, Presse- und Medienarbeit (w/ m/ d)",
-    "employer": "Maxim Gorki Theater Berlin",
-    "link": "https://www.gorki.de/api/media/file/2026-11-15_Stellenausschreibung_Kommunikation-Social%20Media.pdf",
-    "category": "Communication, PR and Press"
-  },
-  {
-    "title": "Referent*in Kulturprogramm, 100%, befristet",
-    "employer": "Deutsch-Amerikanisches Zentrum / James-F.-Byrnes Institut e.V.",
-    "link": "https://www.kultweet.de/jobs/ReferentIn_Kulturprogramm.pdf",
-    "category": "Communication, PR and Press"
-  },
-  {
-    "title": "Sammlungskustodin/ Sammlungskustos für Metall, Medaillen, Orden und Waffen (w/ m/ d), unbefristet, Vollzeit",
-    "employer": "Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg (SPSG)",
-    "link": "https://www.spsg.de/stiftung/karriere/stellenangebote-detailseiten/stellenausschreibung-vorlage-6-2-1-1-4-1-9",
-    "category": "Other"
-  },
-  {
-    "title": "Restaurator:in (m/ w/ d) in Vollzeit (40 Std./ Woche), unbefristet",
-    "employer": "SCHAUWERK Sindelfingen",
-    "link": "https://www.schauwerk-sindelfingen.de/de/museum/jobs/",
-    "category": "Other"
-  },
-  {
-    "title": "Kurator*in (m/ w/ d) im Museum Giersch, befristet",
-    "employer": "Goethe-Universität Frankfurt",
-    "link": "https://www.mggu.de/wp-content/uploads/2026/10/Ausschreibung_KuratorIn_Stellvertretung_formatiert_neu.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAackRO_S5nfNjSleqy0hrieJ7KRFhfh93v0uxHX2QoHAu_aAYfoslR9k2L6rxw_aem_uTFJC8Wl24LO1rnLWUU9QQ",
-    "category": "Art, Artist Support and Event Management"
   },
   {
     "title": "Theaterpädagog*in (w/m/d)",
     "employer": "Stadt München (Kulturreferat)",
     "link": "https://karriere-muenchen.jobs.hr.cloud.sap/job/SB-Theaterp%C3%A4dagogin-%28wmd%29-SB/1449002333/",
     "category": "Education, Pedagogical and Social"
-  },
-  {
-    "title": "Wissenschaftliche/r Mitarbeiter/in (m/w/d)",
-    "employer": "Museum Fünf Kontinente",
-    "link": "https://www.museum-fuenf-kontinente.de/museum/service/stellenangebote/wissenschaftlicher-mitarbeiter-subsahara-afrika",
-    "category": "Art, Artist Support and Event Management"
   },
   {
     "title": "Mitarbeiter/in Buchhaltung (m/w/d)",
@@ -348,21 +312,9 @@
     "category": "Musicians and Singers"
   },
   {
-    "title": "Leitende Betriebsingenieurin/ Leitenden Betriebsingenieur (m/w/d)",
+    "title": "Wissenschaftliche/n Mitarbeiter/in Sammlungsleitung 19. Jahrhundert (m/w/d)",
     "employer": "Pinakotheken",
-    "link": "https://www.interamt.de/koop/app/stelle?id=1498760",
-    "category": "Other"
-  },
-  {
-    "title": "Assistenz Unterabteilung Sicherheit (m/w/d)",
-    "employer": "Pinakotheken",
-    "link": "https://www.interamt.de/koop/app/stelle?id=1498692",
-    "category": "Other"
-  },
-  {
-    "title": "Hausmeister/in (m/w/d)",
-    "employer": "Pinakotheken",
-    "link": "https://www.interamt.de/koop/app/stelle?id=1498665",
+    "link": "https://www.interamt.de/koop/app/stelle?id=1508037",
     "category": "Other"
   },
   {
@@ -378,22 +330,28 @@
     "category": "Other"
   },
   {
-    "title": "Regieassistenz (m/w/d)",
+    "title": "Technischer Leiter (m/w/d) für die Spielstätte Cuvilliéstheater",
     "employer": "Residenztheater",
     "link": "https://www.residenztheater.de/jobs",
-    "category": "Acting, Theater and Directing"
+    "category": "Stage and Event Technology"
   },
   {
-    "title": "CHEFDISPONENT (m/w/d)",
+    "title": "Meister (m/w/d) für Veranstaltungstechnik",
     "employer": "Residenztheater",
     "link": "https://www.residenztheater.de/jobs",
-    "category": "Other"
+    "category": "Stage and Event Technology"
   },
   {
-    "title": "Mitarbeiter (m/w/d) im Künstlerischen Betriebsbüro",
+    "title": "Meister (m/w/d) für Veranstaltungstechnik in Teilzeit",
     "employer": "Residenztheater",
     "link": "https://www.residenztheater.de/jobs",
-    "category": "Other"
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Aushilfe Bühnentechnik (m/w/d)",
+    "employer": "Residenztheater",
+    "link": "https://www.residenztheater.de/jobs",
+    "category": "Stage and Event Technology"
   },
   {
     "title": "Mitarbeiter (m/w/d) mit Schwerpunkt Marketing für die Abteilung Kommunikation und Marketing",
@@ -402,16 +360,10 @@
     "category": "Communication, PR and Press"
   },
   {
-    "title": "Mitarbeiter (m/w/d) mit Schwerpunkt Social Media und Marketing",
+    "title": "Mitarbeiter (m/w/d) mit Schwerpunkt Social Media und Marketing für die Abteilung Kommunikation und Marketing",
     "employer": "Residenztheater",
     "link": "https://www.residenztheater.de/jobs",
     "category": "Communication, PR and Press"
-  },
-  {
-    "title": "Bühnentechniker (m/w/d) für die Bühne im Marstall",
-    "employer": "Residenztheater",
-    "link": "https://www.residenztheater.de/jobs",
-    "category": "Stage and Event Technology"
   },
   {
     "title": "Assistenz Presse- & Öffentlichkeitsarbeit beim Festival Freischwimmen meets Rodeo",
@@ -426,22 +378,28 @@
     "category": "Customer Service, Catering and Cash Register"
   },
   {
+    "title": "Beleuchtungsmeister (m/w/d)",
+    "employer": "Staatstheater am Gärtnerplatz",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-45463-RJA-S",
+    "category": "Stage and Event Technology"
+  },
+  {
     "title": "Junior Eventmanager (w/m/d)",
     "employer": "Feinkost Käfer",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Q6LZTC-WDV-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-Q6LZTC-PUL-S",
     "category": "Art, Artist Support and Event Management"
   },
   {
     "title": "Aushilfe (m/w/d) für unsere Garderobe",
     "employer": "Hotel Bayerischer Hof",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1I70D2-ING-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1I70D2-1F5-S",
     "category": "Customer Service, Catering and Cash Register"
   },
   {
     "title": "Personaldisponent für die Events im Hotel Bayerischer Hof (m/w/d)",
     "employer": "Hotel Bayerischer Hof",
     "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-0PRP9G-HSL-S",
-    "category": "Art, Artist Support and Event Management"
+    "category": "Customer Service, Catering and Cash Register"
   },
   {
     "title": "Host/ Hostess für das Trader Vic´s (m/w/d)",
@@ -452,7 +410,7 @@
   {
     "title": "Hostess/Empfangsmitarbeiter (m/w/d)",
     "employer": "Rauschenberger Catering & Restaurants München GmbH",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-NBC2BX-9FV-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-NBC2BX-79X-S",
     "category": "Customer Service, Catering and Cash Register"
   },
   {
@@ -464,79 +422,61 @@
   {
     "title": "Eventmanager im Bereich Eventcatering (m/w/d)",
     "employer": "Rauschenberger Catering & Restaurants München GmbH",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-DFY-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-MIM3PG-FMD-S",
     "category": "Art, Artist Support and Event Management"
-  },
-  {
-    "title": "Audio Visual Techniker (m/w/d)",
-    "employer": "INFINITY Hotel & Conference Resort Munich",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-1L6KTC-BXM-S",
-    "category": "Stage and Event Technology"
   },
   {
     "title": "Bankettlogistiker (m/w/d)",
     "employer": "INFINITY Hotel & Conference Resort Munich",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-ED7-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-PMJ4ZI-AAT-S",
     "category": "Customer Service, Catering and Cash Register"
   },
   {
-    "title": "Stellwerksbeleuchter:in (m/w/d) in Vollzeit",
-    "employer": "Bayerische Theaterakadamie \"August Everding\" im Prinz-regententheater, Land Bayern",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003940793-S",
-    "category": "Stage and Event Technology"
-  },
-  {
-    "title": "Beleuchter:in (m/w/d) in Vollzeit",
-    "employer": "Bayerische Theaterakadamie \"August Everding\" im Prinz-regententheater, Land Bayern",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003940739-S",
-    "category": "Stage and Event Technology"
-  },
-  {
-    "title": "Bühnentechniker (m/w/d) für die Bühne im Marstalltheater in Teilzeit",
-    "employer": "Bayerisches Staatsschauspiel Land Bayern",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003939514-S",
-    "category": "Stage and Event Technology"
-  },
-  {
-    "title": "Regieassistenz (m/w/d) in Vollzeit",
-    "employer": "Bayerisches Staatsschauspiel Land Bayern",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003918283-S",
+    "title": "Junior Event Manager (m/w/d)",
+    "employer": "Munich Urban Colab GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-065019335-S",
     "category": "Art, Artist Support and Event Management"
   },
   {
-    "title": "Eventmanager / Eventmanagerin (m/w/d)",
-    "employer": "Ludwig-Maximilians-Universität München",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18818-swfcz3rhka-S",
-    "category": "Art, Artist Support and Event Management"
+    "title": "Bühnentechniker*in (w/m/d)",
+    "employer": "Landeshauptstadt München Personal- und Organisationsreferat",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003964970-S",
+    "category": "Stage and Event Technology"
   },
   {
-    "title": "Stellvertretende Ausstellungsleitung (m/w/d)",
-    "employer": "COFO Entertainment GmbH & Co.KG",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-45676-RJA-S",
-    "category": "Art, Artist Support and Event Management"
-  },
-  {
-    "title": "Beleuchtungsmeister (m/w/d)",
+    "title": "Veranstaltungstechniker (m/w/d), Schreiner (m/w/d) oder Schlosser (m/w/d) als Bühnenhandwerker",
     "employer": "Staatstheater am Gärtnerplatz",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-45463-RJA-S",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003992458-S",
     "category": "Stage and Event Technology"
   },
   {
-    "title": "Stellvertretende Leitung der Abteilung Malersaal (m/w/d) in Elternzeitvertretung",
-    "employer": "Staatstheater am Gärtnerplatz",
-    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003870117-S",
+    "title": "Stellvertretung (m/w/d) der Technischen Leitung der Tollwood Festivals, Tollwood GmbH",
+    "employer": "Tollwood GmbH",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2375772-S",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Dokumentarist/-in",
+    "employer": "Staatliche Museumsagentur Bayern",
+    "link": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20268-01511241-S",
     "category": "Other"
   },
   {
-    "title": "Ausbildung zur Fachkraft für Veranstaltungstechnik (w/m/d)",
+    "title": "Bühnentechniker*in (w/m/d)",
     "employer": "Münchner Kammerspiele",
     "link": "https://www.muenchner-kammerspiele.de/simple/1177-jobs",
     "category": "Stage and Event Technology"
   },
   {
-    "title": "Abteilungsleitung Veranstaltungstechnik (w/m/d)",
+    "title": "Metallbaumeister*in / Leiter*in der Schlosserwerkstatt (w/m/d)",
     "employer": "Münchner Kammerspiele",
-    "link": "https://karriere-muenchen.jobs.hr.cloud.sap/job/Abteilungsleitung-Veranstaltungstechnik-%28wmd%29/41343-de_DE/",
+    "link": "https://www.muenchner-kammerspiele.de/simple/1177-jobs",
+    "category": "Stage and Event Technology"
+  },
+  {
+    "title": "Ausbildung zur Fachkraft für Veranstaltungstechnik (w/m/d)",
+    "employer": "Münchner Kammerspiele",
+    "link": "https://www.muenchner-kammerspiele.de/simple/1177-jobs",
     "category": "Stage and Event Technology"
   },
   {
@@ -558,33 +498,183 @@
     "category": "Stage and Event Technology"
   },
   {
-    "title": "Sachbearbeiter*in Einkauf (w/m/d)",
-    "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/27065223/sachbearbeiter-in-einkauf-w-m-d1",
+    "title": "Controller (w/m/d)",
+    "employer": "Gasteig",
+    "link": "https://gasteig.mana-jobs.de/13771-controller_w_m_d",
     "category": "Legal and Financial"
   },
   {
-    "title": "Auszubildende zum/zur Fachinformatiker*in (m/w/d) für Systemintegration",
-    "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/27061670/ausbildungfachinformatik",
-    "category": "IT and Digital"
-  },
-  {
-    "title": "Mitarbeiter*in im Drittmittelmanagement",
-    "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/job-2f35ff33a3428416cd702097b088ee1d",
-    "category": "Legal and Financial"
-  },
-  {
-    "title": "Doktorandenstellen in „Gravity at the Extreme“",
-    "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/27063358/doktorandenstellen-in-gravity-at-the-extreme",
+    "title": "Senior AI Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114857/",
     "category": "Other"
   },
   {
-    "title": "Sachbearbeitung Drittmittel (m/w/d)",
+    "title": "Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114854/",
+    "category": "Other"
+  },
+  {
+    "title": "Packaging Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114844/",
+    "category": "Other"
+  },
+  {
+    "title": "Junior AI Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114829/",
+    "category": "Other"
+  },
+  {
+    "title": "Junior Grafikdesigner",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114828/",
+    "category": "Other"
+  },
+  {
+    "title": "Senior UX/UI Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114809/",
+    "category": "Other"
+  },
+  {
+    "title": "Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114796/",
+    "category": "Other"
+  },
+  {
+    "title": "Grafikdesigner",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114756/",
+    "category": "Other"
+  },
+  {
+    "title": "Art Director",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114753/",
+    "category": "Other"
+  },
+  {
+    "title": "Senior Industriedesigner",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114752/",
+    "category": "Other"
+  },
+  {
+    "title": "Senior Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114770/",
+    "category": "Other"
+  },
+  {
+    "title": "Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114743/",
+    "category": "Other"
+  },
+  {
+    "title": "Grafikdesigner",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114727/",
+    "category": "Other"
+  },
+  {
+    "title": "Product Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114708/",
+    "category": "Other"
+  },
+  {
+    "title": "Senior UX/UI Design",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114687/",
+    "category": "Other"
+  },
+  {
+    "title": "Mediengestalter",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114673/",
+    "category": "Other"
+  },
+  {
+    "title": "Digital Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114669/",
+    "category": "Other"
+  },
+  {
+    "title": "Art Director",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114617/",
+    "category": "Other"
+  },
+  {
+    "title": "Senior Visual & Motion Designer",
+    "employer": "Design made in Germany",
+    "link": "https://www.designmadeingermany.de/jobs/114606/",
+    "category": "Other"
+  },
+  {
+    "title": "Mediengestalter:in Digital & Print",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/mediengestalter-mwd/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Trainee (m/w/d) Brand & Corporate Communications",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/trainee-communications/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Werkstudent:in Kommunikation",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/werkstudent-mwd/",
+    "category": "Communication, PR and Press"
+  },
+  {
+    "title": "Praktikant:in Kommunikation",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/praktikum-kommunikation/",
+    "category": "Other"
+  },
+  {
+    "title": "Praktikant:in HR & Employer Branding",
+    "employer": "LHLK",
+    "link": "https://lhlk.de/jobs/praktikantin-hr-mwd/",
+    "category": "Other"
+  },
+  {
+    "title": "Ausbildung zur/zum Kauffrau/Kaufmann für Büromanagement (m/w/d)",
     "employer": "Max-Planck-Gesellschaft",
-    "link": "https://www.mpg.de/27062936/sachbearbeitungdrittmittel-m-w-d",
+    "link": "https://www.mpg.de/27091697/ausbildung-zur-zum-kauffrau-kaufmann-fuer-bueromanagement-m-w-d1",
+    "category": "Other"
+  },
+  {
+    "title": "Elektriker*in – Energie- und Gebäudetechnik (m/w/d)",
+    "employer": "Max-Planck-Gesellschaft",
+    "link": "https://www.mpg.de/27072127/elektriker-in-energie-und-gebaeudetechnik-m-w-d1",
+    "category": "Other"
+  },
+  {
+    "title": "Anlagenmechaniker*in HLSK (m/w/d)",
+    "employer": "Max-Planck-Gesellschaft",
+    "link": "https://www.mpg.de/27072067/anlagenmechaniker-in-hlsk-m-w-d1",
+    "category": "Other"
+  },
+  {
+    "title": "Promotionsstellen in den Bereichen Streuamplituden und Quantengravitation",
+    "employer": "Max-Planck-Gesellschaft",
+    "link": "https://www.mpg.de/27091138/promotionsstellen-in-den-bereichen-streuamplituden-und-quantengravitation",
+    "category": "Other"
+  },
+  {
+    "title": "Juristische*n Referent*in für Datenschutzrecht",
+    "employer": "Max-Planck-Gesellschaft",
+    "link": "https://www.mpg.de/job-ff4826ea992d75fa1d56099dafa5672a",
     "category": "Legal and Financial"
   },
   {
